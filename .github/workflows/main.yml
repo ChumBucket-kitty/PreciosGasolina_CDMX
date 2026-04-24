@@ -1,0 +1,28 @@
+name: Gas Price API Sync
+on:
+  schedule:
+    - cron: '0 13 * * *' # 7:00 AM hora CDMX
+  workflow_dispatch: # Botón para correrlo manual
+
+jobs:
+  update-api:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run processor
+        run: python scripts/update_gas_api.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'API Bot'
+          git config --global user.email 'bot@github.com'
+          git add gas_api_cdmx.json
+          git commit -m "Update Gas API Data - $(date)" || exit 0
+          git push
