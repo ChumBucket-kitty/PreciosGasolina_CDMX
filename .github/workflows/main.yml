@@ -1,8 +1,9 @@
 name: Gas Price API Sync
 on:
   schedule:
-    - cron: '0 13 * * *' # 7:00 AM hora CDMX
-  workflow_dispatch: # Botón para correrlo manual
+    # 08:00 AM CDMX es 14:00 UTC
+    - cron: '0 14 * * *' 
+  workflow_dispatch:
 
 jobs:
   update-api:
@@ -10,19 +11,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
       - name: Install dependencies
-        run: pip install requests
+        # Añadimos pytz para el manejo de la zona horaria en el script
+        run: pip install requests pytz
       - name: Run processor
         run: python scripts/update_gas_api.py
       - name: Commit and Push
         run: |
-          git config --global user.name 'API Bot'
+          git config --global user.name 'API Bot CDMX'
           git config --global user.email 'bot@github.com'
           git add gas_api_cdmx.json
-          git commit -m "Update Gas API Data - $(date)" || exit 0
+          git commit -m "Sync Precios CDMX - $(date)" || exit 0
           git push
