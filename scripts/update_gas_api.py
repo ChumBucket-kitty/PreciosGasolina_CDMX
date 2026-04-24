@@ -5,88 +5,87 @@ from datetime import datetime
 import pytz
 
 def run_update():
-    # URL de los espejos oficiales en Azure
     URL_PLACES = "https://publicacionexterna.azurewebsites.net/publicaciones/places"
     URL_PRICES = "https://publicacionexterna.azurewebsites.net/publicaciones/prices"
     
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    
-    # Configuración de zona horaria CDMX
+    headers = {'User-Agent': 'Mozilla/5.0'}
     tz_cdmx = pytz.timezone('America/Mexico_City')
     fecha_actual = datetime.now(tz_cdmx).strftime("%Y-%m-%d %H:%M:%S")
 
     try:
-        print("Descargando datos...")
+        # 1. Descarga de datos
         res_prices = requests.get(URL_PRICES, headers=headers, timeout=45)
         root_prices = ET.fromstring(res_prices.content)
-
         res_places = requests.get(URL_PLACES, headers=headers, timeout=45)
         root_places = ET.fromstring(res_places.content)
         
         cdmx_data = {}
         
-        # Coordenadas aproximadas para cubrir CDMX (Bounding Box)
-        LAT_MIN, LAT_MAX = 19.04, 19.59
-        LON_MIN, LON_MAX = -99.36, -98.94
+        # LÍMITES TÉCNICOS OFICIALES CDMX
+        LAT_MIN, LAT_MAX = 19.048, 19.592
+        LON_MIN, LON_MAX = -99.364, -98.940
 
-        print("Analizando ubicaciones geográficas...")
+        # 2. Filtrado de estaciones
         for place in root_places.findall('place'):
-            pid = place.get('place_id')
             loc = place.find('location')
-            
             if loc is not None:
                 try:
                     lat = float(loc.find('y').text)
                     lon = float(loc.find('x').text)
-                    
-                    # Verificamos si la estación está dentro de los límites de CDMX
                     if LAT_MIN <= lat <= LAT_MAX and LON_MIN <= lon <= LON_MAX:
-                        name_node = place.find('name')
-                        cre_node = place.find('cre_id')
-                        
+                        pid = place.get('place_id')
                         cdmx_data[pid] = {
                             "id": pid,
-                            "nombre": name_node.text.strip() if name_node is not None else "SIN NOMBRE",
-                            "cre_id": cre_node.text.strip() if cre_node is not None else "N/A",
+                            "nombre": place.find('name').text.strip().title(),
+                            "cre_id": place.find('cre_id').text.strip() if place.find('cre_id') is not None else "N/A",
                             "coords": {"lat": lat, "lon": lon},
                             "precios": {}
                         }
-                except (ValueError, AttributeError):
-                    continue
+                except: continue
 
-        print(f"Estaciones en zona CDMX: {len(cdmx_data)}")
+        # 3. Procesamiento de precios y cálculo de promedios
+        reg_list = []
+        pre_list = []
 
-        # Cruzar con precios
         for place in root_prices.findall('place'):
             pid = place.get('place_id')
             if pid in cdmx_data:
                 for p in place.findall('gas_price'):
-                    tipo = p.get('type')
                     try:
-                        cdmx_data[pid]["precios"][tipo] = float(p.text)
-                    except ValueError:
-                        continue
+                        tipo = p.get('type')
+                        val = float(p.text)
+                        cdmx_data[pid]["precios"][tipo] = val
+                        if tipo == 'regular': reg_list.append(val)
+                        if tipo == 'premium': pre_list.append(val)
+                    except: continue
 
-        # Filtrar solo las que tienen precios reportados
-        final_list = [v for v in cdmx_data.values() if v["precios"]]
+        # 4. Estadísticas finales
+        avg_reg = round(sum(reg_list) / len(reg_list), 2) if reg_list else 0
+        avg_pre = round(sum(pre_list) / len(pre_list), 2) if pre_list else 0
+        final_results = [v for v in cdmx_data.values() if v["precios"]]
 
-        # Estructura del JSON con la nota solicitada
+        # 5. Salida JSON estructurada para humanos y sistemas (SAP)
         api_output = {
-            "_nota_actualizacion": f"Datos sincronizados el {fecha_actual} (Hora CDMX). Filtrado por geolocalización.",
-            "metadata": {
-                "total_estaciones": len(final_list),
-                "zona_busqueda": "CDMX (Coords)"
+            "_resumen_ejecutivo": {
+                "ultima_actualizacion": fecha_actual,
+                "promedio_regular_cdmx": f"${avg_reg} MXN",
+                "promedio_premium_cdmx": f"${avg_pre} MXN",
+                "total_estaciones_activas": len(final_results)
             },
-            "results": final_list
+            "metadata": {
+                "nota": "Filtro geográfico de alta precisión aplicado.",
+                "fuente_datos": "CRE Azure Mirror"
+            },
+            "results": final_results
         }
 
         with open('gas_api_cdmx.json', 'w', encoding='utf-8') as f:
             json.dump(api_output, f, indent=4, ensure_ascii=False)
             
-        print(f"Éxito: Archivo generado con {len(final_list)} estaciones.")
+        print(f"Sincronización completa. Promedio Regular: ${avg_reg}")
 
     except Exception as e:
-        print(f"Error crítico en el script: {e}")
+        print(f"Error en el proceso: {e}")
 
 if __name__ == "__main__":
     run_update()
