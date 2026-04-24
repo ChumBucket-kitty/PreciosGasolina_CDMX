@@ -66,7 +66,7 @@ def run_update():
 
         # 5. Salida JSON estructurada para humanos y sistemas (SAP)
         api_output = {
-            "_resumen_ejecutivo": {
+            "_resumen_rapido": {
                 "ultima_actualizacion": fecha_actual,
                 "promedio_regular_cdmx": f"${avg_reg} MXN",
                 "promedio_premium_cdmx": f"${avg_pre} MXN",
