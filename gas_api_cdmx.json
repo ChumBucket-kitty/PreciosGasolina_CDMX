@@ -1,6 +1,6 @@
 {
     "_resumen_rapido": {
-        "ultima_actualizacion": "2026-05-03 08:43:15",
+        "ultima_actualizacion": "2026-05-04 09:56:03",
         "promedio_regular_cdmx": "$23.75 MXN",
         "promedio_premium_cdmx": "$28.39 MXN",
         "total_estaciones_activas": 679
@@ -12,7 +12,7 @@
     "results": [
         {
             "id": "2054",
-            "nombre": "Servicio Sevilla S De Rl De Cv",
+            "nombre": "Servicio Sevilla S.A. De C.V.",
             "cre_id": "PL/868/EXP/ES/2015",
             "coords": {
                 "lat": 19.58616,
@@ -25,7 +25,7 @@
         },
         {
             "id": "2071",
-            "nombre": "Gasomac S De Rl De Cv",
+            "nombre": "Gasomac S.A. De C.V.",
             "cre_id": "PL/650/EXP/ES/2015",
             "coords": {
                 "lat": 19.3231,
@@ -39,7 +39,7 @@
         },
         {
             "id": "2072",
-            "nombre": "Autoconsumo Los Pinos S De Rl De Cv",
+            "nombre": "Autoconsumo Los Pinos S.A. De C.V.",
             "cre_id": "PL/866/EXP/ES/2015",
             "coords": {
                 "lat": 19.30205,
@@ -52,7 +52,7 @@
         },
         {
             "id": "2112",
-            "nombre": "Servicio Vega Atizapan S De Rl De Cv",
+            "nombre": "Servicio Vega Atizapán S.A. De C.V.",
             "cre_id": "PL/879/EXP/ES/2015",
             "coords": {
                 "lat": 19.55827,
@@ -66,7 +66,7 @@
         },
         {
             "id": "2137",
-            "nombre": "Gasolineria Real Madeira Sa De Cv",
+            "nombre": "Gasolinería Real Madeira S.A. De C.V.",
             "cre_id": "PL/835/EXP/ES/2015",
             "coords": {
                 "lat": 19.57863,
@@ -80,7 +80,7 @@
         },
         {
             "id": "2142",
-            "nombre": "Gasolinería Itálica, S.A. De C.V.",
+            "nombre": "Gasolinería Itálica S.A. De C.V.",
             "cre_id": "PL/632/EXP/ES/2015",
             "coords": {
                 "lat": 19.53231,
@@ -94,7 +94,7 @@
         },
         {
             "id": "2153",
-            "nombre": "Inmobiliaria Ravs, S.A. De C.V.",
+            "nombre": "Inmobiliaria Ravs S.A. De C.V.",
             "cre_id": "PL/695/EXP/ES/2015",
             "coords": {
                 "lat": 19.37504,
@@ -108,7 +108,7 @@
         },
         {
             "id": "2157",
-            "nombre": "Gasolineria Mexico - Ajusco 1 S De Rl De Cv",
+            "nombre": "Gasolinería México - Ajusco 1 S.A. De C.V.",
             "cre_id": "PL/821/EXP/ES/2015",
             "coords": {
                 "lat": 19.2289,
@@ -122,7 +122,7 @@
         },
         {
             "id": "2176",
-            "nombre": "Petromax Sa De Cv",
+            "nombre": "Petromax S.A. De C.V.",
             "cre_id": "PL/435/EXP/ES/2015",
             "coords": {
                 "lat": 19.47735,
@@ -134,7 +134,7 @@
         },
         {
             "id": "2186",
-            "nombre": "Estación De Servicio Marbella, S.A. De C.V.",
+            "nombre": "Estación De Servicio Marbella S.A. De C.V.",
             "cre_id": "PL/692/EXP/ES/2015",
             "coords": {
                 "lat": 19.54896,
@@ -148,7 +148,7 @@
         },
         {
             "id": "2190",
-            "nombre": "Petromax Sa De Cv",
+            "nombre": "Petromax S.A. De C.V.",
             "cre_id": "PL/574/EXP/ES/2015",
             "coords": {
                 "lat": 19.54947,
@@ -162,7 +162,7 @@
         },
         {
             "id": "2267",
-            "nombre": "Petromax Sa De Cv",
+            "nombre": "Petromax S.A. De C.V.",
             "cre_id": "PL/537/EXP/ES/2015",
             "coords": {
                 "lat": 19.47922,
@@ -175,7 +175,7 @@
         },
         {
             "id": "2272",
-            "nombre": "Gasolineria Magnolias S De Rl De Cv",
+            "nombre": "Gasolinería Magnolias S.A. De C.V.",
             "cre_id": "PL/631/EXP/ES/2015",
             "coords": {
                 "lat": 19.37437,
@@ -189,7 +189,7 @@
         },
         {
             "id": "2294",
-            "nombre": "Gasolineria Lomalinda 0194 Sa De Cv",
+            "nombre": "Gasolineria Lomalinda 0194 S.A. De C.V.",
             "cre_id": "PL/843/EXP/ES/2015",
             "coords": {
                 "lat": 19.42066,
@@ -202,7 +202,7 @@
         },
         {
             "id": "2310",
-            "nombre": "Operadora Santa Elena S De Rl De Cv",
+            "nombre": "Operadora Sta. Elena S.A. De C.V.",
             "cre_id": "PL/694/EXP/ES/2015",
             "coords": {
                 "lat": 19.2257,
@@ -216,7 +216,7 @@
         },
         {
             "id": "2316",
-            "nombre": "Servicio La Guitarra S De Rl De Cv",
+            "nombre": "Servicio La Guitarra S.A. De C.V.",
             "cre_id": "PL/652/EXP/ES/2015",
             "coords": {
                 "lat": 19.44123,
@@ -229,7 +229,7 @@
         },
         {
             "id": "2319",
-            "nombre": "Seven Service Sa De Cv",
+            "nombre": "Seven Service S.A. De C.V.",
             "cre_id": "PL/895/EXP/ES/2015",
             "coords": {
                 "lat": 19.4423,
@@ -237,12 +237,12 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 28.39
+                "premium": 28.79
             }
         },
         {
             "id": "2325",
-            "nombre": "Petromax Sa De Cv",
+            "nombre": "Petromax S.A. De C.V.",
             "cre_id": "PL/430/EXP/ES/2015",
             "coords": {
                 "lat": 19.54421,
@@ -256,7 +256,7 @@
         },
         {
             "id": "2334",
-            "nombre": "Estacion De Servicio Corceles Sa De Cv",
+            "nombre": "Estación De Servicio Corceles S.A. De C.V.",
             "cre_id": "PL/905/EXP/ES/2015",
             "coords": {
                 "lat": 19.36607,
@@ -270,7 +270,7 @@
         },
         {
             "id": "2342",
-            "nombre": "Servicio Geyser S De Rl De Cv",
+            "nombre": "Servicio Geyser S.A. De C.V.",
             "cre_id": "PL/855/EXP/ES/2015",
             "coords": {
                 "lat": 19.36047,
@@ -283,7 +283,7 @@
         },
         {
             "id": "2344",
-            "nombre": "Petromax Sa De Cv",
+            "nombre": "Petromax S.A. De C.V.",
             "cre_id": "PL/431/EXP/ES/2015",
             "coords": {
                 "lat": 19.52987,
@@ -296,7 +296,7 @@
         },
         {
             "id": "2353",
-            "nombre": "Gasolineria Colegio Militar S De Rl De Cv",
+            "nombre": "Gasolinería Colegio Militar S.A. De C.V.",
             "cre_id": "PL/662/EXP/ES/2015",
             "coords": {
                 "lat": 19.26855,
@@ -310,7 +310,7 @@
         },
         {
             "id": "2390",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Gpdc Estaciones De Servicio, S. A. De C. V.",
             "cre_id": "PL/787/EXP/ES/2015",
             "coords": {
                 "lat": 19.4153,
@@ -323,7 +323,7 @@
         },
         {
             "id": "2409",
-            "nombre": "Servicio Agua Brava, S.A. De C.V.",
+            "nombre": "Servicio Agua Brava S.A. De C.V.",
             "cre_id": "PL/881/EXP/ES/2015",
             "coords": {
                 "lat": 19.30831,
@@ -337,7 +337,7 @@
         },
         {
             "id": "2411",
-            "nombre": "Petromax Sa De Cv",
+            "nombre": "Petromax S.A. De C.V.",
             "cre_id": "PL/615/EXP/ES/2015",
             "coords": {
                 "lat": 19.38079,
@@ -350,7 +350,7 @@
         },
         {
             "id": "2441",
-            "nombre": "Fuente De Carga Frigga S De Rl De Cv",
+            "nombre": "Fuente De Carga Frigga S.A. De C.V.",
             "cre_id": "PL/625/EXP/ES/2015",
             "coords": {
                 "lat": 19.40762,
@@ -364,7 +364,7 @@
         },
         {
             "id": "2442",
-            "nombre": "Petromax Sa De Cv",
+            "nombre": "Petromax S.A. De C.V.",
             "cre_id": "PL/484/EXP/ES/2015",
             "coords": {
                 "lat": 19.56659,
@@ -377,7 +377,7 @@
         },
         {
             "id": "2444",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energéticos S.A. De C.V.",
             "cre_id": "PL/882/EXP/ES/2015",
             "coords": {
                 "lat": 19.31672,
@@ -390,7 +390,7 @@
         },
         {
             "id": "2477",
-            "nombre": "Gasolineria Mallorca S De Rl De Cv",
+            "nombre": "Gasolineria Mallorca S.A. De C.V.",
             "cre_id": "PL/691/EXP/ES/2015",
             "coords": {
                 "lat": 19.25752,
@@ -404,7 +404,7 @@
         },
         {
             "id": "2483",
-            "nombre": "Gasolinería Cúpula, S.A. De C.V.",
+            "nombre": "Gasolineria Cúpula S.A. De C.V.",
             "cre_id": "PL/634/EXP/ES/2015",
             "coords": {
                 "lat": 19.57208,
@@ -418,7 +418,7 @@
         },
         {
             "id": "2487",
-            "nombre": "Estacion De Servicio Rancho Verde S De Rl De Cv",
+            "nombre": "Estación De Servicio Rancho Verde S.A. De C.V.",
             "cre_id": "PL/836/EXP/ES/2015",
             "coords": {
                 "lat": 19.56669,
@@ -432,7 +432,7 @@
         },
         {
             "id": "2499",
-            "nombre": "Mini Servicio Jet Sa De Cv",
+            "nombre": "Mini Servicio Jet S.A. De C.V.",
             "cre_id": "PL/659/EXP/ES/2015",
             "coords": {
                 "lat": 19.33291,
@@ -445,7 +445,7 @@
         },
         {
             "id": "2523",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energeticos, S.A. De C.V.",
             "cre_id": "PL/784/EXP/ES/2015",
             "coords": {
                 "lat": 19.35028,
@@ -459,7 +459,7 @@
         },
         {
             "id": "2531",
-            "nombre": "Petromax Sa De Cv",
+            "nombre": "Petromax S.A. De C.V.",
             "cre_id": "PL/472/EXP/ES/2015",
             "coords": {
                 "lat": 19.3335,
@@ -472,7 +472,7 @@
         },
         {
             "id": "2549",
-            "nombre": "Operadora Alianza De Estaciones De Servicio Sadecv",
+            "nombre": "Operadora Alianza De Estaciones De Servicio S.A. De C.V.",
             "cre_id": "PL/628/EXP/ES/2015",
             "coords": {
                 "lat": 19.38935,
@@ -486,7 +486,7 @@
         },
         {
             "id": "2569",
-            "nombre": "Gasolineria Malaga S De Rl De Cv",
+            "nombre": "Gasolineria Malaga S.A. De C.V.",
             "cre_id": "PL/653/EXP/ES/2015",
             "coords": {
                 "lat": 19.57203,
@@ -500,7 +500,7 @@
         },
         {
             "id": "2590",
-            "nombre": "Servicio Seis Giar Sa De Cv",
+            "nombre": "Servicio Seis Giar S. A. De C. V.",
             "cre_id": "PL/1405/EXP/ES/2015",
             "coords": {
                 "lat": 19.48226,
@@ -513,7 +513,7 @@
         },
         {
             "id": "2619",
-            "nombre": "Altavilla Sa De Cv",
+            "nombre": "Altavilla S.A. De C.V.",
             "cre_id": "PL/1499/EXP/ES/2015",
             "coords": {
                 "lat": 19.51123,
@@ -527,7 +527,7 @@
         },
         {
             "id": "2638",
-            "nombre": "Operadora De Servicios Reforma Sa De Cv",
+            "nombre": "Operadora De Servicios Reforma S.A. De C.V.",
             "cre_id": "PL/1354/EXP/ES/2015",
             "coords": {
                 "lat": 19.38742,
@@ -540,7 +540,7 @@
         },
         {
             "id": "2655",
-            "nombre": "Servicio Gasget Sa De Cv",
+            "nombre": "Servicio Gasget S.A. De C.V.",
             "cre_id": "PL/1465/EXP/ES/2015",
             "coords": {
                 "lat": 19.52529,
@@ -554,7 +554,7 @@
         },
         {
             "id": "2663",
-            "nombre": "Operadora De Estaciones Gl S De Rl De Cv",
+            "nombre": "Operadora De Estaciones Gl, S.A. De C.V.",
             "cre_id": "PL/1401/EXP/ES/2015",
             "coords": {
                 "lat": 19.41709,
@@ -581,7 +581,7 @@
         },
         {
             "id": "2671",
-            "nombre": "Servicio Lomas De Vista Hermosa Sa De Cv",
+            "nombre": "Servicio Lomas De Vista Hermosa S.A. De C.V.",
             "cre_id": "PL/1358/EXP/ES/2015",
             "coords": {
                 "lat": 19.35361,
@@ -594,7 +594,7 @@
         },
         {
             "id": "2675",
-            "nombre": "Operadora Ermita Sa De Cv",
+            "nombre": "Operadora Ermita S.A. De C.V.",
             "cre_id": "PL/1447/EXP/ES/2015",
             "coords": {
                 "lat": 19.35576,
@@ -608,7 +608,7 @@
         },
         {
             "id": "2686",
-            "nombre": "Estacion De Servicio Lazio Sa De Cv",
+            "nombre": "Estación De Servicio Lazio, S.A. De C.V.",
             "cre_id": "PL/1419/EXP/ES/2015",
             "coords": {
                 "lat": 19.41787,
@@ -622,7 +622,7 @@
         },
         {
             "id": "2689",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Gpdc Estaciones De Servicio, S. A. De C. V.",
             "cre_id": "PL/1466/EXP/ES/2015",
             "coords": {
                 "lat": 19.38143,
@@ -635,7 +635,7 @@
         },
         {
             "id": "2691",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Gpdc Estaciones De Servicio, S. A. De C. V.",
             "cre_id": "PL/1464/EXP/ES/2015",
             "coords": {
                 "lat": 19.52043,
@@ -649,7 +649,7 @@
         },
         {
             "id": "2703",
-            "nombre": "Servicio Churubusco Sa De Cv",
+            "nombre": "Servicio Churubusco S.A. De C.V.",
             "cre_id": "PL/1403/EXP/ES/2015",
             "coords": {
                 "lat": 19.3508,
@@ -663,7 +663,7 @@
         },
         {
             "id": "2709",
-            "nombre": "Servicio Lomas De Las Palmas Sa De Cv",
+            "nombre": "Servicio Lomas De Las Palmas S.A. De C.V.",
             "cre_id": "PL/1356/EXP/ES/2015",
             "coords": {
                 "lat": 19.39963,
@@ -676,7 +676,7 @@
         },
         {
             "id": "2715",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Gpdc Estaciones De Servicio, S. A. De C. V.",
             "cre_id": "PL/1444/EXP/ES/2015",
             "coords": {
                 "lat": 19.43496,
@@ -689,7 +689,7 @@
         },
         {
             "id": "2724",
-            "nombre": "Servicio Fento Sa De Cv",
+            "nombre": "Servicio Fento S.A. De C.V.",
             "cre_id": "PL/1434/EXP/ES/2015",
             "coords": {
                 "lat": 19.40932,
@@ -703,7 +703,7 @@
         },
         {
             "id": "2736",
-            "nombre": "Servicio Lomas Madin Sa De Cv",
+            "nombre": "Servicio Lomas Madin S.A. De C.V.",
             "cre_id": "PL/1360/EXP/ES/2015",
             "coords": {
                 "lat": 19.54629,
@@ -716,7 +716,7 @@
         },
         {
             "id": "2743",
-            "nombre": "Servicio Begonia Sa De Cv",
+            "nombre": "Servicio Begonia S.A. De C.V.",
             "cre_id": "PL/1467/EXP/ES/2015",
             "coords": {
                 "lat": 19.46247,
@@ -729,7 +729,7 @@
         },
         {
             "id": "2761",
-            "nombre": "Servicio Pointer S De Rl De Cv",
+            "nombre": "Servicio Pointer S.A. De C.V.",
             "cre_id": "PL/1314/EXP/ES/2015",
             "coords": {
                 "lat": 19.36558,
@@ -742,7 +742,7 @@
         },
         {
             "id": "2763",
-            "nombre": "Super Servicio Gran Premio Sa De Cv",
+            "nombre": "Súper Servicio Gran Premio S.A. De C.V.",
             "cre_id": "PL/1145/EXP/ES/2015",
             "coords": {
                 "lat": 19.35926,
@@ -769,7 +769,7 @@
         },
         {
             "id": "2782",
-            "nombre": "Gasolinería Coacalco, S.A. De C.V.",
+            "nombre": "Gasolinería Coacalco S.A. De C.V.",
             "cre_id": "PL/953/EXP/ES/2015",
             "coords": {
                 "lat": 19.49376,
@@ -783,7 +783,7 @@
         },
         {
             "id": "2794",
-            "nombre": "Servicio Ordaz Y Caraballo Sa",
+            "nombre": "Servicio Ordaz Y Caraballo S. A.",
             "cre_id": "PL/1211/EXP/ES/2015",
             "coords": {
                 "lat": 19.47119,
@@ -796,7 +796,7 @@
         },
         {
             "id": "2799",
-            "nombre": "Estacion De Servicio Gaalbo Sa De Cv",
+            "nombre": "Estación De Servicio Gaalbo S.A. De C.V.",
             "cre_id": "PL/978/EXP/ES/2015",
             "coords": {
                 "lat": 19.44335,
@@ -810,7 +810,7 @@
         },
         {
             "id": "2803",
-            "nombre": "Servicio J Gutierrez Sa De Cv",
+            "nombre": "Servicio J Gutierrez S.A. De C.V.",
             "cre_id": "PL/1316/EXP/ES/2015",
             "coords": {
                 "lat": 19.34644,
@@ -824,7 +824,7 @@
         },
         {
             "id": "2804",
-            "nombre": "Unidad Leo Sa",
+            "nombre": "Unidad Leo S. A.",
             "cre_id": "PL/975/EXP/ES/2015",
             "coords": {
                 "lat": 19.28072,
@@ -836,7 +836,7 @@
         },
         {
             "id": "2807",
-            "nombre": "Estacion De Servicio Nuevo Milenio S De Rl De Cv",
+            "nombre": "Estación De Servicio Nuevo Milenio S.A. De C.V.",
             "cre_id": "PL/1000/EXP/ES/2015",
             "coords": {
                 "lat": 19.44235,
@@ -850,7 +850,7 @@
         },
         {
             "id": "2808",
-            "nombre": "Estacion De Servicio Andalucia S De Rl De Cv",
+            "nombre": "Estación De Servicio Andalucía S.A. De C.V.",
             "cre_id": "PL/1001/EXP/ES/2015",
             "coords": {
                 "lat": 19.59132,
@@ -864,7 +864,7 @@
         },
         {
             "id": "2818",
-            "nombre": "Servicio Daniela Sa De Cv",
+            "nombre": "Servicio Daniela S.A. De C.V.",
             "cre_id": "PL/941/EXP/ES/2015",
             "coords": {
                 "lat": 19.38429,
@@ -878,7 +878,7 @@
         },
         {
             "id": "2820",
-            "nombre": "Estacion De Servicio Estadio, S.A. De C.V. (E0057)",
+            "nombre": "Estación De Servicio Estadio S.A. De C.V.",
             "cre_id": "PL/1012/EXP/ES/2015",
             "coords": {
                 "lat": 19.41204,
@@ -891,7 +891,7 @@
         },
         {
             "id": "2825",
-            "nombre": "Servicio Cipreses, S.A. De C.V.",
+            "nombre": "Servicio Cipreses S.A. De C.V.",
             "cre_id": "PL/1002/EXP/ES/2015",
             "coords": {
                 "lat": 19.30509,
@@ -905,7 +905,7 @@
         },
         {
             "id": "2826",
-            "nombre": "La Vicentina Sa De Cv",
+            "nombre": "La Vicentina S.A. De C.V.",
             "cre_id": "PL/985/EXP/ES/2015",
             "coords": {
                 "lat": 19.36429,
@@ -918,7 +918,7 @@
         },
         {
             "id": "2829",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Gpdc Estaciones De Servicio, S. A. De C. V.",
             "cre_id": "PL/963/EXP/ES/2015",
             "coords": {
                 "lat": 19.36459,
@@ -931,7 +931,7 @@
         },
         {
             "id": "2860",
-            "nombre": "Servicio Jopel Sa De Cv",
+            "nombre": "Servicio Jopel S.A. De C.V.",
             "cre_id": "PL/988/EXP/ES/2015",
             "coords": {
                 "lat": 19.4892,
@@ -945,7 +945,7 @@
         },
         {
             "id": "2874",
-            "nombre": "Servicio Lomas De Sotelo Sa De Cv",
+            "nombre": "Servicio Lomas De Sotelo S.A. De C.V.",
             "cre_id": "PL/1142/EXP/ES/2015",
             "coords": {
                 "lat": 19.44639,
@@ -958,7 +958,7 @@
         },
         {
             "id": "2883",
-            "nombre": "Estacion De Servicio Paraiso S De Rl De Cv",
+            "nombre": "Estación De Servicio Paraíso S.A. De C.V.",
             "cre_id": "PL/973/EXP/ES/2015",
             "coords": {
                 "lat": 19.45914,
@@ -972,7 +972,7 @@
         },
         {
             "id": "2884",
-            "nombre": "Grafel Sa",
+            "nombre": "Grafel S. A.",
             "cre_id": "PL/1308/EXP/ES/2015",
             "coords": {
                 "lat": 19.46442,
@@ -986,7 +986,7 @@
         },
         {
             "id": "2885",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Gpdc Estaciones De Servicio, S. A. De C. V.",
             "cre_id": "PL/1144/EXP/ES/2015",
             "coords": {
                 "lat": 19.36013,
@@ -999,7 +999,7 @@
         },
         {
             "id": "2890",
-            "nombre": "Servicio Marvic Sa De Cv",
+            "nombre": "Servicio Marvic S.A. De C.V.",
             "cre_id": "PL/1125/EXP/ES/2015",
             "coords": {
                 "lat": 19.39671,
@@ -1013,7 +1013,7 @@
         },
         {
             "id": "2893",
-            "nombre": "Operadora Lilas Sa De Cv",
+            "nombre": "Operadora Lilas S.A. De C.V.",
             "cre_id": "PL/1098/EXP/ES/2015",
             "coords": {
                 "lat": 19.38675,
@@ -1026,7 +1026,7 @@
         },
         {
             "id": "2900",
-            "nombre": "Servicio Mirlo Sa De Cv",
+            "nombre": "Servicio Mirlo S.A. De C.V.",
             "cre_id": "PL/919/EXP/ES/2015",
             "coords": {
                 "lat": 19.38331,
@@ -1039,7 +1039,7 @@
         },
         {
             "id": "2904",
-            "nombre": "Servicio Victor Hugo S De Rl De Cv",
+            "nombre": "Servicio Víctor Hugo S.A. De C.V.",
             "cre_id": "PL/1230/EXP/ES/2015",
             "coords": {
                 "lat": 19.37047,
@@ -1052,7 +1052,7 @@
         },
         {
             "id": "2909",
-            "nombre": "Servicio Iris S De Rl De Cv",
+            "nombre": "Servicio Iris S.A. De C.V.",
             "cre_id": "PL/1228/EXP/ES/2015",
             "coords": {
                 "lat": 19.52641,
@@ -1066,7 +1066,7 @@
         },
         {
             "id": "2929",
-            "nombre": "Grupo Fraba Sa De Cv",
+            "nombre": "Grupo Fraba S.A. De C.V.",
             "cre_id": "PL/942/EXP/ES/2015",
             "coords": {
                 "lat": 19.31583,
@@ -1079,7 +1079,7 @@
         },
         {
             "id": "2931",
-            "nombre": "Servicio Monte Verde S De Rl De Cv",
+            "nombre": "Servicio Monte Verde S.A. De C.V.",
             "cre_id": "PL/1054/EXP/ES/2015",
             "coords": {
                 "lat": 19.33342,
@@ -1092,7 +1092,7 @@
         },
         {
             "id": "2934",
-            "nombre": "Burbil S De Rl De Cv",
+            "nombre": "Burbil S.A. De C.V.",
             "cre_id": "PL/1223/EXP/ES/2015",
             "coords": {
                 "lat": 19.33809,
@@ -1105,7 +1105,7 @@
         },
         {
             "id": "2939",
-            "nombre": "Servicio Gasolinero Xola Sa De Cv",
+            "nombre": "Servicio Gasolinero Xola S.A. De C.V.",
             "cre_id": "PL/1156/EXP/ES/2015",
             "coords": {
                 "lat": 19.39553,
@@ -1118,7 +1118,7 @@
         },
         {
             "id": "2948",
-            "nombre": "Servicio Nevada S De Rl De Cv",
+            "nombre": "Servicio Nevada S.A. De C.V.",
             "cre_id": "PL/980/EXP/ES/2015",
             "coords": {
                 "lat": 19.42759,
@@ -1132,7 +1132,7 @@
         },
         {
             "id": "2954",
-            "nombre": "Inmobiliaria Tepepan, S.A. De C.V.",
+            "nombre": "Inmobiliaria Tepepan S.A. De C.V.",
             "cre_id": "PL/918/EXP/ES/2015",
             "coords": {
                 "lat": 19.26617,
@@ -1146,7 +1146,7 @@
         },
         {
             "id": "2959",
-            "nombre": "Servicio Agua Azul, S.A. De C.V.",
+            "nombre": "Servicio Agua Azul S.A. De C.V.",
             "cre_id": "PL/1226/EXP/ES/2015",
             "coords": {
                 "lat": 19.57963,
@@ -1159,7 +1159,7 @@
         },
         {
             "id": "2961",
-            "nombre": "Servicio La Montañesa Sa De Cv",
+            "nombre": "Servicio La Montañesa S.A. De C.V.",
             "cre_id": "PL/1023/EXP/ES/2015",
             "coords": {
                 "lat": 19.51636,
@@ -1173,7 +1173,7 @@
         },
         {
             "id": "2975",
-            "nombre": "Gasolinera El Ruedo Sa De Cv",
+            "nombre": "Gasolinera El Ruedo S.A. De C.V.",
             "cre_id": "PL/952/EXP/ES/2015",
             "coords": {
                 "lat": 19.47433,
@@ -1187,7 +1187,7 @@
         },
         {
             "id": "2982",
-            "nombre": "Grupo Anhuar Sa De Cv",
+            "nombre": "Grupo Anhuar S.A. De C.V.",
             "cre_id": "PL/986/EXP/ES/2015",
             "coords": {
                 "lat": 19.49441,
@@ -1201,7 +1201,7 @@
         },
         {
             "id": "2993",
-            "nombre": "Persimobile Sa De Cv",
+            "nombre": "Persimobile S.A. De C.V.",
             "cre_id": "PL/1063/EXP/ES/2015",
             "coords": {
                 "lat": 19.44769,
@@ -1214,7 +1214,7 @@
         },
         {
             "id": "3037",
-            "nombre": "El Pabellon Mexicano Sa De Cv",
+            "nombre": "El Pabellón Mexicano S.A. De C.V.",
             "cre_id": "PL/1140/EXP/ES/2015",
             "coords": {
                 "lat": 19.39715,
@@ -1228,7 +1228,7 @@
         },
         {
             "id": "3044",
-            "nombre": "Servicios Gasolineros Sa",
+            "nombre": "Servicios Gasolineros, S.A.",
             "cre_id": "PL/1309/EXP/ES/2015",
             "coords": {
                 "lat": 19.44324,
@@ -1241,7 +1241,7 @@
         },
         {
             "id": "3054",
-            "nombre": "Grupo Distribuidor Asociado De Energeticos Sa Decv",
+            "nombre": "Grupo Distribuidor Asociado De Energéticos S.A. De C.V.",
             "cre_id": "PL/1110/EXP/ES/2015",
             "coords": {
                 "lat": 19.39737,
@@ -1254,7 +1254,7 @@
         },
         {
             "id": "3056",
-            "nombre": "Servicio Ademe S De Rl De Cv",
+            "nombre": "Servicio Ademe S.A. De C.V.",
             "cre_id": "PL/1059/EXP/ES/2015",
             "coords": {
                 "lat": 19.46504,
@@ -1267,7 +1267,7 @@
         },
         {
             "id": "3060",
-            "nombre": "Servicio Periferico Arenal S De Rl De Cv",
+            "nombre": "Servicio Periférico Arenal S.A. De C.V.",
             "cre_id": "PL/1138/EXP/ES/2015",
             "coords": {
                 "lat": 19.28233,
@@ -1280,7 +1280,7 @@
         },
         {
             "id": "3061",
-            "nombre": "Servicio Gomasa Sa De Cv",
+            "nombre": "Servicio Gomasa S.A. De C.V.",
             "cre_id": "PL/1020/EXP/ES/2015",
             "coords": {
                 "lat": 19.52521,
@@ -1294,7 +1294,7 @@
         },
         {
             "id": "3073",
-            "nombre": "Servicio Consulado S De Rl De Cv",
+            "nombre": "Servicio Consulado S.A. De C.V.",
             "cre_id": "PL/1229/EXP/ES/2015",
             "coords": {
                 "lat": 19.45041,
@@ -1307,7 +1307,7 @@
         },
         {
             "id": "3076",
-            "nombre": "Servicio Boturini S De Rl De Cv",
+            "nombre": "Servicio Boturini S.A. De C.V.",
             "cre_id": "PL/1173/EXP/ES/2015",
             "coords": {
                 "lat": 19.41658,
@@ -1321,7 +1321,7 @@
         },
         {
             "id": "3083",
-            "nombre": "Super Servicio Diamante Sa De Cv",
+            "nombre": "Súper Servicio Diamante S.A. De C.V.",
             "cre_id": "PL/1053/EXP/ES/2015",
             "coords": {
                 "lat": 19.33334,
@@ -1335,7 +1335,7 @@
         },
         {
             "id": "3085",
-            "nombre": "Marcofan Sa De Cv",
+            "nombre": "Marcofan S.A. De C.V.",
             "cre_id": "PL/1080/EXP/ES/2015",
             "coords": {
                 "lat": 19.34729,
@@ -1349,7 +1349,7 @@
         },
         {
             "id": "3100",
-            "nombre": "Grupo Macruz Sa De Cv",
+            "nombre": "Grupo Macruz S.A. De C.V.",
             "cre_id": "PL/1006/EXP/ES/2015",
             "coords": {
                 "lat": 19.46206,
@@ -1363,7 +1363,7 @@
         },
         {
             "id": "3112",
-            "nombre": "Servicio Tres Mil, S.A. De C.V.",
+            "nombre": "Servicio Tres Mil S.A. De C.V.",
             "cre_id": "PL/1055/EXP/ES/2015",
             "coords": {
                 "lat": 19.40136,
@@ -1376,7 +1376,7 @@
         },
         {
             "id": "3114",
-            "nombre": "Servicio Raggas Sa De Cv",
+            "nombre": "Servicio Raggas S.A. De C.V.",
             "cre_id": "PL/1307/EXP/ES/2015",
             "coords": {
                 "lat": 19.4114,
@@ -1389,7 +1389,7 @@
         },
         {
             "id": "3123",
-            "nombre": "Figuer Gas Sa De Cv",
+            "nombre": "Figuer Gas S.A. De C.V.",
             "cre_id": "PL/1099/EXP/ES/2015",
             "coords": {
                 "lat": 19.4362,
@@ -1403,7 +1403,7 @@
         },
         {
             "id": "3131",
-            "nombre": "Servicio Eclipse S De Rl De Cv",
+            "nombre": "Servicio Eclipse S.A. De C.V.",
             "cre_id": "PL/1052/EXP/ES/2015",
             "coords": {
                 "lat": 19.37978,
@@ -1416,7 +1416,7 @@
         },
         {
             "id": "3135",
-            "nombre": "Mega Gasolineras Sa De Cv",
+            "nombre": "Mega Gasolineras S.A De C.V",
             "cre_id": "PL/1147/EXP/ES/2015",
             "coords": {
                 "lat": 19.40282,
@@ -1430,7 +1430,7 @@
         },
         {
             "id": "3139",
-            "nombre": "Servicio Autopista Pachuca S De Rl De Cv",
+            "nombre": "Servicio Autopista Pachuca S.A. De C.V.",
             "cre_id": "PL/1320/EXP/ES/2015",
             "coords": {
                 "lat": 19.58002,
@@ -1444,7 +1444,7 @@
         },
         {
             "id": "3142",
-            "nombre": "Aprovechamientos Y Servicios Sa De Cv",
+            "nombre": "Aprovechamientos Y Servicios S.A. De C.V.",
             "cre_id": "PL/982/EXP/ES/2015",
             "coords": {
                 "lat": 19.44126,
@@ -1457,7 +1457,7 @@
         },
         {
             "id": "3148",
-            "nombre": "Super Servicio Coapa Sa De Cv",
+            "nombre": "Súper Servicio Coapa S.A. De C.V.",
             "cre_id": "PL/981/EXP/ES/2015",
             "coords": {
                 "lat": 19.29301,
@@ -1470,7 +1470,7 @@
         },
         {
             "id": "3169",
-            "nombre": "Las Mejores Estaciones Sa De Cv",
+            "nombre": "Las Mejores Estaciones S.A De C.V",
             "cre_id": "PL/1489/EXP/ES/2015",
             "coords": {
                 "lat": 19.54436,
@@ -1483,7 +1483,7 @@
         },
         {
             "id": "3170",
-            "nombre": "Impulsora De Servicios Y Turismo Sa De Cv",
+            "nombre": "Impulsora De Servicios Y Turismo S.A. De C.V.",
             "cre_id": "PL/1343/EXP/ES/2015",
             "coords": {
                 "lat": 19.48449,
@@ -1496,7 +1496,7 @@
         },
         {
             "id": "3185",
-            "nombre": "Servicio Valle De Mexico Sa De Cv",
+            "nombre": "Servicio Valle De México S.A. De C.V.",
             "cre_id": "PL/1863/EXP/ES/2015",
             "coords": {
                 "lat": 19.3543,
@@ -1510,7 +1510,7 @@
         },
         {
             "id": "3199",
-            "nombre": "Inmobiliaria Lirca S De Rl De Cv",
+            "nombre": "Inmobiliaria Lirca S.A. De C.V.",
             "cre_id": "PL/1663/EXP/ES/2015",
             "coords": {
                 "lat": 19.31658,
@@ -1523,7 +1523,7 @@
         },
         {
             "id": "3200",
-            "nombre": "Servicio Corcel Sa De Cv",
+            "nombre": "Servicio Corcel S.A. De C.V.",
             "cre_id": "PL/1911/EXP/ES/2015",
             "coords": {
                 "lat": 19.40238,
@@ -1536,7 +1536,7 @@
         },
         {
             "id": "3205",
-            "nombre": "Servicios Avenida Sa De Cv",
+            "nombre": "Servicios Avenida S.A. De C.V.",
             "cre_id": "PL/1511/EXP/ES/2015",
             "coords": {
                 "lat": 19.44482,
@@ -1549,7 +1549,7 @@
         },
         {
             "id": "3209",
-            "nombre": "Servicio Tucan Sa De Cv",
+            "nombre": "Servicio Tucan S.A. De C.V.",
             "cre_id": "PL/1869/EXP/ES/2015",
             "coords": {
                 "lat": 19.389,
@@ -1562,7 +1562,7 @@
         },
         {
             "id": "3217",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energéticos S.A. De C.V.",
             "cre_id": "PL/1553/EXP/ES/2015",
             "coords": {
                 "lat": 19.33902,
@@ -1575,7 +1575,7 @@
         },
         {
             "id": "3219",
-            "nombre": "Desechos Biologicos E Industriales Sa De Cv",
+            "nombre": "Desechos Biológicos E Industriales S.A. De C.V.",
             "cre_id": "PL/1951/EXP/ES/2015",
             "coords": {
                 "lat": 19.55146,
@@ -1588,7 +1588,7 @@
         },
         {
             "id": "3230",
-            "nombre": "Estacion Terminal Del Norte S De Rl De Cv",
+            "nombre": "Estación Terminal Del Norte S.A. De C.V.",
             "cre_id": "PL/2017/EXP/ES/2015",
             "coords": {
                 "lat": 19.49026,
@@ -1601,7 +1601,7 @@
         },
         {
             "id": "3246",
-            "nombre": "Transtur Hofra Sa De Cv",
+            "nombre": "Transtur Hofra S.A. De C.V.",
             "cre_id": "PL/2026/EXP/ES/2015",
             "coords": {
                 "lat": 19.52476,
@@ -1615,7 +1615,7 @@
         },
         {
             "id": "3253",
-            "nombre": "Servicio Graciel Sa De Cv",
+            "nombre": "Servicio Graciel S.A. De C.V.",
             "cre_id": "PL/1916/EXP/ES/2015",
             "coords": {
                 "lat": 19.36575,
@@ -1627,7 +1627,7 @@
         },
         {
             "id": "3254",
-            "nombre": "Servicio Iman S De Rl De Cv",
+            "nombre": "Servicio Imán S.A. De C.V.",
             "cre_id": "PL/1660/EXP/ES/2015",
             "coords": {
                 "lat": 19.30743,
@@ -1640,7 +1640,7 @@
         },
         {
             "id": "3262",
-            "nombre": "Servicio Mailu Sa De Cv",
+            "nombre": "Servicio Mailu S.A. De C.V.",
             "cre_id": "PL/1881/EXP/ES/2015",
             "coords": {
                 "lat": 19.4843,
@@ -1653,7 +1653,7 @@
         },
         {
             "id": "3265",
-            "nombre": "Desechos Biologicos E Industriales Sa De Cv",
+            "nombre": "Desechos Biológicos E Industriales S.A. De C.V.",
             "cre_id": "PL/1770/EXP/ES/2015",
             "coords": {
                 "lat": 19.5579,
@@ -1667,7 +1667,7 @@
         },
         {
             "id": "3275",
-            "nombre": "Servicio San Javier Sa De Cv",
+            "nombre": "Servicio San Javier S.A. De C.V.",
             "cre_id": "PL/1629/EXP/ES/2015",
             "coords": {
                 "lat": 19.5352,
@@ -1681,7 +1681,7 @@
         },
         {
             "id": "3296",
-            "nombre": "Grupo Arkane S De Rl De Cv",
+            "nombre": "Grupo Arkane S.A. De C.V.",
             "cre_id": "PL/1662/EXP/ES/2015",
             "coords": {
                 "lat": 19.38059,
@@ -1694,7 +1694,7 @@
         },
         {
             "id": "3301",
-            "nombre": "Servicios Estrella Sa De Cv",
+            "nombre": "Servicios Estrella S.A. De C.V.",
             "cre_id": "PL/1781/EXP/ES/2015",
             "coords": {
                 "lat": 19.35403,
@@ -1708,7 +1708,7 @@
         },
         {
             "id": "3310",
-            "nombre": "Diecel Gasolinas Sa De Cv",
+            "nombre": "Diecel Gasolinas S.A. De C.V.",
             "cre_id": "PL/1696/EXP/ES/2015",
             "coords": {
                 "lat": 19.53954,
@@ -1721,7 +1721,7 @@
         },
         {
             "id": "3311",
-            "nombre": "Hr Sol Servicios Administrativos Fondo 3 Sa De Cv",
+            "nombre": "Hr Sol Servicios Administrativos Fondo 3 S.A De C.V.",
             "cre_id": "PL/1843/EXP/ES/2015",
             "coords": {
                 "lat": 19.4542,
@@ -1735,7 +1735,7 @@
         },
         {
             "id": "3320",
-            "nombre": "Dimeco Sa De Cv",
+            "nombre": "Dimeco S.A. De C.V.",
             "cre_id": "PL/1577/EXP/ES/2015",
             "coords": {
                 "lat": 19.53398,
@@ -1748,7 +1748,7 @@
         },
         {
             "id": "3344",
-            "nombre": "Servicio 2M Sa De Cv",
+            "nombre": "Servicio 2M S.A. De C.V.",
             "cre_id": "PL/1791/EXP/ES/2015",
             "coords": {
                 "lat": 19.3063,
@@ -1761,7 +1761,7 @@
         },
         {
             "id": "3348",
-            "nombre": "Gasolineria Valenciana S De Rl De Cv",
+            "nombre": "Gasolinería Valenciana S.A. De C.V.",
             "cre_id": "PL/2021/EXP/ES/2015",
             "coords": {
                 "lat": 19.47174,
@@ -1774,7 +1774,7 @@
         },
         {
             "id": "3355",
-            "nombre": "Valuve Sa De Cv",
+            "nombre": "Valuve S.A. De C.V.",
             "cre_id": "PL/1604/EXP/ES/2015",
             "coords": {
                 "lat": 19.47074,
@@ -1787,7 +1787,7 @@
         },
         {
             "id": "3361",
-            "nombre": "Servicio Automotriz Insurgentes Sa De Cv",
+            "nombre": "Servicio Automotriz Insurgentes S.A. De C.V.",
             "cre_id": "PL/1613/EXP/ES/2015",
             "coords": {
                 "lat": 19.36972,
@@ -1800,7 +1800,7 @@
         },
         {
             "id": "3365",
-            "nombre": "Inmuebles Venta De Carpio Sa De Cv",
+            "nombre": "Inmuebles Venta De Carpio S.A. De C.V.",
             "cre_id": "PL/1714/EXP/ES/2015",
             "coords": {
                 "lat": 19.50356,
@@ -1813,7 +1813,7 @@
         },
         {
             "id": "3367",
-            "nombre": "Administradora Boturini Sa De Cv",
+            "nombre": "Administradora Boturini S.A. De C.V.",
             "cre_id": "PL/1627/EXP/ES/2015",
             "coords": {
                 "lat": 19.41772,
@@ -1827,7 +1827,7 @@
         },
         {
             "id": "3384",
-            "nombre": "Estacion De Servicio Jaba, Sa De Cv (Es12115)",
+            "nombre": "Estación De Servicio Jaba S.A. De C.V.",
             "cre_id": "PL/1829/EXP/ES/2015",
             "coords": {
                 "lat": 19.4303,
@@ -1840,7 +1840,7 @@
         },
         {
             "id": "3385",
-            "nombre": "Servicio Valle Sa De Cv",
+            "nombre": "Servicio Valle S.A. De C.V.",
             "cre_id": "PL/1919/EXP/ES/2015",
             "coords": {
                 "lat": 19.5733,
@@ -1853,7 +1853,7 @@
         },
         {
             "id": "3387",
-            "nombre": "Servicio Jurammi Sa De Cv",
+            "nombre": "Servicio Jurammi S.A. De C.V.",
             "cre_id": "PL/1913/EXP/ES/2015",
             "coords": {
                 "lat": 19.41585,
@@ -1866,7 +1866,7 @@
         },
         {
             "id": "3389",
-            "nombre": "Servicio Terremotes Sa De Cv",
+            "nombre": "Servicio Terremotes S.A. De C.V.",
             "cre_id": "PL/1835/EXP/ES/2015",
             "coords": {
                 "lat": 19.34943,
@@ -1880,7 +1880,7 @@
         },
         {
             "id": "3392",
-            "nombre": "Servicio Nuevo Laredo S De Rl De Cv",
+            "nombre": "Servicio Nuevo Laredo S.A. De C.V.",
             "cre_id": "PL/1655/EXP/ES/2015",
             "coords": {
                 "lat": 19.5789,
@@ -1894,7 +1894,7 @@
         },
         {
             "id": "3394",
-            "nombre": "Antigua R 1 Sa De Cv",
+            "nombre": "Antigua R1 S.A. De C.V.",
             "cre_id": "PL/1524/EXP/ES/2015",
             "coords": {
                 "lat": 19.5627,
@@ -1908,7 +1908,7 @@
         },
         {
             "id": "3414",
-            "nombre": "Dimeco Sa De Cv",
+            "nombre": "Dimeco S.A. De C.V.",
             "cre_id": "PL/1578/EXP/ES/2015",
             "coords": {
                 "lat": 19.45276,
@@ -1921,7 +1921,7 @@
         },
         {
             "id": "3417",
-            "nombre": "Servicio Clave S De Rl De Cv",
+            "nombre": "Servicio Clave S.A. De C.V.",
             "cre_id": "PL/1723/EXP/ES/2015",
             "coords": {
                 "lat": 19.4665,
@@ -1935,7 +1935,7 @@
         },
         {
             "id": "3418",
-            "nombre": "Gasolineria Recoletos S De Rl De Cv",
+            "nombre": "Gasolinería Recoletos S.A. De C.V.",
             "cre_id": "PL/1742/EXP/ES/2015",
             "coords": {
                 "lat": 19.53295,
@@ -1948,7 +1948,7 @@
         },
         {
             "id": "3428",
-            "nombre": "Suague Sa De Cv",
+            "nombre": "Suague S.A. De C.V.",
             "cre_id": "PL/1525/EXP/ES/2015",
             "coords": {
                 "lat": 19.40325,
@@ -1975,7 +1975,7 @@
         },
         {
             "id": "3467",
-            "nombre": "Servicio Gramar Sa De Cv",
+            "nombre": "Servicio Grammar S.A. De C.V.",
             "cre_id": "PL/1851/EXP/ES/2015",
             "coords": {
                 "lat": 19.37015,
@@ -1989,7 +1989,7 @@
         },
         {
             "id": "3481",
-            "nombre": "Servicio Zona Norte Sa De Cv",
+            "nombre": "Servicio Zona Norte S.A. De C.V.",
             "cre_id": "PL/1870/EXP/ES/2015",
             "coords": {
                 "lat": 19.48708,
@@ -2002,7 +2002,7 @@
         },
         {
             "id": "3509",
-            "nombre": "Raguves S De Rl De Cv",
+            "nombre": "Raguves S.A. De C.V.",
             "cre_id": "PL/1779/EXP/ES/2015",
             "coords": {
                 "lat": 19.52847,
@@ -2016,7 +2016,7 @@
         },
         {
             "id": "3512",
-            "nombre": "Servicio El Barco Sa De Cv",
+            "nombre": "Servicio El Barco S.A. De C.V.",
             "cre_id": "PL/1876/EXP/ES/2015",
             "coords": {
                 "lat": 19.42048,
@@ -2029,7 +2029,7 @@
         },
         {
             "id": "3526",
-            "nombre": "Servicio Del Cantabrico Sa De Cv",
+            "nombre": "Servicio Del Cantabrico S.A. De C.V.",
             "cre_id": "PL/1652/EXP/ES/2015",
             "coords": {
                 "lat": 19.5084,
@@ -2043,7 +2043,7 @@
         },
         {
             "id": "3533",
-            "nombre": "Gasolineria Palacios S De Rl De Cv",
+            "nombre": "Gasolinería Palacios S.A. De C.V.",
             "cre_id": "PL/1665/EXP/ES/2015",
             "coords": {
                 "lat": 19.34969,
@@ -2057,7 +2057,7 @@
         },
         {
             "id": "3534",
-            "nombre": "Servicio Neza Sa De Cv",
+            "nombre": "Servicio Neza S.A. De C.V.",
             "cre_id": "PL/1868/EXP/ES/2015",
             "coords": {
                 "lat": 19.40546,
@@ -2071,7 +2071,7 @@
         },
         {
             "id": "3536",
-            "nombre": "Servicio Jardines Del Pedregal Sa De Cv",
+            "nombre": "Servicio Jardines Del Pedregal S.A. De C.V.",
             "cre_id": "PL/1789/EXP/ES/2015",
             "coords": {
                 "lat": 19.31853,
@@ -2084,7 +2084,7 @@
         },
         {
             "id": "3556",
-            "nombre": "Servicio Division S De Rl De Cv",
+            "nombre": "Servicio División S.A. De C.V.",
             "cre_id": "PL/1618/EXP/ES/2015",
             "coords": {
                 "lat": 19.3085,
@@ -2097,7 +2097,7 @@
         },
         {
             "id": "3558",
-            "nombre": "Servicio Fagosa Sa De Cv",
+            "nombre": "Servicio Fagosa S.A. De C.V.",
             "cre_id": "PL/1902/EXP/ES/2015",
             "coords": {
                 "lat": 19.45316,
@@ -2110,7 +2110,7 @@
         },
         {
             "id": "3572",
-            "nombre": "Servicio Bahamas Sa De Cv",
+            "nombre": "Servicio Bahamas S.A. De C.V.",
             "cre_id": "PL/1874/EXP/ES/2015",
             "coords": {
                 "lat": 19.41252,
@@ -2124,7 +2124,7 @@
         },
         {
             "id": "3573",
-            "nombre": "Servicio Valdori Sa De Cv",
+            "nombre": "Servicio Valdori S.A. De C.V.",
             "cre_id": "PL/1914/EXP/ES/2015",
             "coords": {
                 "lat": 19.50835,
@@ -2138,7 +2138,7 @@
         },
         {
             "id": "3578",
-            "nombre": "Servicio Gorm Sa De Cv",
+            "nombre": "Servicio Gorm S.A. De C.V.",
             "cre_id": "PL/1877/EXP/ES/2015",
             "coords": {
                 "lat": 19.39134,
@@ -2151,7 +2151,7 @@
         },
         {
             "id": "3582",
-            "nombre": "Servicio Cuarta Avenida Sa De Cv",
+            "nombre": "Servicio Cuarta Avenida S.A. De C.V.",
             "cre_id": "PL/1873/EXP/ES/2015",
             "coords": {
                 "lat": 19.40745,
@@ -2164,7 +2164,7 @@
         },
         {
             "id": "3586",
-            "nombre": "Japi Sa De Cv",
+            "nombre": "Japi S.A. De C.V.",
             "cre_id": "PL/1973/EXP/ES/2015",
             "coords": {
                 "lat": 19.38745,
@@ -2177,7 +2177,7 @@
         },
         {
             "id": "3598",
-            "nombre": "Servicio Ermita Sa De Cv",
+            "nombre": "Servicio Ermita S.A. De C.V.",
             "cre_id": "PL/1768/EXP/ES/2015",
             "coords": {
                 "lat": 19.36076,
@@ -2191,7 +2191,7 @@
         },
         {
             "id": "3612",
-            "nombre": "Servicio Alfonso Xiii Sa De Cv",
+            "nombre": "Servicio Alfonso Xiii S.A. De C.V.",
             "cre_id": "PL/1796/EXP/ES/2015",
             "coords": {
                 "lat": 19.37266,
@@ -2204,7 +2204,7 @@
         },
         {
             "id": "3614",
-            "nombre": "Servicio Nueva Rosita Sa De Cv",
+            "nombre": "Servicio Nueva Rosita S.A. De C.V.",
             "cre_id": "PL/1880/EXP/ES/2015",
             "coords": {
                 "lat": 19.37424,
@@ -2217,7 +2217,7 @@
         },
         {
             "id": "3620",
-            "nombre": "Vexal Sa De Cv",
+            "nombre": "Vexal S.A. De C.V.",
             "cre_id": "PL/1845/EXP/ES/2015",
             "coords": {
                 "lat": 19.55221,
@@ -2231,7 +2231,7 @@
         },
         {
             "id": "3630",
-            "nombre": "Desechos Biologicos E Industriales Sa De Cv",
+            "nombre": "Desechos Biológicos E Industriales S.A. De C.V.",
             "cre_id": "PL/1825/EXP/ES/2015",
             "coords": {
                 "lat": 19.48034,
@@ -2244,7 +2244,7 @@
         },
         {
             "id": "3639",
-            "nombre": "Jrm Combustibles S A P I De Cv",
+            "nombre": "Jrm Combustibles S.A.P.I De C.V",
             "cre_id": "PL/1754/EXP/ES/2015",
             "coords": {
                 "lat": 19.52803,
@@ -2258,7 +2258,7 @@
         },
         {
             "id": "3642",
-            "nombre": "Jrm Combustibles S A P I De Cv",
+            "nombre": "Jrm Combustibles S.A.P.I De C.V",
             "cre_id": "PL/1753/EXP/ES/2015",
             "coords": {
                 "lat": 19.52,
@@ -2271,7 +2271,7 @@
         },
         {
             "id": "3650",
-            "nombre": "Servicio Eje 10 S De Rl De Cv",
+            "nombre": "Servicio Eje 10 S.A. De C.V.",
             "cre_id": "PL/1738/EXP/ES/2015",
             "coords": {
                 "lat": 19.3364,
@@ -2284,7 +2284,7 @@
         },
         {
             "id": "3674",
-            "nombre": "Estacion De Servicio Las Aguilas S De Rl De Cv",
+            "nombre": "Estación De Servicio Las Águilas S.A. De C.V.",
             "cre_id": "PL/1802/EXP/ES/2015",
             "coords": {
                 "lat": 19.35093,
@@ -2297,7 +2297,7 @@
         },
         {
             "id": "3688",
-            "nombre": "Hr Sol Servicios Administrativos Fondo 3 Sa De Cv",
+            "nombre": "Hr Sol Servicios Administrativos Fondo 3 S.A De C.V.",
             "cre_id": "PL/2052/EXP/ES/2015",
             "coords": {
                 "lat": 19.52987,
@@ -2310,7 +2310,7 @@
         },
         {
             "id": "3693",
-            "nombre": "Servicio Hefeso Sa De Cv",
+            "nombre": "Servicio Hefeso S.A. De C.V.",
             "cre_id": "PL/2043/EXP/ES/2015",
             "coords": {
                 "lat": 19.29241,
@@ -2323,7 +2323,7 @@
         },
         {
             "id": "3697",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energeticos, S.A. De C.V.",
             "cre_id": "PL/2067/EXP/ES/2015",
             "coords": {
                 "lat": 19.493,
@@ -2336,7 +2336,7 @@
         },
         {
             "id": "3707",
-            "nombre": "Servicio Winassor Sa De Cv",
+            "nombre": "Servicio Winassor S.A. De C.V.",
             "cre_id": "PL/2165/EXP/ES/2015",
             "coords": {
                 "lat": 19.38239,
@@ -2350,7 +2350,7 @@
         },
         {
             "id": "3711",
-            "nombre": "Servicio Express Ayuntamiento Sa De Cv",
+            "nombre": "Servicio Express Ayuntamiento S.A. De C.V.",
             "cre_id": "PL/2047/EXP/ES/2015",
             "coords": {
                 "lat": 19.54147,
@@ -2364,7 +2364,7 @@
         },
         {
             "id": "3727",
-            "nombre": "Servicio Xochiaca Sa De Cv",
+            "nombre": "Servicio Xochiaca S.A. De C.V.",
             "cre_id": "PL/2149/EXP/ES/2015",
             "coords": {
                 "lat": 19.41208,
@@ -2378,7 +2378,7 @@
         },
         {
             "id": "3728",
-            "nombre": "Servicio El Rescaño Sa De Cv",
+            "nombre": "Servicio El Rescaño",
             "cre_id": "PL/2181/EXP/ES/2015",
             "coords": {
                 "lat": 19.52538,
@@ -2392,7 +2392,7 @@
         },
         {
             "id": "3736",
-            "nombre": "Servicio Los Patos Sa De Cv",
+            "nombre": "Servicio Los Patos S.A. De C.V.",
             "cre_id": "PL/2148/EXP/ES/2015",
             "coords": {
                 "lat": 19.4308,
@@ -2406,7 +2406,7 @@
         },
         {
             "id": "3744",
-            "nombre": "Leira Sa De Cv",
+            "nombre": "Leira S.A. De C.V.",
             "cre_id": "PL/2130/EXP/ES/2015",
             "coords": {
                 "lat": 19.36456,
@@ -2415,12 +2415,12 @@
             "precios": {
                 "regular": 22.98,
                 "premium": 27.9,
-                "diesel": 28.0
+                "diesel": 27.0
             }
         },
         {
             "id": "3768",
-            "nombre": "Servicio Leyes De Reforma Sa De Cv",
+            "nombre": "Servicio Leyes De Reforma S.A. De C.V.",
             "cre_id": "PL/2207/EXP/ES/2015",
             "coords": {
                 "lat": 19.38326,
@@ -2433,7 +2433,7 @@
         },
         {
             "id": "3780",
-            "nombre": "Estaciones Integrales De Servicio Sa De Cv",
+            "nombre": "Estaciones Integrales De Servicio S.A. De C.V.",
             "cre_id": "PL/2184/EXP/ES/2015",
             "coords": {
                 "lat": 19.40254,
@@ -2446,7 +2446,7 @@
         },
         {
             "id": "3819",
-            "nombre": "Servicio Xochiaca Sa De Cv",
+            "nombre": "Servicio Xochiaca S.A. De C.V.",
             "cre_id": "PL/2163/EXP/ES/2015",
             "coords": {
                 "lat": 19.43647,
@@ -2460,7 +2460,7 @@
         },
         {
             "id": "3824",
-            "nombre": "Maria Araceli Aleman Solis",
+            "nombre": "María Araceli Aleman Solis",
             "cre_id": "PL/2094/EXP/ES/2015",
             "coords": {
                 "lat": 19.40145,
@@ -2473,7 +2473,7 @@
         },
         {
             "id": "3830",
-            "nombre": "Super Servicio Ejecutivo Sa De Cv",
+            "nombre": "Súper Servicio Ejecutivo S.A. De C.V.",
             "cre_id": "PL/2097/EXP/ES/2015",
             "coords": {
                 "lat": 19.3286,
@@ -2486,7 +2486,7 @@
         },
         {
             "id": "3834",
-            "nombre": "Super Servicio Aragon Sa De Cv",
+            "nombre": "Súper Servicio Aragon S.A. De C.V.",
             "cre_id": "PL/2093/EXP/ES/2015",
             "coords": {
                 "lat": 19.49,
@@ -2500,7 +2500,7 @@
         },
         {
             "id": "3838",
-            "nombre": "Servicio Robledo Sa De Cv",
+            "nombre": "Servicio Robledo S.A. De C.V.",
             "cre_id": "PL/2143/EXP/ES/2015",
             "coords": {
                 "lat": 19.29922,
@@ -2513,7 +2513,7 @@
         },
         {
             "id": "3840",
-            "nombre": "Servicio Merida Sa De Cv",
+            "nombre": "Servicio Mérida S.A. De C.V.",
             "cre_id": "PL/2092/EXP/ES/2015",
             "coords": {
                 "lat": 19.41905,
@@ -2526,7 +2526,7 @@
         },
         {
             "id": "3848",
-            "nombre": "Servicio El Nuevo Pedregal Sa De Cv",
+            "nombre": "Servicio El Nuevo Pedregal S.A. De C.V.",
             "cre_id": "PL/2198/EXP/ES/2015",
             "coords": {
                 "lat": 19.30155,
@@ -2540,7 +2540,7 @@
         },
         {
             "id": "3858",
-            "nombre": "Servicio Madell Sa De Cv",
+            "nombre": "Servicio Madell S.A. De C.V.",
             "cre_id": "PL/2201/EXP/ES/2015",
             "coords": {
                 "lat": 19.42437,
@@ -2554,7 +2554,7 @@
         },
         {
             "id": "3860",
-            "nombre": "Servicio Ninfa Sa De Cv",
+            "nombre": "Servicio Ninfa S.A. De C.V.",
             "cre_id": "PL/2145/EXP/ES/2015",
             "coords": {
                 "lat": 19.4027,
@@ -2567,7 +2567,7 @@
         },
         {
             "id": "3861",
-            "nombre": "Servicio Liesyeza Sa De Cv",
+            "nombre": "Servicio Liesyeza S.A. De C.V.",
             "cre_id": "PL/2208/EXP/ES/2015",
             "coords": {
                 "lat": 19.42807,
@@ -2581,7 +2581,7 @@
         },
         {
             "id": "3897",
-            "nombre": "Estacion Cincuenta Y Uno Sa De Cv",
+            "nombre": "Estación Cincuenta Y Uno S.A. De C.V.",
             "cre_id": "PL/2320/EXP/ES/2015",
             "coords": {
                 "lat": 19.53148,
@@ -2594,7 +2594,7 @@
         },
         {
             "id": "3898",
-            "nombre": "Servicio Roky Sa De Cv",
+            "nombre": "Servicio Roky S.A. De C.V.",
             "cre_id": "PL/2489/EXP/ES/2015",
             "coords": {
                 "lat": 19.54076,
@@ -2607,7 +2607,7 @@
         },
         {
             "id": "3912",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energeticos, S.A. De C.V.",
             "cre_id": "PL/2509/EXP/ES/2015",
             "coords": {
                 "lat": 19.5491,
@@ -2621,7 +2621,7 @@
         },
         {
             "id": "3933",
-            "nombre": "Super Servicio Florencia Sa De Cv",
+            "nombre": "Súper Servicio Florencia S.A. De C.V.",
             "cre_id": "PL/2457/EXP/ES/2015",
             "coords": {
                 "lat": 19.52751,
@@ -2634,7 +2634,7 @@
         },
         {
             "id": "3946",
-            "nombre": "Servicio Oriental Sa De Cv",
+            "nombre": "Servicio Oriental S.A. De C.V.",
             "cre_id": "PL/2404/EXP/ES/2015",
             "coords": {
                 "lat": 19.54074,
@@ -2647,7 +2647,7 @@
         },
         {
             "id": "3962",
-            "nombre": "Grupo Azca Sa De Cv",
+            "nombre": "Grupo Azca S.A. De C.V.",
             "cre_id": "PL/2251/EXP/ES/2015",
             "coords": {
                 "lat": 19.47945,
@@ -2660,7 +2660,7 @@
         },
         {
             "id": "3974",
-            "nombre": "Servicio Rodasa Sa De Cv",
+            "nombre": "Servicio Rodasa S.A. De C.V.",
             "cre_id": "PL/2481/EXP/ES/2015",
             "coords": {
                 "lat": 19.33697,
@@ -2674,7 +2674,7 @@
         },
         {
             "id": "3975",
-            "nombre": "Grupo Macruz Sa De Cv",
+            "nombre": "Grupo Macruz S.A. De C.V.",
             "cre_id": "PL/2443/EXP/ES/2015",
             "coords": {
                 "lat": 19.38341,
@@ -2688,7 +2688,7 @@
         },
         {
             "id": "3982",
-            "nombre": "Operadora La Piedad Sa De Cv",
+            "nombre": "Operadora La Piedad S.A. De C.V.",
             "cre_id": "PL/2368/EXP/ES/2015",
             "coords": {
                 "lat": 19.40765,
@@ -2701,7 +2701,7 @@
         },
         {
             "id": "3990",
-            "nombre": "Servicio Arycla Sa De Cv",
+            "nombre": "Servicio Arycla S.A. De C.V.",
             "cre_id": "PL/2425/EXP/ES/2015",
             "coords": {
                 "lat": 19.41557,
@@ -2714,7 +2714,7 @@
         },
         {
             "id": "4041",
-            "nombre": "Servicio Zora Sa De Cv",
+            "nombre": "Servicio Zora S.A. De C.V.",
             "cre_id": "PL/2493/EXP/ES/2015",
             "coords": {
                 "lat": 19.42456,
@@ -2740,7 +2740,7 @@
         },
         {
             "id": "4055",
-            "nombre": "Impulsora De Servicios Automotrices, S.A.",
+            "nombre": "Impulsora De Servicios Automotrices S.A. De C.V.",
             "cre_id": "PL/2434/EXP/ES/2015",
             "coords": {
                 "lat": 19.52629,
@@ -2753,21 +2753,21 @@
         },
         {
             "id": "4065",
-            "nombre": "Servicio Ciudad Lago Sa De Cv",
+            "nombre": "Servicio Ciudad Lago S.A. De C.V.",
             "cre_id": "PL/2347/EXP/ES/2015",
             "coords": {
                 "lat": 19.45236,
                 "lon": -99.05029
             },
             "precios": {
+                "diesel": 27.07,
                 "regular": 23.89,
-                "premium": 27.8,
-                "diesel": 27.99
+                "premium": 27.8
             }
         },
         {
             "id": "4085",
-            "nombre": "Servicio Madero S De Rl De Cv",
+            "nombre": "Servicio Madero S.A. De C.V.",
             "cre_id": "PL/2472/EXP/ES/2015",
             "coords": {
                 "lat": 19.44328,
@@ -2781,7 +2781,7 @@
         },
         {
             "id": "4102",
-            "nombre": "Gaso-Mex Sa De Cv",
+            "nombre": "Gaso-Mex S.A. De C.V.",
             "cre_id": "PL/2385/EXP/ES/2015",
             "coords": {
                 "lat": 19.48701,
@@ -2794,7 +2794,7 @@
         },
         {
             "id": "4138",
-            "nombre": "Servicios La Cañada Sa De Cv",
+            "nombre": "Servicios La Cañada S.A. De C.V.",
             "cre_id": "PL/2278/EXP/ES/2015",
             "coords": {
                 "lat": 19.32274,
@@ -2806,7 +2806,7 @@
         },
         {
             "id": "4144",
-            "nombre": "Servicio Condesa De Zacatecas Sa De Cv",
+            "nombre": "Servicio Condesa De Zacatecas S.A. De C.V.",
             "cre_id": "PL/2309/EXP/ES/2015",
             "coords": {
                 "lat": 19.53199,
@@ -2820,7 +2820,7 @@
         },
         {
             "id": "4147",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/2429/EXP/ES/2015",
             "coords": {
                 "lat": 19.42218,
@@ -2833,7 +2833,7 @@
         },
         {
             "id": "4150",
-            "nombre": "Gasolineria Murcia S De Rl De Cv",
+            "nombre": "Gasolinería Murcia S.A. De C.V.",
             "cre_id": "PL/2468/EXP/ES/2015",
             "coords": {
                 "lat": 19.37662,
@@ -2847,7 +2847,7 @@
         },
         {
             "id": "4154",
-            "nombre": "Estacion De Servicio Extremadura S De Rl De Cv",
+            "nombre": "Estación De Servicio Extremadura S.A. De C.V.",
             "cre_id": "PL/2400/EXP/ES/2015",
             "coords": {
                 "lat": 19.55135,
@@ -2860,7 +2860,7 @@
         },
         {
             "id": "4161",
-            "nombre": "Gasolineria Murcia S De Rl De Cv",
+            "nombre": "Gasolinería Murcia S.A. De C.V.",
             "cre_id": "PL/2483/EXP/ES/2015",
             "coords": {
                 "lat": 19.35251,
@@ -2873,7 +2873,7 @@
         },
         {
             "id": "4182",
-            "nombre": "Servicio Voky Sa De Cv",
+            "nombre": "Servicio Voky S.A. De C.V.",
             "cre_id": "PL/2491/EXP/ES/2015",
             "coords": {
                 "lat": 19.38445,
@@ -2886,7 +2886,7 @@
         },
         {
             "id": "4190",
-            "nombre": "Servicio Izquierdo Sa De Cv",
+            "nombre": "Servicio Izquierdo S.A. De C.V.",
             "cre_id": "PL/2279/EXP/ES/2015",
             "coords": {
                 "lat": 19.34669,
@@ -2898,7 +2898,7 @@
         },
         {
             "id": "4203",
-            "nombre": "Servicio Geredin S De Rl",
+            "nombre": "Servicio Geredin S. De R. L.",
             "cre_id": "PL/2456/EXP/ES/2015",
             "coords": {
                 "lat": 19.58453,
@@ -2912,7 +2912,7 @@
         },
         {
             "id": "4322",
-            "nombre": "Super Servicio Niza Sa De Cv",
+            "nombre": "Súper Servicio Niza S.A. De C.V.",
             "cre_id": "PL/2879/EXP/ES/2015",
             "coords": {
                 "lat": 19.49432,
@@ -2925,7 +2925,7 @@
         },
         {
             "id": "4325",
-            "nombre": "Super Gasolinera Tecamachalco Los Reyes Sa De Cv",
+            "nombre": "Súper Gasolinera Tecamachalco Los Reyes S.A. De C.V.",
             "cre_id": "PL/2755/EXP/ES/2015",
             "coords": {
                 "lat": 19.35609,
@@ -2939,7 +2939,7 @@
         },
         {
             "id": "4334",
-            "nombre": "Super Servicio Periferico Sa De Cv",
+            "nombre": "Súper Servicio Periférico S.A. De C.V.",
             "cre_id": "PL/2600/EXP/ES/2015",
             "coords": {
                 "lat": 19.36864,
@@ -2953,7 +2953,7 @@
         },
         {
             "id": "4387",
-            "nombre": "Grupo Batiza Sa De Cv",
+            "nombre": "Grupo Batiza S.A. De C.V.",
             "cre_id": "PL/2790/EXP/ES/2015",
             "coords": {
                 "lat": 19.57997,
@@ -2967,7 +2967,7 @@
         },
         {
             "id": "4445",
-            "nombre": "Super Servicio Vallejo Sa De Cv",
+            "nombre": "Súper Servicio Vallejo S.A. De C.V.",
             "cre_id": "PL/2585/EXP/ES/2015",
             "coords": {
                 "lat": 19.51956,
@@ -2981,7 +2981,7 @@
         },
         {
             "id": "4470",
-            "nombre": "Gasolineria Y Servicios Central Iii Sa De Cv",
+            "nombre": "Gasolinera Y Servicios Central Iii S.A. De C.V.",
             "cre_id": "PL/2761/EXP/ES/2015",
             "coords": {
                 "lat": 19.559,
@@ -2995,7 +2995,7 @@
         },
         {
             "id": "4524",
-            "nombre": "Servicio Mena Sa De Cv",
+            "nombre": "Servicio Mena S.A. De C.V.",
             "cre_id": "PL/2594/EXP/ES/2015",
             "coords": {
                 "lat": 19.28645,
@@ -3009,7 +3009,7 @@
         },
         {
             "id": "4576",
-            "nombre": "Inmobiliaria Sorgar Sa De Cv",
+            "nombre": "Inmobiliaria Sorgar S.A. De C.V.",
             "cre_id": "PL/2878/EXP/ES/2015",
             "coords": {
                 "lat": 19.55534,
@@ -3022,7 +3022,7 @@
         },
         {
             "id": "4579",
-            "nombre": "Servicio Museo Sa De Cv",
+            "nombre": "Servicio Museo S.A. De C.V.",
             "cre_id": "PL/2724/EXP/ES/2015",
             "coords": {
                 "lat": 19.44205,
@@ -3036,7 +3036,7 @@
         },
         {
             "id": "4590",
-            "nombre": "Lenigas Sa De Cv",
+            "nombre": "Lenigas S.A. De C.V.",
             "cre_id": "PL/2789/EXP/ES/2015",
             "coords": {
                 "lat": 19.39673,
@@ -3050,7 +3050,7 @@
         },
         {
             "id": "4614",
-            "nombre": "Servicio San Pedro Sa De Cv",
+            "nombre": "Servicio San Pedro S.A. De C.V.",
             "cre_id": "PL/2700/EXP/ES/2015",
             "coords": {
                 "lat": 19.38925,
@@ -3064,7 +3064,7 @@
         },
         {
             "id": "4666",
-            "nombre": "Estaciones Ecologicas De Servicios Sa De Cv",
+            "nombre": "Estaciones Escologicas De Servicios S.A. De C.V.",
             "cre_id": "PL/5449/EXP/ES/2015",
             "coords": {
                 "lat": 19.53218,
@@ -3078,7 +3078,7 @@
         },
         {
             "id": "4684",
-            "nombre": "Servicio Arena De San Andres Sa De Cv",
+            "nombre": "Servicio Arena De San Andres S.A. De C.V.",
             "cre_id": "PL/5814/EXP/ES/2015",
             "coords": {
                 "lat": 19.55919,
@@ -3092,7 +3092,7 @@
         },
         {
             "id": "4693",
-            "nombre": "Super Servicio Dlt Sa De Cv",
+            "nombre": "Súper Servicio Dlt S.A. De C.V.",
             "cre_id": "PL/5682/EXP/ES/2015",
             "coords": {
                 "lat": 19.57586,
@@ -3106,7 +3106,7 @@
         },
         {
             "id": "4705",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energéticos S.A. De C.V.",
             "cre_id": "PL/5400/EXP/ES/2015",
             "coords": {
                 "lat": 19.49989,
@@ -3132,7 +3132,7 @@
         },
         {
             "id": "4784",
-            "nombre": "Estaciones Ecologicas De Servicios Sa De Cv",
+            "nombre": "Estaciones Escologicas De Servicios S.A. De C.V.",
             "cre_id": "PL/5488/EXP/ES/2015",
             "coords": {
                 "lat": 19.39237,
@@ -3146,7 +3146,7 @@
         },
         {
             "id": "4821",
-            "nombre": "Servicio Delorre Sa De Cv",
+            "nombre": "Servicio Delorre S.A. De C.V.",
             "cre_id": "PL/5881/EXP/ES/2015",
             "coords": {
                 "lat": 19.45132,
@@ -3173,7 +3173,7 @@
         },
         {
             "id": "4846",
-            "nombre": "Super Servicio Dlt Sa De Cv",
+            "nombre": "Súper Servicio Dlt S.A. De C.V.",
             "cre_id": "PL/5683/EXP/ES/2015",
             "coords": {
                 "lat": 19.53944,
@@ -3187,7 +3187,7 @@
         },
         {
             "id": "4854",
-            "nombre": "Inmobiliaria Aja Gomez Sa De Cv",
+            "nombre": "Inmobiliaria Aja Gomez S.A. De C.V.",
             "cre_id": "PL/5312/EXP/ES/2015",
             "coords": {
                 "lat": 19.36667,
@@ -3200,7 +3200,7 @@
         },
         {
             "id": "4885",
-            "nombre": "Servicio Gasolinero Azcapotzalco Sa De Cv",
+            "nombre": "Servicio Gasolinero Azcapotzalco S.A. De C.V.",
             "cre_id": "PL/5601/EXP/ES/2015",
             "coords": {
                 "lat": 19.48233,
@@ -3214,7 +3214,7 @@
         },
         {
             "id": "4998",
-            "nombre": "Servicio Aldama Sa",
+            "nombre": "Servicio Aldama S. A.",
             "cre_id": "PL/5497/EXP/ES/2015",
             "coords": {
                 "lat": 19.4402,
@@ -3228,7 +3228,7 @@
         },
         {
             "id": "5002",
-            "nombre": "Servicio Estanzuela Sa De Cv",
+            "nombre": "Servicio Estanzuela S.A. De C.V.",
             "cre_id": "PL/5190/EXP/ES/2015",
             "coords": {
                 "lat": 19.4912,
@@ -3242,7 +3242,7 @@
         },
         {
             "id": "5018",
-            "nombre": "Administradora De Gasolineras San Agustin Sa De Cv",
+            "nombre": "Administradora De Gasolineras San Agustín S.A. De C.V.",
             "cre_id": "PL/6005/EXP/ES/2015",
             "coords": {
                 "lat": 19.49314,
@@ -3256,7 +3256,7 @@
         },
         {
             "id": "5022",
-            "nombre": "Servicio Apatlaco Sa De Cv",
+            "nombre": "Servicio Apatlaco S.A. De C.V.",
             "cre_id": "PL/5330/EXP/ES/2015",
             "coords": {
                 "lat": 19.38103,
@@ -3269,7 +3269,7 @@
         },
         {
             "id": "5040",
-            "nombre": "Serviexpress Carmelo Pérez, S.A.  De C.V.",
+            "nombre": "Serviexpress Carmelo Pérez S.A. De C.V.",
             "cre_id": "PL/5406/EXP/ES/2015",
             "coords": {
                 "lat": 19.3981,
@@ -3283,7 +3283,7 @@
         },
         {
             "id": "5055",
-            "nombre": "Administradora De Gasolineras Interlomas Sa De Cv",
+            "nombre": "Administradora De Gasolineras Interlomas S.A. De C.V.",
             "cre_id": "PL/6003/EXP/ES/2015",
             "coords": {
                 "lat": 19.40172,
@@ -3297,7 +3297,7 @@
         },
         {
             "id": "5059",
-            "nombre": "Servicio Tres Encinas Sa De Cv",
+            "nombre": "Servicio Tres Encinas S.A. De C.V.",
             "cre_id": "PL/5306/EXP/ES/2015",
             "coords": {
                 "lat": 19.3806,
@@ -3311,7 +3311,7 @@
         },
         {
             "id": "5070",
-            "nombre": "Servicio Cuexoch Sa De Cv",
+            "nombre": "Servicio Cuexoch S.A. De C.V.",
             "cre_id": "PL/5277/EXP/ES/2015",
             "coords": {
                 "lat": 19.29399,
@@ -3325,7 +3325,7 @@
         },
         {
             "id": "5181",
-            "nombre": "Pal Combustibles Sa De Cv",
+            "nombre": "Pal Combustibles S.A. De C.V.",
             "cre_id": "PL/5266/EXP/ES/2015",
             "coords": {
                 "lat": 19.37799,
@@ -3339,7 +3339,7 @@
         },
         {
             "id": "5205",
-            "nombre": "Servicio Patzcuaro Sa De Cv",
+            "nombre": "Servicio Patzcuaro S.A. De C.V.",
             "cre_id": "PL/5658/EXP/ES/2015",
             "coords": {
                 "lat": 19.44224,
@@ -3352,7 +3352,7 @@
         },
         {
             "id": "5294",
-            "nombre": "Servicio Cascadiña Sa De Cv",
+            "nombre": "Servicio Cascadiña S.A. De C.V.",
             "cre_id": "PL/5954/EXP/ES/2015",
             "coords": {
                 "lat": 19.40134,
@@ -3365,7 +3365,7 @@
         },
         {
             "id": "5296",
-            "nombre": "Servicio Boulevares Sa",
+            "nombre": "Servicio Boulevares S. A.",
             "cre_id": "PL/5991/EXP/ES/2015",
             "coords": {
                 "lat": 19.49653,
@@ -3378,7 +3378,7 @@
         },
         {
             "id": "5306",
-            "nombre": "Atigas Sa De Cv",
+            "nombre": "Atigas S.A. De C.V.",
             "cre_id": "PL/5894/EXP/ES/2015",
             "coords": {
                 "lat": 19.55429,
@@ -3392,7 +3392,7 @@
         },
         {
             "id": "5363",
-            "nombre": "Servicio Lomas Estrella Sa De Cv",
+            "nombre": "Servicio Lomas Estrella S.A. De C.V.",
             "cre_id": "PL/5332/EXP/ES/2015",
             "coords": {
                 "lat": 19.32293,
@@ -3400,13 +3400,13 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 28.99,
+                "premium": 28.79,
                 "diesel": 27.0
             }
         },
         {
             "id": "5371",
-            "nombre": "Olesma Sa De Cv",
+            "nombre": "Olesma S.A. De C.V.",
             "cre_id": "PL/5072/EXP/ES/2015",
             "coords": {
                 "lat": 19.19645,
@@ -3418,7 +3418,7 @@
         },
         {
             "id": "5373",
-            "nombre": "Super Servicio Dlt Sa De Cv",
+            "nombre": "Súper Servicio Dlt S.A. De C.V.",
             "cre_id": "PL/5684/EXP/ES/2015",
             "coords": {
                 "lat": 19.54496,
@@ -3432,7 +3432,7 @@
         },
         {
             "id": "5458",
-            "nombre": "Abastecedora Mexicana De Petróleo, S.A. De C.V.",
+            "nombre": "Abastecedora Mexicana De Petróleo S.A. De C.V.",
             "cre_id": "PL/5370/EXP/ES/2015",
             "coords": {
                 "lat": 19.36983,
@@ -3446,7 +3446,7 @@
         },
         {
             "id": "5468",
-            "nombre": "Abastecedora Mexicana De Petróleo, S.A. De C.V.",
+            "nombre": "Abastecedora Mexicana De Petróleo S.A. De C.V.",
             "cre_id": "PL/5382/EXP/ES/2015",
             "coords": {
                 "lat": 19.41456,
@@ -3460,7 +3460,7 @@
         },
         {
             "id": "5469",
-            "nombre": "Servicio San Juan Sa De Cv",
+            "nombre": "Servicio San Juan S.A. De C.V.",
             "cre_id": "PL/5272/EXP/ES/2015",
             "coords": {
                 "lat": 19.51982,
@@ -3474,7 +3474,7 @@
         },
         {
             "id": "5508",
-            "nombre": "Estaciones Ecologicas De Servicios Sa De Cv",
+            "nombre": "Estaciones Escologicas De Servicios S.A. De C.V.",
             "cre_id": "PL/5461/EXP/ES/2015",
             "coords": {
                 "lat": 19.42852,
@@ -3487,7 +3487,7 @@
         },
         {
             "id": "5509",
-            "nombre": "Fertonio Sa De Cv",
+            "nombre": "Fertonio S.A. De C.V.",
             "cre_id": "PL/5834/EXP/ES/2015",
             "coords": {
                 "lat": 19.37206,
@@ -3500,7 +3500,7 @@
         },
         {
             "id": "5521",
-            "nombre": "Ju Vita Sa De Cv",
+            "nombre": "Ju Vita S.A. De C.V.",
             "cre_id": "PL/5267/EXP/ES/2015",
             "coords": {
                 "lat": 19.37629,
@@ -3508,13 +3508,13 @@
             },
             "precios": {
                 "regular": 23.35,
-                "premium": 27.85,
-                "diesel": 27.89
+                "premium": 27.99,
+                "diesel": 27.49
             }
         },
         {
             "id": "5565",
-            "nombre": "Administradora De Gasolineras Sa De Cv",
+            "nombre": "Administradora De Gasolineras S.A. De C.V.",
             "cre_id": "PL/6007/EXP/ES/2015",
             "coords": {
                 "lat": 19.41592,
@@ -3527,7 +3527,7 @@
         },
         {
             "id": "5568",
-            "nombre": "Gasomira Sa De Cv",
+            "nombre": "Gasomira S.A. De C.V.",
             "cre_id": "PL/6010/EXP/ES/2015",
             "coords": {
                 "lat": 19.40204,
@@ -3541,7 +3541,7 @@
         },
         {
             "id": "5598",
-            "nombre": "Estaciones Ecologicas De Servicios Sa De Cv",
+            "nombre": "Estaciones Escologicas De Servicios S.A. De C.V.",
             "cre_id": "PL/5495/EXP/ES/2015",
             "coords": {
                 "lat": 19.42262,
@@ -3554,7 +3554,7 @@
         },
         {
             "id": "5657",
-            "nombre": "Rio Tuerto Sa De Cv",
+            "nombre": "Río Tuerto S.A. De C.V.",
             "cre_id": "PL/5926/EXP/ES/2015",
             "coords": {
                 "lat": 19.33691,
@@ -3568,20 +3568,20 @@
         },
         {
             "id": "5690",
-            "nombre": "Servicio Hermanos Silva Sa De Cv",
+            "nombre": "Servicio Hermanos Silva S.A. De C.V.",
             "cre_id": "PL/5299/EXP/ES/2015",
             "coords": {
                 "lat": 19.44645,
                 "lon": -99.19185
             },
             "precios": {
-                "premium": 27.99,
+                "premium": 28.39,
                 "regular": 23.39
             }
         },
         {
             "id": "5707",
-            "nombre": "Gasolinería Altadena, S.A. De C.V.",
+            "nombre": "Gasolinería Altadena S.A. De C.V.",
             "cre_id": "PL/5393/EXP/ES/2015",
             "coords": {
                 "lat": 19.50405,
@@ -3595,7 +3595,7 @@
         },
         {
             "id": "5711",
-            "nombre": "Servicio Dan Rom Sa De Cv",
+            "nombre": "Servicio Dan Rom S.A. De C.V.",
             "cre_id": "PL/5975/EXP/ES/2015",
             "coords": {
                 "lat": 19.41101,
@@ -3608,7 +3608,7 @@
         },
         {
             "id": "5744",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Súper Servicio Los Fresnos S.A. De C.V.",
             "cre_id": "PL/5994/EXP/ES/2015",
             "coords": {
                 "lat": 19.50245,
@@ -3622,7 +3622,7 @@
         },
         {
             "id": "5808",
-            "nombre": "Servicio Aztlan Sa De Cv",
+            "nombre": "Servicio Aztlán S.A. De C.V.",
             "cre_id": "PL/4120/EXP/ES/2015",
             "coords": {
                 "lat": 19.54165,
@@ -3635,7 +3635,7 @@
         },
         {
             "id": "5810",
-            "nombre": "Gasolinera Las Arboledas Sa De Cv",
+            "nombre": "Gasolinera Las Arboledas S.A. De C.V.",
             "cre_id": "PL/3284/EXP/ES/2015",
             "coords": {
                 "lat": 19.55358,
@@ -3648,7 +3648,7 @@
         },
         {
             "id": "5812",
-            "nombre": "Soluciones P&L S A P I De Cv",
+            "nombre": "Soluciones P&L, S.A.P.I. De C. V.",
             "cre_id": "PL/4659/EXP/ES/2015",
             "coords": {
                 "lat": 19.41421,
@@ -3662,7 +3662,7 @@
         },
         {
             "id": "5852",
-            "nombre": "Soluciones P&L S A P I De Cv",
+            "nombre": "Soluciones P&L S. A. P. I. De C. V.",
             "cre_id": "PL/4663/EXP/ES/2015",
             "coords": {
                 "lat": 19.3881,
@@ -3675,7 +3675,7 @@
         },
         {
             "id": "5868",
-            "nombre": "Alm Gas Sa De Cv",
+            "nombre": "Alm Gas S.A. De C.V.",
             "cre_id": "PL/3709/EXP/ES/2015",
             "coords": {
                 "lat": 19.58982,
@@ -3689,7 +3689,7 @@
         },
         {
             "id": "5886",
-            "nombre": "Grupo Octanus Del Centro Sa De Cv",
+            "nombre": "Grupo Octanus Del Centro S.A. De C.V.",
             "cre_id": "PL/4559/EXP/ES/2015",
             "coords": {
                 "lat": 19.40327,
@@ -3702,7 +3702,7 @@
         },
         {
             "id": "5889",
-            "nombre": "Lubricantes Robi Sa De Cv",
+            "nombre": "Lubricantes Robi S.A. De C.V.",
             "cre_id": "PL/3540/EXP/ES/2015",
             "coords": {
                 "lat": 19.48769,
@@ -3716,20 +3716,20 @@
         },
         {
             "id": "5898",
-            "nombre": "Perez Y Merelles Sa De Cv",
+            "nombre": "Perez Y Merelles, S.A. De C.V.",
             "cre_id": "PL/3626/EXP/ES/2015",
             "coords": {
                 "lat": 19.46975,
                 "lon": -99.10093
             },
             "precios": {
-                "regular": 22.83,
+                "regular": 23.77,
                 "premium": 28.07
             }
         },
         {
             "id": "5921",
-            "nombre": "Grupo Gende Sa De Cv",
+            "nombre": "Grupo Gende S.A. De C.V.",
             "cre_id": "PL/4943/EXP/ES/2015",
             "coords": {
                 "lat": 19.44145,
@@ -3742,7 +3742,7 @@
         },
         {
             "id": "5953",
-            "nombre": "Mega Gasolineras Sa De Cv",
+            "nombre": "Mega Gasolineras S.A De C.V",
             "cre_id": "PL/4126/EXP/ES/2015",
             "coords": {
                 "lat": 19.36097,
@@ -3755,7 +3755,7 @@
         },
         {
             "id": "6013",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energéticos S.A. De C.V.",
             "cre_id": "PL/4072/EXP/ES/2015",
             "coords": {
                 "lat": 19.36796,
@@ -3768,7 +3768,7 @@
         },
         {
             "id": "6066",
-            "nombre": "Refacciones Modernas Romero Hnos Sa De Cv",
+            "nombre": "Refacciones Modernas Romero Hnos S.A. De C.V.",
             "cre_id": "PL/3324/EXP/ES/2015",
             "coords": {
                 "lat": 19.35291,
@@ -3781,7 +3781,7 @@
         },
         {
             "id": "6087",
-            "nombre": "Servicio Oxnard Sa De Cv",
+            "nombre": "Servicio Oxnard S.A. De C.V.",
             "cre_id": "PL/4502/EXP/ES/2015",
             "coords": {
                 "lat": 19.50705,
@@ -3794,7 +3794,7 @@
         },
         {
             "id": "6112",
-            "nombre": "Servicio Arenas Sa De Cv",
+            "nombre": "Servicio Arenas S.A. De C.V.",
             "cre_id": "PL/3520/EXP/ES/2015",
             "coords": {
                 "lat": 19.40472,
@@ -3808,7 +3808,7 @@
         },
         {
             "id": "6121",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energeticos, S.A. De C.V.",
             "cre_id": "PL/4703/EXP/ES/2015",
             "coords": {
                 "lat": 19.57992,
@@ -3821,7 +3821,7 @@
         },
         {
             "id": "6126",
-            "nombre": "Abastecedora Suzuka Sa De Cv",
+            "nombre": "Abastecedora Suzuka S.A. De C.V.",
             "cre_id": "PL/4388/EXP/ES/2015",
             "coords": {
                 "lat": 19.37857,
@@ -3835,7 +3835,7 @@
         },
         {
             "id": "6128",
-            "nombre": "Puerto Alisas Sa De Cv",
+            "nombre": "Puerto Alisas S.A. De C.V.",
             "cre_id": "PL/4170/EXP/ES/2015",
             "coords": {
                 "lat": 19.37984,
@@ -3848,7 +3848,7 @@
         },
         {
             "id": "6141",
-            "nombre": "Servicio Anzures Sa De Cv",
+            "nombre": "Servicio Anzures S.A. De C.V.",
             "cre_id": "PL/3384/EXP/ES/2015",
             "coords": {
                 "lat": 19.43506,
@@ -3861,7 +3861,7 @@
         },
         {
             "id": "6158",
-            "nombre": "Gasolinera Adosal Sa De Cv",
+            "nombre": "Gasolinera Adosal S.A. De C.V.",
             "cre_id": "PL/3422/EXP/ES/2015",
             "coords": {
                 "lat": 19.49957,
@@ -3874,7 +3874,7 @@
         },
         {
             "id": "6173",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/3565/EXP/ES/2015",
             "coords": {
                 "lat": 19.422,
@@ -3887,7 +3887,7 @@
         },
         {
             "id": "6207",
-            "nombre": "Servicio Coyoacan Sa De Cv",
+            "nombre": "Servicio Coyoacan S.A. De C.V.",
             "cre_id": "PL/3369/EXP/ES/2015",
             "coords": {
                 "lat": 19.34551,
@@ -3900,7 +3900,7 @@
         },
         {
             "id": "6208",
-            "nombre": "Soluciones P&L S A P I De Cv",
+            "nombre": "Soluciones P&L S. A. P. I. De C. V.",
             "cre_id": "PL/4718/EXP/ES/2015",
             "coords": {
                 "lat": 19.40533,
@@ -3913,7 +3913,7 @@
         },
         {
             "id": "6271",
-            "nombre": "Puerto Alisas Sa De Cv",
+            "nombre": "Puerto Alisas S.A. De C.V.",
             "cre_id": "PL/4917/EXP/ES/2015",
             "coords": {
                 "lat": 19.38,
@@ -3925,7 +3925,7 @@
         },
         {
             "id": "6276",
-            "nombre": "Soluciones P&L S A P I De Cv",
+            "nombre": "Soluciones P&L S. A. P. I. De C. V.",
             "cre_id": "PL/4714/EXP/ES/2015",
             "coords": {
                 "lat": 19.29267,
@@ -3939,7 +3939,7 @@
         },
         {
             "id": "6290",
-            "nombre": "Servicio Santa Fe Sa",
+            "nombre": "Servicio Santa Fe S. A.",
             "cre_id": "PL/3570/EXP/ES/2015",
             "coords": {
                 "lat": 19.55741,
@@ -3967,7 +3967,7 @@
         },
         {
             "id": "6370",
-            "nombre": "Operadoras De Gasolineras Del Centro Sa De Cv",
+            "nombre": "Operadora De Gasolineras Del Centro S.A. De C.V.",
             "cre_id": "PL/3650/EXP/ES/2015",
             "coords": {
                 "lat": 19.56881,
@@ -3981,7 +3981,7 @@
         },
         {
             "id": "6391",
-            "nombre": "Servicio La Quinta Ria Sa De Cv",
+            "nombre": "Servicio Quinta Ria S.A. De C.V.",
             "cre_id": "PL/3292/EXP/ES/2015",
             "coords": {
                 "lat": 19.38384,
@@ -3995,7 +3995,7 @@
         },
         {
             "id": "6428",
-            "nombre": "Servicio Norte Sa De Cv",
+            "nombre": "Servicio Norte S.A. De C.V.",
             "cre_id": "PL/4133/EXP/ES/2015",
             "coords": {
                 "lat": 19.45169,
@@ -4008,7 +4008,7 @@
         },
         {
             "id": "6460",
-            "nombre": "Soluciones P&L S A P I De Cv",
+            "nombre": "Soluciones P&L S. A. P. I. De C. V.",
             "cre_id": "PL/4650/EXP/ES/2015",
             "coords": {
                 "lat": 19.39915,
@@ -4021,7 +4021,7 @@
         },
         {
             "id": "6520",
-            "nombre": "Gasolinera Y Servicios Central Sa De Cv",
+            "nombre": "Gasolinera Y Servicios Central S.A. De C.V.",
             "cre_id": "PL/4355/EXP/ES/2015",
             "coords": {
                 "lat": 19.56886,
@@ -4035,7 +4035,7 @@
         },
         {
             "id": "6538",
-            "nombre": "Estaciones Ecologicas De Servicios Sa De Cv",
+            "nombre": "Estaciones De Ecologicas De Servicio S.A. De C.V.",
             "cre_id": "PL/4690/EXP/ES/2015",
             "coords": {
                 "lat": 19.46292,
@@ -4048,7 +4048,7 @@
         },
         {
             "id": "6542",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/3569/EXP/ES/2015",
             "coords": {
                 "lat": 19.4481,
@@ -4061,7 +4061,7 @@
         },
         {
             "id": "6635",
-            "nombre": "Servicio Peña Labra Sa De Cv",
+            "nombre": "Servicio Peña Labra, S.A. De C.V.",
             "cre_id": "PL/4218/EXP/ES/2015",
             "coords": {
                 "lat": 19.29066,
@@ -4075,7 +4075,7 @@
         },
         {
             "id": "6684",
-            "nombre": "Servicio Oriental Sa De Cv",
+            "nombre": "Servicio Oriental S.A. De C.V.",
             "cre_id": "PL/4092/EXP/ES/2015",
             "coords": {
                 "lat": 19.39704,
@@ -4088,7 +4088,7 @@
         },
         {
             "id": "6695",
-            "nombre": "Servicio Gran Via Sa De Cv",
+            "nombre": "Servicio Gran Via S.A. De C.V.",
             "cre_id": "PL/3424/EXP/ES/2015",
             "coords": {
                 "lat": 19.54102,
@@ -4115,7 +4115,7 @@
         },
         {
             "id": "6733",
-            "nombre": "Controladora De Estaciones De Servicio Sa De Cv",
+            "nombre": "Controladora De Estaciones De Servicio S.A. De C.V.",
             "cre_id": "PL/4073/EXP/ES/2015",
             "coords": {
                 "lat": 19.46682,
@@ -4129,7 +4129,7 @@
         },
         {
             "id": "6762",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/4519/EXP/ES/2015",
             "coords": {
                 "lat": 19.30416,
@@ -4143,7 +4143,7 @@
         },
         {
             "id": "6777",
-            "nombre": "Gasolinera Lam Sa De Cv",
+            "nombre": "Gasolinera Lam S.A. De C.V.",
             "cre_id": "PL/4940/EXP/ES/2015",
             "coords": {
                 "lat": 19.49635,
@@ -4157,7 +4157,7 @@
         },
         {
             "id": "6827",
-            "nombre": "Servicio Ferrocarriles S De Rl De Cv",
+            "nombre": "Servicio Ferrocarriles S.A. De C.V.",
             "cre_id": "PL/4641/EXP/ES/2015",
             "coords": {
                 "lat": 19.44671,
@@ -4170,7 +4170,7 @@
         },
         {
             "id": "6838",
-            "nombre": "Servicio El Escudo Sa De Cv",
+            "nombre": "Servicio El Escudo S.A. De C.V.",
             "cre_id": "PL/4166/EXP/ES/2015",
             "coords": {
                 "lat": 19.3372,
@@ -4184,7 +4184,7 @@
         },
         {
             "id": "6992",
-            "nombre": "Soluciones P&L S A P I De Cv",
+            "nombre": "Soluciones P&L, S.A.P.I. De C. V.",
             "cre_id": "PL/4649/EXP/ES/2015",
             "coords": {
                 "lat": 19.28126,
@@ -4198,7 +4198,7 @@
         },
         {
             "id": "7013",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/4112/EXP/ES/2015",
             "coords": {
                 "lat": 19.40227,
@@ -4211,7 +4211,7 @@
         },
         {
             "id": "7019",
-            "nombre": "Servicio Villamanin Sa De Cv",
+            "nombre": "Servicio Villamanin S.A. De C.V.",
             "cre_id": "PL/3552/EXP/ES/2015",
             "coords": {
                 "lat": 19.28573,
@@ -4225,7 +4225,7 @@
         },
         {
             "id": "7024",
-            "nombre": "Soluciones P&L S A P I De Cv",
+            "nombre": "Soluciones P&L, S.A.P.I. De C. V.",
             "cre_id": "PL/4713/EXP/ES/2015",
             "coords": {
                 "lat": 19.48686,
@@ -4239,7 +4239,7 @@
         },
         {
             "id": "7060",
-            "nombre": "Servicio Dakota Sa De Cv",
+            "nombre": "Servicio Dakota S.A. De C.V.",
             "cre_id": "PL/3279/EXP/ES/2015",
             "coords": {
                 "lat": 19.39767,
@@ -4252,7 +4252,7 @@
         },
         {
             "id": "7078",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/4542/EXP/ES/2015",
             "coords": {
                 "lat": 19.36028,
@@ -4265,7 +4265,7 @@
         },
         {
             "id": "7079",
-            "nombre": "Servicio Ecologico Chimalhuacan Sa De Cv",
+            "nombre": "Servicio Ecologico Chimalhuacan S.A. De C.V.",
             "cre_id": "PL/3930/EXP/ES/2015",
             "coords": {
                 "lat": 19.41302,
@@ -4278,7 +4278,7 @@
         },
         {
             "id": "7083",
-            "nombre": "Fuente Las Varas Sa De Cv",
+            "nombre": "Fuente Las Varas",
             "cre_id": "PL/4164/EXP/ES/2015",
             "coords": {
                 "lat": 19.34619,
@@ -4291,7 +4291,7 @@
         },
         {
             "id": "7097",
-            "nombre": "Promo Gas Sa De Cv",
+            "nombre": "Promo Gas S.A. De C.V.",
             "cre_id": "PL/4826/EXP/ES/2015",
             "coords": {
                 "lat": 19.38473,
@@ -4305,7 +4305,7 @@
         },
         {
             "id": "7159",
-            "nombre": "Inn Nueva York Sa De Cv",
+            "nombre": "Inn Nueva York S.A. De C.V.",
             "cre_id": "PL/3856/EXP/ES/2015",
             "coords": {
                 "lat": 19.30274,
@@ -4318,7 +4318,7 @@
         },
         {
             "id": "7190",
-            "nombre": "Operadora Gasoil Sa De Cv",
+            "nombre": "Operadora Gasoil S.A. De C.V.",
             "cre_id": "PL/4928/EXP/ES/2015",
             "coords": {
                 "lat": 19.37761,
@@ -4332,7 +4332,7 @@
         },
         {
             "id": "7197",
-            "nombre": "Servicio Alexandre Sa De Cv",
+            "nombre": "Servicio Alexandre S.A. De C.V.",
             "cre_id": "PL/3410/EXP/ES/2015",
             "coords": {
                 "lat": 19.5294,
@@ -4346,7 +4346,7 @@
         },
         {
             "id": "7243",
-            "nombre": "Servicio Bonar Sa De Cv",
+            "nombre": "Servicio Bonar S.A. De C.V.",
             "cre_id": "PL/3736/EXP/ES/2015",
             "coords": {
                 "lat": 19.30311,
@@ -4359,7 +4359,7 @@
         },
         {
             "id": "7281",
-            "nombre": "Operadora Gasoil Sa De Cv",
+            "nombre": "Operadora Gasoil S.A. De C.V.",
             "cre_id": "PL/4923/EXP/ES/2015",
             "coords": {
                 "lat": 19.35486,
@@ -4372,7 +4372,7 @@
         },
         {
             "id": "7303",
-            "nombre": "Irela Najera Juarez",
+            "nombre": "Aguilar Cordero Ernesto",
             "cre_id": "PL/4962/EXP/ES/2015",
             "coords": {
                 "lat": 19.38185,
@@ -4386,7 +4386,7 @@
         },
         {
             "id": "7313",
-            "nombre": "Arenteiro Gas Sa De Cv",
+            "nombre": "Arenteiro Gas S.A. De C.V.",
             "cre_id": "PL/3713/EXP/ES/2015",
             "coords": {
                 "lat": 19.57431,
@@ -4400,7 +4400,7 @@
         },
         {
             "id": "7343",
-            "nombre": "Operadora De Gasolineria El Coteron Sa De Cv",
+            "nombre": "Operadora De Gasolineria El Coteron S.A. De C.V.",
             "cre_id": "PL/4902/EXP/ES/2015",
             "coords": {
                 "lat": 19.46957,
@@ -4414,7 +4414,7 @@
         },
         {
             "id": "7344",
-            "nombre": "Inn Nueva York Sa De Cv",
+            "nombre": "Inn Nueva York S.A. De C.V.",
             "cre_id": "PL/3954/EXP/ES/2015",
             "coords": {
                 "lat": 19.38998,
@@ -4427,7 +4427,7 @@
         },
         {
             "id": "7414",
-            "nombre": "Gas Roan Sa De Cv",
+            "nombre": "Gas Roan S.A. De C.V.",
             "cre_id": "PL/4252/EXP/ES/2015",
             "coords": {
                 "lat": 19.3986,
@@ -4440,7 +4440,7 @@
         },
         {
             "id": "7521",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6738/EXP/ES/2015",
             "coords": {
                 "lat": 19.47486,
@@ -4453,7 +4453,7 @@
         },
         {
             "id": "7529",
-            "nombre": "Estacion De Carga Via Lactea Sa De Cv",
+            "nombre": "Estación De Carga Vía Láctea, S.A. De C.V.",
             "cre_id": "PL/6689/EXP/ES/2015",
             "coords": {
                 "lat": 19.31027,
@@ -4466,7 +4466,7 @@
         },
         {
             "id": "7596",
-            "nombre": "Grupo Gasolinero Dat S A P I De Cv",
+            "nombre": "Grupo Gasolinero Dat S. A. P. I. De C. V.",
             "cre_id": "PL/7057/EXP/ES/2015",
             "coords": {
                 "lat": 19.40687,
@@ -4480,7 +4480,7 @@
         },
         {
             "id": "7599",
-            "nombre": "Fuente De Carga Prefecta Sa De Cv",
+            "nombre": "Fuente De Carga Prefecta , S.A. De C.V.",
             "cre_id": "PL/6366/EXP/ES/2015",
             "coords": {
                 "lat": 19.45448,
@@ -4493,7 +4493,7 @@
         },
         {
             "id": "7606",
-            "nombre": "Servicio Ramirez E Hijos Sa De Cv",
+            "nombre": "Servicio Ramírez E Hijos S.A. De C.V.",
             "cre_id": "PL/6427/EXP/ES/2015",
             "coords": {
                 "lat": 19.46066,
@@ -4507,7 +4507,7 @@
         },
         {
             "id": "7609",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus, S.A. De C.V.",
             "cre_id": "PL/6957/EXP/ES/2015",
             "coords": {
                 "lat": 19.52164,
@@ -4521,7 +4521,7 @@
         },
         {
             "id": "7619",
-            "nombre": "Estación De Servicio Calzada De La Viga, S.A. De C.V.",
+            "nombre": "Estación De Servicio Calzada De La Viga S.A. De C.V.",
             "cre_id": "PL/6369/EXP/ES/2015",
             "coords": {
                 "lat": 19.40696,
@@ -4534,7 +4534,7 @@
         },
         {
             "id": "7622",
-            "nombre": "Servicio Gasolinero Loga Sa De Cv",
+            "nombre": "Servicio Gasolinero Loga S.A. De C.V.",
             "cre_id": "PL/6923/EXP/ES/2015",
             "coords": {
                 "lat": 19.53448,
@@ -4547,7 +4547,7 @@
         },
         {
             "id": "7630",
-            "nombre": "Estacion De Servicio Y Gasolinera Los Reyes S De Rl De Cv",
+            "nombre": "Estación De Servicio Y Gasolinera Los Reyes S. De R. L. De C. V.",
             "cre_id": "PL/6343/EXP/ES/2015",
             "coords": {
                 "lat": 19.35859,
@@ -4561,7 +4561,7 @@
         },
         {
             "id": "7633",
-            "nombre": "Estacion De Servicio Y Gasolineria Ignacio Zaragoza Sa De Cv",
+            "nombre": "Estación De Servicio Y Gasolineria Ignacio Zaragoza S.A. De C.V.",
             "cre_id": "PL/6334/EXP/ES/2015",
             "coords": {
                 "lat": 19.37355,
@@ -4575,7 +4575,7 @@
         },
         {
             "id": "7637",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6408/EXP/ES/2015",
             "coords": {
                 "lat": 19.48749,
@@ -4589,7 +4589,7 @@
         },
         {
             "id": "7646",
-            "nombre": "Estacion De Carga Via Lactea Sa De Cv",
+            "nombre": "Estación De Carga Vía Láctea, S.A. De C.V.",
             "cre_id": "PL/6692/EXP/ES/2015",
             "coords": {
                 "lat": 19.34328,
@@ -4603,7 +4603,7 @@
         },
         {
             "id": "7653",
-            "nombre": "Servicio Garay S De Rl De Cv",
+            "nombre": "Servicio Garay S.A. De C.V.",
             "cre_id": "PL/6485/EXP/ES/2015",
             "coords": {
                 "lat": 19.33776,
@@ -4617,7 +4617,7 @@
         },
         {
             "id": "7670",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6751/EXP/ES/2015",
             "coords": {
                 "lat": 19.45787,
@@ -4630,7 +4630,7 @@
         },
         {
             "id": "7714",
-            "nombre": "Servicio Eje Seis Sa De Cv",
+            "nombre": "Servicio Eje Seis S.A. De C.V.",
             "cre_id": "PL/6936/EXP/ES/2015",
             "coords": {
                 "lat": 19.37849,
@@ -4644,7 +4644,7 @@
         },
         {
             "id": "7743",
-            "nombre": "Servicio Cieneguitas Sa De Cv",
+            "nombre": "Servicio Cieneguitas S.A. De C.V.",
             "cre_id": "PL/6632/EXP/ES/2015",
             "coords": {
                 "lat": 19.4298,
@@ -4657,7 +4657,7 @@
         },
         {
             "id": "7750",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6712/EXP/ES/2015",
             "coords": {
                 "lat": 19.41518,
@@ -4670,7 +4670,7 @@
         },
         {
             "id": "7777",
-            "nombre": "Servicio Moreno Plutarco Sa",
+            "nombre": "Servicio Moreno Plutarco S. A.",
             "cre_id": "PL/6789/EXP/ES/2015",
             "coords": {
                 "lat": 19.3598,
@@ -4683,7 +4683,7 @@
         },
         {
             "id": "7778",
-            "nombre": "Gas 122 Sa De Cv",
+            "nombre": "Gas 122 S.A. De C.V.",
             "cre_id": "PL/6956/EXP/ES/2015",
             "coords": {
                 "lat": 19.48802,
@@ -4697,7 +4697,7 @@
         },
         {
             "id": "7784",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6770/EXP/ES/2015",
             "coords": {
                 "lat": 19.42839,
@@ -4710,7 +4710,7 @@
         },
         {
             "id": "7787",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6683/EXP/ES/2015",
             "coords": {
                 "lat": 19.40159,
@@ -4723,7 +4723,7 @@
         },
         {
             "id": "7814",
-            "nombre": "Servicio Herradura Sa De Cv",
+            "nombre": "Servicio Herradura S.A. De C.V.",
             "cre_id": "PL/7065/EXP/ES/2015",
             "coords": {
                 "lat": 19.41862,
@@ -4737,7 +4737,7 @@
         },
         {
             "id": "7847",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6728/EXP/ES/2015",
             "coords": {
                 "lat": 19.40123,
@@ -4750,7 +4750,7 @@
         },
         {
             "id": "7849",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv, S.A. De C.V",
             "cre_id": "PL/6691/EXP/ES/2015",
             "coords": {
                 "lat": 19.34363,
@@ -4764,7 +4764,7 @@
         },
         {
             "id": "7853",
-            "nombre": "Gas Barrientos Sa De Cv",
+            "nombre": "Gas Barrientos S.A. De C.V.",
             "cre_id": "PL/6942/EXP/ES/2015",
             "coords": {
                 "lat": 19.58417,
@@ -4778,7 +4778,7 @@
         },
         {
             "id": "7871",
-            "nombre": "Gasolineria Canarias S De Rl De Cv",
+            "nombre": "Gasolinería Canarias S.A. De C.V.",
             "cre_id": "PL/6928/EXP/ES/2015",
             "coords": {
                 "lat": 19.46611,
@@ -4791,7 +4791,7 @@
         },
         {
             "id": "7873",
-            "nombre": "Estacion De Servicio 0210 Sa De Cv",
+            "nombre": "Estación De Servicio 0210 S.A. De C.V.",
             "cre_id": "PL/7149/EXP/ES/2015",
             "coords": {
                 "lat": 19.29772,
@@ -4805,7 +4805,7 @@
         },
         {
             "id": "7874",
-            "nombre": "Inmuebles Julien Sa",
+            "nombre": "Inmuebles Julien S. A.",
             "cre_id": "PL/6379/EXP/ES/2015",
             "coords": {
                 "lat": 19.45794,
@@ -4818,7 +4818,7 @@
         },
         {
             "id": "7877",
-            "nombre": "Corporativo Gasolinero Jae Sa De Cv",
+            "nombre": "Corporativo Gasolinero Jae S.A. De C.V.",
             "cre_id": "PL/6500/EXP/ES/2015",
             "coords": {
                 "lat": 19.55377,
@@ -4832,7 +4832,7 @@
         },
         {
             "id": "7887",
-            "nombre": "Servicio Rio De La Plata Sa De Cv",
+            "nombre": "Servicio Río De La Plata S.A. De C.V.",
             "cre_id": "PL/6857/EXP/ES/2015",
             "coords": {
                 "lat": 19.42785,
@@ -4845,7 +4845,7 @@
         },
         {
             "id": "7905",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6364/EXP/ES/2015",
             "coords": {
                 "lat": 19.40896,
@@ -4858,7 +4858,7 @@
         },
         {
             "id": "7978",
-            "nombre": "Grupo Tambre Sa De Cv",
+            "nombre": "Grupo Tambre S.A. De C.V.",
             "cre_id": "PL/6556/EXP/ES/2015",
             "coords": {
                 "lat": 19.36309,
@@ -4872,7 +4872,7 @@
         },
         {
             "id": "7979",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6696/EXP/ES/2015",
             "coords": {
                 "lat": 19.39223,
@@ -4886,7 +4886,7 @@
         },
         {
             "id": "7984",
-            "nombre": "Gasomer Sa De Cv",
+            "nombre": "Gasomer S.A. De C.V.",
             "cre_id": "PL/6531/EXP/ES/2015",
             "coords": {
                 "lat": 19.54813,
@@ -4900,7 +4900,7 @@
         },
         {
             "id": "7985",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6350/EXP/ES/2015",
             "coords": {
                 "lat": 19.39031,
@@ -4914,7 +4914,7 @@
         },
         {
             "id": "7988",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6705/EXP/ES/2015",
             "coords": {
                 "lat": 19.34741,
@@ -4927,7 +4927,7 @@
         },
         {
             "id": "8025",
-            "nombre": "Gasotodo S De Rl De Cv",
+            "nombre": "Gasotodo S. De R. L. De C. V.",
             "cre_id": "PL/6627/EXP/ES/2015",
             "coords": {
                 "lat": 19.37275,
@@ -4941,7 +4941,7 @@
         },
         {
             "id": "8026",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6565/EXP/ES/2015",
             "coords": {
                 "lat": 19.45234,
@@ -4954,7 +4954,7 @@
         },
         {
             "id": "8054",
-            "nombre": "Servicio Tulyehualco Sa De Cv",
+            "nombre": "Servicio Tulyehualco S.A. De C.V.",
             "cre_id": "PL/6979/EXP/ES/2015",
             "coords": {
                 "lat": 19.25722,
@@ -4968,7 +4968,7 @@
         },
         {
             "id": "8072",
-            "nombre": "Gasolinera Alfa Sa De Cv",
+            "nombre": "Gasolinera Alfa S.A. De C.V.",
             "cre_id": "PL/6337/EXP/ES/2015",
             "coords": {
                 "lat": 19.37955,
@@ -4981,7 +4981,7 @@
         },
         {
             "id": "8098",
-            "nombre": "Estacion De Servicio Vallejo Sa De Cv",
+            "nombre": "Estación De Servicio Vallejo S.A. De C.V.",
             "cre_id": "PL/6962/EXP/ES/2015",
             "coords": {
                 "lat": 19.48517,
@@ -4995,7 +4995,7 @@
         },
         {
             "id": "8114",
-            "nombre": "Manuel Ricardo Piñeirua Fernandez",
+            "nombre": "Manuel Ricardo Piñeirua Fernández",
             "cre_id": "PL/7031/EXP/ES/2015",
             "coords": {
                 "lat": 19.3949,
@@ -5007,7 +5007,7 @@
         },
         {
             "id": "8128",
-            "nombre": "Gasolineria Miramontes S De Rl De Cv",
+            "nombre": "Gasolinería Miramontes S.A. De C.V.",
             "cre_id": "PL/6540/EXP/ES/2015",
             "coords": {
                 "lat": 19.29,
@@ -5021,7 +5021,7 @@
         },
         {
             "id": "8141",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv, S.A. De C.V",
             "cre_id": "PL/6686/EXP/ES/2015",
             "coords": {
                 "lat": 19.58324,
@@ -5035,7 +5035,7 @@
         },
         {
             "id": "8147",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6710/EXP/ES/2015",
             "coords": {
                 "lat": 19.39709,
@@ -5048,7 +5048,7 @@
         },
         {
             "id": "8155",
-            "nombre": "Servicio Cuatro Vientos Vazquez Sa De Cv",
+            "nombre": "Servicio Cuatro Vientos Vazquez S.A. De C.V.",
             "cre_id": "PL/7082/EXP/ES/2015",
             "coords": {
                 "lat": 19.37813,
@@ -5062,7 +5062,7 @@
         },
         {
             "id": "8170",
-            "nombre": "Estacion De Carga Via Lactea Sa De Cv",
+            "nombre": "Estación De Carga Vía Láctea, S.A. De C.V.",
             "cre_id": "PL/6562/EXP/ES/2015",
             "coords": {
                 "lat": 19.55712,
@@ -5076,7 +5076,7 @@
         },
         {
             "id": "8187",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6706/EXP/ES/2015",
             "coords": {
                 "lat": 19.38864,
@@ -5102,7 +5102,7 @@
         },
         {
             "id": "8190",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6749/EXP/ES/2015",
             "coords": {
                 "lat": 19.39958,
@@ -5115,7 +5115,7 @@
         },
         {
             "id": "8192",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energeticos, S.A. De C.V.",
             "cre_id": "PL/6402/EXP/ES/2015",
             "coords": {
                 "lat": 19.35813,
@@ -5128,7 +5128,7 @@
         },
         {
             "id": "8198",
-            "nombre": "Conxo Sa De Cv",
+            "nombre": "Conxo S.A. De C.V.",
             "cre_id": "PL/6944/EXP/ES/2015",
             "coords": {
                 "lat": 19.39519,
@@ -5142,7 +5142,7 @@
         },
         {
             "id": "8200",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6687/EXP/ES/2015",
             "coords": {
                 "lat": 19.37937,
@@ -5155,7 +5155,7 @@
         },
         {
             "id": "8204",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6700/EXP/ES/2015",
             "coords": {
                 "lat": 19.42406,
@@ -5168,7 +5168,7 @@
         },
         {
             "id": "8227",
-            "nombre": "Servicio Tenayuca Sa De Cv",
+            "nombre": "Servicio Tenayuca S.A. De C.V.",
             "cre_id": "PL/6927/EXP/ES/2015",
             "coords": {
                 "lat": 19.52949,
@@ -5182,7 +5182,7 @@
         },
         {
             "id": "8230",
-            "nombre": "Servicio Gasolinero La Loma Sa De Cv",
+            "nombre": "Servicio Gasolinero La Loma S.A. De C.V.",
             "cre_id": "PL/7030/EXP/ES/2015",
             "coords": {
                 "lat": 19.53215,
@@ -5196,7 +5196,7 @@
         },
         {
             "id": "8251",
-            "nombre": "Servicio Integral Nacional Sa De Cv",
+            "nombre": "Servicio Integral Nacional S.A. De C.V.",
             "cre_id": "PL/6845/EXP/ES/2015",
             "coords": {
                 "lat": 19.36219,
@@ -5209,7 +5209,7 @@
         },
         {
             "id": "8293",
-            "nombre": "Vima Ol Sa",
+            "nombre": "Vima Ol S.A. De C.V.",
             "cre_id": "PL/6546/EXP/ES/2015",
             "coords": {
                 "lat": 19.20064,
@@ -5222,7 +5222,7 @@
         },
         {
             "id": "8310",
-            "nombre": "Servicio Mateo Sa De Cv",
+            "nombre": "Servicio Mateo S.A. De C.V.",
             "cre_id": "PL/6950/EXP/ES/2015",
             "coords": {
                 "lat": 19.56323,
@@ -5236,7 +5236,7 @@
         },
         {
             "id": "8330",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6598/EXP/ES/2015",
             "coords": {
                 "lat": 19.49509,
@@ -5249,7 +5249,7 @@
         },
         {
             "id": "8346",
-            "nombre": "Rafael Hernandez Lopez",
+            "nombre": "Rafael Hernández López",
             "cre_id": "PL/6363/EXP/ES/2015",
             "coords": {
                 "lat": 19.39263,
@@ -5262,7 +5262,7 @@
         },
         {
             "id": "8360",
-            "nombre": "Operadora Mexico Tacuba Sa De Cv",
+            "nombre": "Operadora México Tacuba S.A. De C.V.",
             "cre_id": "PL/6938/EXP/ES/2015",
             "coords": {
                 "lat": 19.45768,
@@ -5276,7 +5276,7 @@
         },
         {
             "id": "8363",
-            "nombre": "Servicio Jinetes Sa De Cv",
+            "nombre": "Servicio Jinetes S.A. De C.V.",
             "cre_id": "PL/6277/EXP/ES/2015",
             "coords": {
                 "lat": 19.56043,
@@ -5289,7 +5289,7 @@
         },
         {
             "id": "8370",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6733/EXP/ES/2015",
             "coords": {
                 "lat": 19.48499,
@@ -5302,7 +5302,7 @@
         },
         {
             "id": "8380",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv, S.A. De C.V",
             "cre_id": "PL/6684/EXP/ES/2015",
             "coords": {
                 "lat": 19.37045,
@@ -5316,7 +5316,7 @@
         },
         {
             "id": "8401",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6694/EXP/ES/2015",
             "coords": {
                 "lat": 19.41283,
@@ -5329,7 +5329,7 @@
         },
         {
             "id": "8428",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6723/EXP/ES/2015",
             "coords": {
                 "lat": 19.40314,
@@ -5342,7 +5342,7 @@
         },
         {
             "id": "8440",
-            "nombre": "Estacion De Servicio Hades S De Rl De Cv",
+            "nombre": "Estación De Servicio Hades S.A. De C.V.",
             "cre_id": "PL/6543/EXP/ES/2015",
             "coords": {
                 "lat": 19.52035,
@@ -5356,7 +5356,7 @@
         },
         {
             "id": "8458",
-            "nombre": "Oitaben Gas Sa De Cv",
+            "nombre": "Oitaben Gas S.A. De C.V.",
             "cre_id": "PL/6552/EXP/ES/2015",
             "coords": {
                 "lat": 19.58102,
@@ -5370,7 +5370,7 @@
         },
         {
             "id": "8491",
-            "nombre": "Inmobiliaria Rojas & Gas Sa De Cv",
+            "nombre": "Inmobiliaria Rojas & Gas S.A. De C.V.",
             "cre_id": "PL/6850/EXP/ES/2015",
             "coords": {
                 "lat": 19.53076,
@@ -5383,7 +5383,7 @@
         },
         {
             "id": "8518",
-            "nombre": "Servicio Plaza Rosa Sa De Cv",
+            "nombre": "Servicio Plaza Rosa S.A. De C.V.",
             "cre_id": "PL/6949/EXP/ES/2015",
             "coords": {
                 "lat": 19.53767,
@@ -5396,7 +5396,7 @@
         },
         {
             "id": "8520",
-            "nombre": "Estacion De Servicio Menorca, Sa De Cv",
+            "nombre": "Estación De Servicio Menorca S.A. De C.V.",
             "cre_id": "PL/6759/EXP/ES/2015",
             "coords": {
                 "lat": 19.42305,
@@ -5410,7 +5410,7 @@
         },
         {
             "id": "8523",
-            "nombre": "Servicio Santa Ursula Sa De Cv",
+            "nombre": "Servicio Santa Ursula S.A. De C.V.",
             "cre_id": "PL/6487/EXP/ES/2015",
             "coords": {
                 "lat": 19.31236,
@@ -5424,7 +5424,7 @@
         },
         {
             "id": "8524",
-            "nombre": "Servicios Santa Maria S De Rl De Cv",
+            "nombre": "Servicios Santa María S. De R. L. De C. V.",
             "cre_id": "PL/6331/EXP/ES/2015",
             "coords": {
                 "lat": 19.35983,
@@ -5437,7 +5437,7 @@
         },
         {
             "id": "8532",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/6698/EXP/ES/2015",
             "coords": {
                 "lat": 19.4203,
@@ -5451,7 +5451,7 @@
         },
         {
             "id": "8537",
-            "nombre": "Gas Acatitla Sa De Cv",
+            "nombre": "Gas Acatitla S.A. De C.V.",
             "cre_id": "PL/6946/EXP/ES/2015",
             "coords": {
                 "lat": 19.36457,
@@ -5465,7 +5465,7 @@
         },
         {
             "id": "8574",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/7851/EXP/ES/2015",
             "coords": {
                 "lat": 19.28972,
@@ -5479,7 +5479,7 @@
         },
         {
             "id": "8605",
-            "nombre": "Hidrocarburos De Chalco Sa De Cv",
+            "nombre": "Hidrocarburos De Chalco, S.A. De C.V.",
             "cre_id": "PL/7988/EXP/ES/2015",
             "coords": {
                 "lat": 19.32538,
@@ -5493,7 +5493,7 @@
         },
         {
             "id": "8637",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Gpdc Estaciones De Servicio, S. A. De C. V.",
             "cre_id": "PL/8008/EXP/ES/2015",
             "coords": {
                 "lat": 19.48268,
@@ -5507,7 +5507,7 @@
         },
         {
             "id": "8647",
-            "nombre": "Super Servicio Nuevo Bc Sa De Cv",
+            "nombre": "Súper Servicio Nuevo Bc S.A. De C.V.",
             "cre_id": "PL/7803/EXP/ES/2015",
             "coords": {
                 "lat": 19.4054,
@@ -5520,7 +5520,7 @@
         },
         {
             "id": "8664",
-            "nombre": "Inmobiliaria Terminal De Carga Oriente Sa De Cv",
+            "nombre": "Inmobiliaria Terminal De Carga Oriente S.A. De C.V.",
             "cre_id": "PL/7740/EXP/ES/2015",
             "coords": {
                 "lat": 19.37312,
@@ -5534,7 +5534,7 @@
         },
         {
             "id": "8678",
-            "nombre": "Super Servicio Echegaray Sa De Cv",
+            "nombre": "Súper Servicio Echegaray S.A. De C.V.",
             "cre_id": "PL/7705/EXP/ES/2015",
             "coords": {
                 "lat": 19.49798,
@@ -5548,7 +5548,7 @@
         },
         {
             "id": "8737",
-            "nombre": "Servicio Moncobe Sa De Cv",
+            "nombre": "Servicio Moncobe S.A. De C.V.",
             "cre_id": "PL/7540/EXP/ES/2015",
             "coords": {
                 "lat": 19.414,
@@ -5562,7 +5562,7 @@
         },
         {
             "id": "8755",
-            "nombre": "Servicio El Once Sa De Cv",
+            "nombre": "Servicio El Once S.A. De C.V.",
             "cre_id": "PL/7524/EXP/ES/2015",
             "coords": {
                 "lat": 19.35508,
@@ -5576,7 +5576,7 @@
         },
         {
             "id": "8768",
-            "nombre": "Comercial Ulises Sa De Cv",
+            "nombre": "Comercial Ulises S.A. De C.V.",
             "cre_id": "PL/7800/EXP/ES/2015",
             "coords": {
                 "lat": 19.41006,
@@ -5590,7 +5590,7 @@
         },
         {
             "id": "8775",
-            "nombre": "Servicio Automotriz Xola Sa De Cv",
+            "nombre": "Servicio Automotriz Xola S.A. De C.V.",
             "cre_id": "PL/7395/EXP/ES/2015",
             "coords": {
                 "lat": 19.39431,
@@ -5603,7 +5603,7 @@
         },
         {
             "id": "8829",
-            "nombre": "Super Servicio Carretera Sa De Cv",
+            "nombre": "Súper Servicio Carretera S.A. De C.V.",
             "cre_id": "PL/7808/EXP/ES/2015",
             "coords": {
                 "lat": 19.38169,
@@ -5617,7 +5617,7 @@
         },
         {
             "id": "8846",
-            "nombre": "Servicio Conscripto Sa De Cv",
+            "nombre": "Servicio Conscripto S.A. De C.V.",
             "cre_id": "PL/7804/EXP/ES/2015",
             "coords": {
                 "lat": 19.43815,
@@ -5630,7 +5630,7 @@
         },
         {
             "id": "8847",
-            "nombre": "Estacion De Carga Via Lactea Sa De Cv",
+            "nombre": "Estación De Carga Vía Láctea S.A. De C.V.",
             "cre_id": "PL/7519/EXP/ES/2015",
             "coords": {
                 "lat": 19.58536,
@@ -5644,7 +5644,7 @@
         },
         {
             "id": "8874",
-            "nombre": "Estacion De Carga Via Lactea Sa De Cv",
+            "nombre": "Estación De Carga Vía Láctea S.A. De C.V.",
             "cre_id": "PL/7404/EXP/ES/2015",
             "coords": {
                 "lat": 19.4645,
@@ -5657,7 +5657,7 @@
         },
         {
             "id": "8887",
-            "nombre": "Aeropuertos Y Servicios Auxiliares Sin Tipo De Sociedad",
+            "nombre": "Aeropuertos Y Servicios Auxiliares",
             "cre_id": "PL/7717/EXP/ES/2015",
             "coords": {
                 "lat": 19.43977,
@@ -5671,7 +5671,7 @@
         },
         {
             "id": "8905",
-            "nombre": "Juambelz Negocios Sa De Cv",
+            "nombre": "Juambelz Negocios S.A. De C.V.",
             "cre_id": "PL/7704/EXP/ES/2015",
             "coords": {
                 "lat": 19.40166,
@@ -5685,7 +5685,7 @@
         },
         {
             "id": "8984",
-            "nombre": "Operadora Digalpa Sa De Cv",
+            "nombre": "Operadora Digalpa S.A. De C.V.",
             "cre_id": "PL/7706/EXP/ES/2015",
             "coords": {
                 "lat": 19.53108,
@@ -5699,7 +5699,7 @@
         },
         {
             "id": "9065",
-            "nombre": "Operadora Moaña Sa De Cv",
+            "nombre": "Operadora Moaña S.A. De C.V.",
             "cre_id": "PL/7708/EXP/ES/2015",
             "coords": {
                 "lat": 19.52893,
@@ -5713,7 +5713,7 @@
         },
         {
             "id": "9196",
-            "nombre": "Servicio Navarro Sa De Cv",
+            "nombre": "Servicio Navarro S.A. De C.V.",
             "cre_id": "PL/7805/EXP/ES/2015",
             "coords": {
                 "lat": 19.43196,
@@ -5726,7 +5726,7 @@
         },
         {
             "id": "9240",
-            "nombre": "Servicios Felusa Sa",
+            "nombre": "Servicios Felusa S.A. De C.V.",
             "cre_id": "PL/7904/EXP/ES/2015",
             "coords": {
                 "lat": 19.39841,
@@ -5739,7 +5739,7 @@
         },
         {
             "id": "9251",
-            "nombre": "Servicio Vertiz Sa De Cv",
+            "nombre": "Servicio Vertiz S.A. De C.V.",
             "cre_id": "PL/7797/EXP/ES/2015",
             "coords": {
                 "lat": 19.40734,
@@ -5752,7 +5752,7 @@
         },
         {
             "id": "9273",
-            "nombre": "Estacion De Carga Via Lactea Sa De Cv",
+            "nombre": "Estación De Carga Vía Láctea S.A. De C.V.",
             "cre_id": "PL/7405/EXP/ES/2015",
             "coords": {
                 "lat": 19.37566,
@@ -5780,7 +5780,7 @@
         },
         {
             "id": "9327",
-            "nombre": "Servicios Ciudad Jardin Sa De Cv",
+            "nombre": "Servicios Ciudad Jardin S.A. De C.V.",
             "cre_id": "PL/8185/EXP/ES/2015",
             "coords": {
                 "lat": 19.33665,
@@ -5794,7 +5794,7 @@
         },
         {
             "id": "9340",
-            "nombre": "Comercializadora Coneza Sa De Cv",
+            "nombre": "Comercializadora Coneza S.A. De C.V.",
             "cre_id": "PL/8307/EXP/ES/2015",
             "coords": {
                 "lat": 19.4192,
@@ -5807,7 +5807,7 @@
         },
         {
             "id": "9362",
-            "nombre": "Servicio Ecologico De Mexico Sa De Cv",
+            "nombre": "Servicio Ecologico De México S.A. De C.V.",
             "cre_id": "PL/8191/EXP/ES/2015",
             "coords": {
                 "lat": 19.43095,
@@ -5820,7 +5820,7 @@
         },
         {
             "id": "9383",
-            "nombre": "Hidrosina Plus S A P I De Cv",
+            "nombre": "Hidrosina Plus S. A. P. I. De C. V.",
             "cre_id": "PL/8484/EXP/ES/2015",
             "coords": {
                 "lat": 19.39392,
@@ -5833,7 +5833,7 @@
         },
         {
             "id": "9398",
-            "nombre": "Operadora Circunvalacion Sa De Cv",
+            "nombre": "Operadora Circunvalación S.A. De C.V.",
             "cre_id": "PL/8773/EXP/ES/2015",
             "coords": {
                 "lat": 19.4552,
@@ -5847,7 +5847,7 @@
         },
         {
             "id": "9418",
-            "nombre": "Hidrosina Plus S A P I De Cv",
+            "nombre": "Hidrosina Plus S. A. P. I. De C. V.",
             "cre_id": "PL/8275/EXP/ES/2015",
             "coords": {
                 "lat": 19.45992,
@@ -5860,7 +5860,7 @@
         },
         {
             "id": "9443",
-            "nombre": "Servicio Javier Meza Sa De Cv",
+            "nombre": "Servicio Javier Meza S.A. De C.V.",
             "cre_id": "PL/8651/EXP/ES/2015",
             "coords": {
                 "lat": 19.26505,
@@ -5874,7 +5874,7 @@
         },
         {
             "id": "9482",
-            "nombre": "Estacion De Servicios Para Autos Circuito Sa De Cv",
+            "nombre": "Estación De Servicios Para Autos Circuito S.A. De C.V.",
             "cre_id": "PL/8770/EXP/ES/2015",
             "coords": {
                 "lat": 19.4407,
@@ -5901,7 +5901,7 @@
         },
         {
             "id": "9509",
-            "nombre": "Servicio Ecologico Rio De Los Remedios Sa De Cv",
+            "nombre": "Servicio Ecologico Río De Los Remedios S.A. De C.V.",
             "cre_id": "PL/8299/EXP/ES/2015",
             "coords": {
                 "lat": 19.50303,
@@ -5914,7 +5914,7 @@
         },
         {
             "id": "9527",
-            "nombre": "Servicio Gasolinero Gal Sa De Cv",
+            "nombre": "Servicio Gasolinero Gal S.A. De C.V.",
             "cre_id": "PL/8591/EXP/ES/2015",
             "coords": {
                 "lat": 19.51177,
@@ -5928,7 +5928,7 @@
         },
         {
             "id": "9528",
-            "nombre": "Servicio Tulcingo Sa De Cv",
+            "nombre": "Servicio Tulcingo S.A. De C.V.",
             "cre_id": "PL/8696/EXP/ES/2015",
             "coords": {
                 "lat": 19.31467,
@@ -5942,7 +5942,7 @@
         },
         {
             "id": "9613",
-            "nombre": "Servicio Riviera Sa",
+            "nombre": "Servicio Riviera S. A.",
             "cre_id": "PL/8535/EXP/ES/2015",
             "coords": {
                 "lat": 19.37792,
@@ -5955,7 +5955,7 @@
         },
         {
             "id": "9634",
-            "nombre": "Estacion De Servicio Para Autos Centro Sa De Cv",
+            "nombre": "Estación De Servicio Para Autos Centro S.A. De C.V.",
             "cre_id": "PL/8771/EXP/ES/2015",
             "coords": {
                 "lat": 19.42038,
@@ -5969,7 +5969,7 @@
         },
         {
             "id": "9658",
-            "nombre": "Servicio Comonfort Sa De Cv",
+            "nombre": "Servicio Comonfort S.A. De C.V.",
             "cre_id": "PL/8719/EXP/ES/2015",
             "coords": {
                 "lat": 19.44478,
@@ -5996,7 +5996,7 @@
         },
         {
             "id": "9770",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/8368/EXP/ES/2015",
             "coords": {
                 "lat": 19.45635,
@@ -6009,7 +6009,7 @@
         },
         {
             "id": "9778",
-            "nombre": "Gasolinerias Ps Sa De Cv",
+            "nombre": "Gasolinerias Ps S.A. De C.V.",
             "cre_id": "PL/8706/EXP/ES/2015",
             "coords": {
                 "lat": 19.2663,
@@ -6023,7 +6023,7 @@
         },
         {
             "id": "9782",
-            "nombre": "Estacion La Laguna Sa De Cv",
+            "nombre": "Estación La Laguna S.A. De C.V.",
             "cre_id": "PL/8462/EXP/ES/2015",
             "coords": {
                 "lat": 19.44039,
@@ -6050,7 +6050,7 @@
         },
         {
             "id": "9811",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/8584/EXP/ES/2015",
             "coords": {
                 "lat": 19.52319,
@@ -6064,7 +6064,7 @@
         },
         {
             "id": "9817",
-            "nombre": "Super Servicio Atizapan Sa De Cv",
+            "nombre": "Súper Servicio Atizapan S.A. De C.V.",
             "cre_id": "PL/8713/EXP/ES/2015",
             "coords": {
                 "lat": 19.56764,
@@ -6078,7 +6078,7 @@
         },
         {
             "id": "9836",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energeticos, S.A. De C.V.",
             "cre_id": "PL/8653/EXP/ES/2015",
             "coords": {
                 "lat": 19.37643,
@@ -6091,7 +6091,7 @@
         },
         {
             "id": "9839",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/8538/EXP/ES/2015",
             "coords": {
                 "lat": 19.45512,
@@ -6105,7 +6105,7 @@
         },
         {
             "id": "9860",
-            "nombre": "Inmobiliaria Los Reyes Fiasa Sa De Cv",
+            "nombre": "Inmobiliaria Los Reyes Fiasa S.A. De C.V.",
             "cre_id": "PL/8151/EXP/ES/2015",
             "coords": {
                 "lat": 19.4247,
@@ -6119,7 +6119,7 @@
         },
         {
             "id": "9898",
-            "nombre": "Super Servicio Bulevares Sa De Cv",
+            "nombre": "Súper Servicio Bulevares S.A. De C.V.",
             "cre_id": "PL/8714/EXP/ES/2015",
             "coords": {
                 "lat": 19.48882,
@@ -6132,7 +6132,7 @@
         },
         {
             "id": "9920",
-            "nombre": "Servicio Tlatilco Sa De Cv",
+            "nombre": "Servicio Tlatilco S.A. De C.V.",
             "cre_id": "PL/8731/EXP/ES/2015",
             "coords": {
                 "lat": 19.46663,
@@ -6146,7 +6146,7 @@
         },
         {
             "id": "9980",
-            "nombre": "Corporacion Gasolinera Millenium Sa De Cv",
+            "nombre": "Corporación Gasolinera Millenium S.A. De C.V.",
             "cre_id": "PL/8923/EXP/ES/2015",
             "coords": {
                 "lat": 19.50339,
@@ -6160,7 +6160,7 @@
         },
         {
             "id": "9982",
-            "nombre": "Gasotanny Sa De Cv",
+            "nombre": "Gasotanny S.A. De C.V.",
             "cre_id": "PL/8916/EXP/ES/2015",
             "coords": {
                 "lat": 19.45424,
@@ -6173,7 +6173,7 @@
         },
         {
             "id": "9985",
-            "nombre": "Corporacion Gasolinera Millenium Sa De Cv",
+            "nombre": "Corporación Gasolinera Millenium S.A. De C.V.",
             "cre_id": "PL/8939/EXP/ES/2015",
             "coords": {
                 "lat": 19.43856,
@@ -6186,7 +6186,7 @@
         },
         {
             "id": "9989",
-            "nombre": "Servicio Jusla Valle De Chalco Sa De Cv",
+            "nombre": "Servicio Jusla Valle De Chalco S.A. De C.V.",
             "cre_id": "PL/9074/EXP/ES/2015",
             "coords": {
                 "lat": 19.29102,
@@ -6200,7 +6200,7 @@
         },
         {
             "id": "10006",
-            "nombre": "Octant Sa De Cv",
+            "nombre": "Octant S.A. De C.V.",
             "cre_id": "PL/9015/EXP/ES/2015",
             "coords": {
                 "lat": 19.4416,
@@ -6213,7 +6213,7 @@
         },
         {
             "id": "10052",
-            "nombre": "Servicio Cerro Gordo Sa De Cv",
+            "nombre": "Servicio Cerro Gordo S.A. De C.V.",
             "cre_id": "PL/8937/EXP/ES/2015",
             "coords": {
                 "lat": 19.5469,
@@ -6227,7 +6227,7 @@
         },
         {
             "id": "10073",
-            "nombre": "Servicio Telix Sa De Cv",
+            "nombre": "Servicio Telix S.A. De C.V.",
             "cre_id": "PL/9033/EXP/ES/2015",
             "coords": {
                 "lat": 19.38761,
@@ -6240,7 +6240,7 @@
         },
         {
             "id": "10076",
-            "nombre": "Corporacion Gasolinera Millenium Sa De Cv",
+            "nombre": "Corporación Gasolinera Millenium S.A. De C.V.",
             "cre_id": "PL/8925/EXP/ES/2015",
             "coords": {
                 "lat": 19.37263,
@@ -6254,7 +6254,7 @@
         },
         {
             "id": "10087",
-            "nombre": "Integrantes Del Ejido De San Cristobal Texcalucan Sc De Rl",
+            "nombre": "Integrantes Del Ejido De San Cristobal Texcalucan S. C. De R. L.",
             "cre_id": "PL/9075/EXP/ES/2015",
             "coords": {
                 "lat": 19.41413,
@@ -6267,7 +6267,7 @@
         },
         {
             "id": "10100",
-            "nombre": "Servicio Candedo Sa De Cv",
+            "nombre": "Servicio Candedo S.A. De C.V.",
             "cre_id": "PL/9053/EXP/ES/2015",
             "coords": {
                 "lat": 19.53164,
@@ -6281,7 +6281,7 @@
         },
         {
             "id": "10136",
-            "nombre": "Corporacion Gasolinera Millenium Sa De Cv",
+            "nombre": "Corporación Gasolinera Millenium S.A. De C.V.",
             "cre_id": "PL/8907/EXP/ES/2015",
             "coords": {
                 "lat": 19.3505,
@@ -6294,21 +6294,21 @@
         },
         {
             "id": "10195",
-            "nombre": "Servicio Tren Sa De Cv",
+            "nombre": "Servicio Tren S.A. De C.V.",
             "cre_id": "PL/9062/EXP/ES/2015",
             "coords": {
                 "lat": 19.35409,
                 "lon": -98.96363
             },
             "precios": {
-                "diesel": 27.89,
+                "diesel": 27.6,
                 "premium": 27.79,
                 "regular": 22.97
             }
         },
         {
             "id": "10213",
-            "nombre": "Nepsol Sa De Cv",
+            "nombre": "Nepsol S.A. De C.V.",
             "cre_id": "PL/9009/EXP/ES/2015",
             "coords": {
                 "lat": 19.29019,
@@ -6321,7 +6321,7 @@
         },
         {
             "id": "10224",
-            "nombre": "Corporacion Gasolinera Millenium Sa De Cv",
+            "nombre": "Corporación Gasolinera Millenium S.A. De C.V.",
             "cre_id": "PL/8913/EXP/ES/2015",
             "coords": {
                 "lat": 19.50469,
@@ -6334,7 +6334,7 @@
         },
         {
             "id": "10233",
-            "nombre": "Gasolineria Montevideo Sa De Cv",
+            "nombre": "Gasolineria Montevideo S.A. De C.V.",
             "cre_id": "PL/9102/EXP/ES/2015",
             "coords": {
                 "lat": 19.49122,
@@ -6342,12 +6342,12 @@
             },
             "precios": {
                 "regular": 23.79,
-                "premium": 28.45
+                "premium": 28.59
             }
         },
         {
             "id": "10257",
-            "nombre": "Corporacion Gasolinera Millenium Sa De Cv",
+            "nombre": "Corporación Gasolinera Millenium S.A. De C.V.",
             "cre_id": "PL/8926/EXP/ES/2015",
             "coords": {
                 "lat": 19.34619,
@@ -6360,7 +6360,7 @@
         },
         {
             "id": "10294",
-            "nombre": "Parador Covadonga Sa De Cv",
+            "nombre": "Parador Covadonga S.A. De C.V.",
             "cre_id": "PL/9563/EXP/ES/2015",
             "coords": {
                 "lat": 19.08495,
@@ -6374,7 +6374,7 @@
         },
         {
             "id": "10346",
-            "nombre": "Super Servicio Viaducto Elsa Sa",
+            "nombre": "Súper Servicio Viaducto Elsa S. A.",
             "cre_id": "PL/9715/EXP/ES/2015",
             "coords": {
                 "lat": 19.40448,
@@ -6387,7 +6387,7 @@
         },
         {
             "id": "10351",
-            "nombre": "Gasolinera Acueducto Guadalupe, S.A. De C.V.",
+            "nombre": "Gasolinera Acueducto Guadalupe S.A. De C.V.",
             "cre_id": "PL/9704/EXP/ES/2015",
             "coords": {
                 "lat": 19.52753,
@@ -6414,20 +6414,20 @@
         },
         {
             "id": "10402",
-            "nombre": "Servicio Guerrero Y Marte Sa De Cv",
+            "nombre": "Servicio Guerrero Y Marte S.A. De C.V.",
             "cre_id": "PL/9326/EXP/ES/2015",
             "coords": {
                 "lat": 19.45104,
                 "lon": -99.14648
             },
             "precios": {
-                "premium": 27.99,
+                "premium": 28.39,
                 "regular": 23.49
             }
         },
         {
             "id": "10433",
-            "nombre": "Grupo Gasolinero Flores De Tlalpizahuac Sa De Cv",
+            "nombre": "Grupo Gasolinero Flores De Tlalpizahuac S.A. De C.V.",
             "cre_id": "PL/9490/EXP/ES/2015",
             "coords": {
                 "lat": 19.33148,
@@ -6440,7 +6440,7 @@
         },
         {
             "id": "10451",
-            "nombre": "Servicios San Nicolas Sa De Cv",
+            "nombre": "Servicios San Nicolas S.A. De C.V.",
             "cre_id": "PL/9611/EXP/ES/2015",
             "coords": {
                 "lat": 19.28438,
@@ -6453,7 +6453,7 @@
         },
         {
             "id": "10452",
-            "nombre": "Servicios Simpa Sa De Cv",
+            "nombre": "Servicios Simpa S.A. De C.V.",
             "cre_id": "PL/9673/EXP/ES/2015",
             "coords": {
                 "lat": 19.38929,
@@ -6466,7 +6466,7 @@
         },
         {
             "id": "10478",
-            "nombre": "Sabino Aguirre Sa De Cv",
+            "nombre": "Sabino Aguirre S.A. De C.V.",
             "cre_id": "PL/9702/EXP/ES/2015",
             "coords": {
                 "lat": 19.4764,
@@ -6479,7 +6479,7 @@
         },
         {
             "id": "10486",
-            "nombre": "Servicio Tecamachalco Sa De Cv",
+            "nombre": "Servicio Tecamachalco S.A. De C.V.",
             "cre_id": "PL/9680/EXP/ES/2015",
             "coords": {
                 "lat": 19.42844,
@@ -6492,7 +6492,7 @@
         },
         {
             "id": "10489",
-            "nombre": "Servicios Simpa Sa De Cv",
+            "nombre": "Servicios Simpa S.A. De C.V.",
             "cre_id": "PL/9714/EXP/ES/2015",
             "coords": {
                 "lat": 19.39779,
@@ -6505,7 +6505,7 @@
         },
         {
             "id": "10512",
-            "nombre": "Servicio Cuajimalpa Sa De Cv",
+            "nombre": "Servicio Cuajimalpa S.A. De C.V.",
             "cre_id": "PL/9395/EXP/ES/2015",
             "coords": {
                 "lat": 19.35468,
@@ -6519,7 +6519,7 @@
         },
         {
             "id": "10541",
-            "nombre": "Servicio Combusa Sa De Cv",
+            "nombre": "Servicio Combusa S.A. De C.V.",
             "cre_id": "PL/9594/EXP/ES/2015",
             "coords": {
                 "lat": 19.47282,
@@ -6547,7 +6547,7 @@
         },
         {
             "id": "10568",
-            "nombre": "Super Servicio Mexpasim Sa De Cv",
+            "nombre": "Super Servicio Mexpasim, Sa De Cv",
             "cre_id": "PL/9713/EXP/ES/2015",
             "coords": {
                 "lat": 19.5224,
@@ -6561,7 +6561,7 @@
         },
         {
             "id": "10602",
-            "nombre": "Servicio 5441, S.A. De C.V.",
+            "nombre": "Servicio 5441 S.A. De C.V.",
             "cre_id": "PL/9669/EXP/ES/2015",
             "coords": {
                 "lat": 19.28309,
@@ -6575,7 +6575,7 @@
         },
         {
             "id": "10605",
-            "nombre": "Servicio Sobredo Sa De Cv",
+            "nombre": "Servicio Sobredo S.A. De C.V.",
             "cre_id": "PL/9430/EXP/ES/2015",
             "coords": {
                 "lat": 19.30804,
@@ -6602,7 +6602,7 @@
         },
         {
             "id": "10650",
-            "nombre": "Jose Merlos Escutia",
+            "nombre": "José Merlos Escutia",
             "cre_id": "PL/9667/EXP/ES/2015",
             "coords": {
                 "lat": 19.42199,
@@ -6616,15 +6616,15 @@
         },
         {
             "id": "10661",
-            "nombre": "Estacion De Servicio Cien Metros Sa De Cv",
+            "nombre": "Estación De Servicio Cien Metros S.A. De C.V.",
             "cre_id": "PL/9425/EXP/ES/2015",
             "coords": {
                 "lat": 19.50213,
                 "lon": -99.14932
             },
             "precios": {
+                "premium": 28.79,
                 "regular": 23.79,
-                "premium": 28.59,
                 "diesel": 27.99
             }
         },
@@ -6643,7 +6643,7 @@
         },
         {
             "id": "10842",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3205/EXP/ES/2015",
             "coords": {
                 "lat": 19.41553,
@@ -6656,7 +6656,7 @@
         },
         {
             "id": "10845",
-            "nombre": "Servicio Revolucion 0036 Sa De Cv",
+            "nombre": "Servicio Revolución 0036 S.A. De C.V.",
             "cre_id": "PL/2901/EXP/ES/2015",
             "coords": {
                 "lat": 19.39349,
@@ -6669,7 +6669,7 @@
         },
         {
             "id": "10893",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3203/EXP/ES/2015",
             "coords": {
                 "lat": 19.44662,
@@ -6682,7 +6682,7 @@
         },
         {
             "id": "10898",
-            "nombre": "Desarrolladora De Servicios Omega Sa De Cv",
+            "nombre": "Desarrolladora De Servicios Omega S.A. De C.V.",
             "cre_id": "PL/3143/EXP/ES/2015",
             "coords": {
                 "lat": 19.58704,
@@ -6696,7 +6696,7 @@
         },
         {
             "id": "10902",
-            "nombre": "Maria Ana Tato Deza",
+            "nombre": "María Ana Tato Deza",
             "cre_id": "PL/3155/EXP/ES/2015",
             "coords": {
                 "lat": 19.46996,
@@ -6709,7 +6709,7 @@
         },
         {
             "id": "10914",
-            "nombre": "Estacion De Servicio 0156 Sa De Cv",
+            "nombre": "Estación De Servicio 0156 S.A. De C.V.",
             "cre_id": "PL/2900/EXP/ES/2015",
             "coords": {
                 "lat": 19.45628,
@@ -6722,7 +6722,7 @@
         },
         {
             "id": "10947",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3202/EXP/ES/2015",
             "coords": {
                 "lat": 19.39436,
@@ -6735,7 +6735,7 @@
         },
         {
             "id": "10948",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3206/EXP/ES/2015",
             "coords": {
                 "lat": 19.4512,
@@ -6748,7 +6748,7 @@
         },
         {
             "id": "10955",
-            "nombre": "Lidergas Servicio Sa De Cv",
+            "nombre": "Lidergas Servicio S.A. De C.V.",
             "cre_id": "PL/3100/EXP/ES/2015",
             "coords": {
                 "lat": 19.51454,
@@ -6760,7 +6760,7 @@
         },
         {
             "id": "10957",
-            "nombre": "Maria Josefina Rodriguez Gutierrez",
+            "nombre": "María Josefina Rodríguez Gutierrez",
             "cre_id": "PL/3156/EXP/ES/2015",
             "coords": {
                 "lat": 19.40819,
@@ -6773,7 +6773,7 @@
         },
         {
             "id": "10973",
-            "nombre": "Ma Elena Abigail Vargas Rosales",
+            "nombre": "Ma. Elena Abigail Vargas Rosales",
             "cre_id": "PL/1846/EXP/ES/2015",
             "coords": {
                 "lat": 19.54239,
@@ -6786,7 +6786,7 @@
         },
         {
             "id": "10974",
-            "nombre": "Pirote Sa De Cv",
+            "nombre": "Pirote S.A. De C.V.",
             "cre_id": "PL/2996/EXP/ES/2015",
             "coords": {
                 "lat": 19.2762,
@@ -6800,7 +6800,7 @@
         },
         {
             "id": "10977",
-            "nombre": "Gasolinera Y Servicios Central Ii Sa De Cv",
+            "nombre": "Gasolinera Y Servicios Central Ii S.A. De C.V.",
             "cre_id": "PL/3076/EXP/ES/2015",
             "coords": {
                 "lat": 19.55864,
@@ -6814,7 +6814,7 @@
         },
         {
             "id": "10981",
-            "nombre": "Marquice Sa De Cv",
+            "nombre": "Marquice S.A. De C.V.",
             "cre_id": "PL/3192/EXP/ES/2015",
             "coords": {
                 "lat": 19.41928,
@@ -6828,7 +6828,7 @@
         },
         {
             "id": "11017",
-            "nombre": "Servicio Los Tres Compadres Sa De Cv",
+            "nombre": "Servicio Los Tres Compadres S.A. De C.V.",
             "cre_id": "PL/2904/EXP/ES/2015",
             "coords": {
                 "lat": 19.37603,
@@ -6842,7 +6842,7 @@
         },
         {
             "id": "11026",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3187/EXP/ES/2015",
             "coords": {
                 "lat": 19.3972,
@@ -6855,20 +6855,20 @@
         },
         {
             "id": "11031",
-            "nombre": "Servicio Tlatelco Sa De Cv",
+            "nombre": "Servicio Tlatelco S.A. De C.V.",
             "cre_id": "PL/3182/EXP/ES/2015",
             "coords": {
                 "lat": 19.4307,
                 "lon": -98.97703
             },
             "precios": {
-                "regular": 23.24,
-                "premium": 27.64
+                "regular": 23.19,
+                "premium": 27.89
             }
         },
         {
             "id": "11035",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3204/EXP/ES/2015",
             "coords": {
                 "lat": 19.36757,
@@ -6881,21 +6881,21 @@
         },
         {
             "id": "11044",
-            "nombre": "Estacion De Servicio Umbria S De Rl De Cv",
+            "nombre": "Estación De Servicio Umbría S.A. De C.V.",
             "cre_id": "PL/1505/EXP/ES/2015",
             "coords": {
                 "lat": 19.37025,
                 "lon": -99.29385
             },
             "precios": {
+                "diesel": 27.99,
                 "regular": 23.99,
-                "premium": 29.59,
-                "diesel": 28.0
+                "premium": 29.59
             }
         },
         {
             "id": "11046",
-            "nombre": "Observatorio Sa",
+            "nombre": "Observatorio S. A.",
             "cre_id": "PL/3154/EXP/ES/2015",
             "coords": {
                 "lat": 19.4035,
@@ -6908,7 +6908,7 @@
         },
         {
             "id": "11050",
-            "nombre": "Consorcio Gasolinera Central Iv Sa De Cv",
+            "nombre": "Consorcio Gasolinera Central Iv S.A. De C.V.",
             "cre_id": "PL/2951/EXP/ES/2015",
             "coords": {
                 "lat": 19.37532,
@@ -6922,7 +6922,7 @@
         },
         {
             "id": "11059",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3210/EXP/ES/2015",
             "coords": {
                 "lat": 19.46712,
@@ -6936,7 +6936,7 @@
         },
         {
             "id": "11061",
-            "nombre": "Super Servicio Tabla Honda Sa De Cv",
+            "nombre": "Súper Servicio Tabla Honda S.A. De C.V.",
             "cre_id": "PL/2000/EXP/ES/2015",
             "coords": {
                 "lat": 19.55057,
@@ -6950,7 +6950,7 @@
         },
         {
             "id": "11065",
-            "nombre": "Grupo Gasolinero Del Sur Sa De Cv",
+            "nombre": "Grupo Gasolinero Del Sur S.A. De C.V.",
             "cre_id": "PL/1603/EXP/ES/2015",
             "coords": {
                 "lat": 19.33418,
@@ -6964,7 +6964,7 @@
         },
         {
             "id": "11081",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3201/EXP/ES/2015",
             "coords": {
                 "lat": 19.42769,
@@ -6978,7 +6978,7 @@
         },
         {
             "id": "11085",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3211/EXP/ES/2015",
             "coords": {
                 "lat": 19.41599,
@@ -6991,7 +6991,7 @@
         },
         {
             "id": "11103",
-            "nombre": "Benzina Sa De Cv",
+            "nombre": "Benzina S.A. De C.V.",
             "cre_id": "PL/3059/EXP/ES/2015",
             "coords": {
                 "lat": 19.38786,
@@ -7004,7 +7004,7 @@
         },
         {
             "id": "11124",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3200/EXP/ES/2015",
             "coords": {
                 "lat": 19.41566,
@@ -7018,7 +7018,7 @@
         },
         {
             "id": "11126",
-            "nombre": "Super Servicio Naumex Sa De Cv",
+            "nombre": "Súper Servicio Naumex S.A. De C.V.",
             "cre_id": "PL/2909/EXP/ES/2015",
             "coords": {
                 "lat": 19.45987,
@@ -7032,7 +7032,7 @@
         },
         {
             "id": "11138",
-            "nombre": "Servicio Villada Sa De Cv",
+            "nombre": "Servicio Villada S.A. De C.V.",
             "cre_id": "PL/1820/EXP/ES/2015",
             "coords": {
                 "lat": 19.37793,
@@ -7046,7 +7046,7 @@
         },
         {
             "id": "11140",
-            "nombre": "Servicio Miramontes Sa",
+            "nombre": "Servicio Miramontes S. A.",
             "cre_id": "PL/3151/EXP/ES/2015",
             "coords": {
                 "lat": 19.36992,
@@ -7059,7 +7059,7 @@
         },
         {
             "id": "11153",
-            "nombre": "Gas Abasto Sa De Cv",
+            "nombre": "Gas Abasto S.A. De C.V.",
             "cre_id": "PL/3188/EXP/ES/2015",
             "coords": {
                 "lat": 19.38372,
@@ -7087,7 +7087,7 @@
         },
         {
             "id": "11183",
-            "nombre": "Consorcio Gasolinero Plus Sa De Cv",
+            "nombre": "Consorcio Gasolinero Plus S.A. De C.V.",
             "cre_id": "PL/3209/EXP/ES/2015",
             "coords": {
                 "lat": 19.40181,
@@ -7101,7 +7101,7 @@
         },
         {
             "id": "11204",
-            "nombre": "Prestadora De Servicios Deseo Sa De Cv",
+            "nombre": "Prestadora De Servicios Deseo S.A. De C.V.",
             "cre_id": "PL/5060/EXP/ES/2015",
             "coords": {
                 "lat": 19.58133,
@@ -7115,7 +7115,7 @@
         },
         {
             "id": "11328",
-            "nombre": "Estacion De Carga Periferico Sur Lm S De Rl De Cv",
+            "nombre": "Estación De Carga Periférico Sur Lm S.A. De C.V.",
             "cre_id": "PL/8139/EXP/ES/2015",
             "coords": {
                 "lat": 19.36143,
@@ -7129,7 +7129,7 @@
         },
         {
             "id": "11330",
-            "nombre": "Super Servicio Granjas Sa",
+            "nombre": "Súper Servicio Granjas S. A.",
             "cre_id": "PL/8136/EXP/ES/2015",
             "coords": {
                 "lat": 19.49115,
@@ -7143,7 +7143,7 @@
         },
         {
             "id": "11334",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Gpdc Estaciones De Servicio, S. A. De C. V.",
             "cre_id": "PL/8147/EXP/ES/2015",
             "coords": {
                 "lat": 19.45798,
@@ -7156,7 +7156,7 @@
         },
         {
             "id": "11336",
-            "nombre": "Estacion De Carga Periferico Sur Lm S De Rl De Cv",
+            "nombre": "Estación De Carga Periférico Sur Lm S.A. De C.V.",
             "cre_id": "PL/8135/EXP/ES/2015",
             "coords": {
                 "lat": 19.38359,
@@ -7169,7 +7169,7 @@
         },
         {
             "id": "11337",
-            "nombre": "Paviro Sa De Cv",
+            "nombre": "Paviro S.A. De C.V.",
             "cre_id": "PL/8137/EXP/ES/2015",
             "coords": {
                 "lat": 19.33844,
@@ -7182,7 +7182,7 @@
         },
         {
             "id": "11339",
-            "nombre": "Servicio Begonia Sa De Cv",
+            "nombre": "Servicio Begonia S.A. De C.V.",
             "cre_id": "PL/8144/EXP/ES/2015",
             "coords": {
                 "lat": 19.50611,
@@ -7195,7 +7195,7 @@
         },
         {
             "id": "11392",
-            "nombre": "Operadora Adcla Sa De Cv",
+            "nombre": "Operadora Adcla S.A. De C.V.",
             "cre_id": "PL/9982/EXP/ES/2015",
             "coords": {
                 "lat": 19.54499,
@@ -7209,7 +7209,7 @@
         },
         {
             "id": "11476",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/10084/EXP/ES/2015",
             "coords": {
                 "lat": 19.41792,
@@ -7222,7 +7222,7 @@
         },
         {
             "id": "11479",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/10087/EXP/ES/2015",
             "coords": {
                 "lat": 19.45354,
@@ -7234,7 +7234,7 @@
         },
         {
             "id": "11501",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/10159/EXP/ES/2015",
             "coords": {
                 "lat": 19.46518,
@@ -7247,7 +7247,7 @@
         },
         {
             "id": "11502",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/10160/EXP/ES/2015",
             "coords": {
                 "lat": 19.43035,
@@ -7260,7 +7260,7 @@
         },
         {
             "id": "11572",
-            "nombre": "Inmobiliaria Corsal Sa De Cv",
+            "nombre": "Inmobiliaria Corsal S.A. De C.V.",
             "cre_id": "PL/10186/EXP/ES/2015",
             "coords": {
                 "lat": 19.37325,
@@ -7273,7 +7273,7 @@
         },
         {
             "id": "11586",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/10200/EXP/ES/2015",
             "coords": {
                 "lat": 19.418,
@@ -7287,7 +7287,7 @@
         },
         {
             "id": "11646",
-            "nombre": "Estacion 10 Sur Sa De Cv",
+            "nombre": "Estación 10 Sur S.A. De C.V.",
             "cre_id": "PL/10275/EXP/ES/2015",
             "coords": {
                 "lat": 19.31187,
@@ -7301,7 +7301,7 @@
         },
         {
             "id": "11656",
-            "nombre": "Servicio Ciudad Deportiva Sa De Cv",
+            "nombre": "Servicio Ciudad Deportiva S.A. De C.V.",
             "cre_id": "PL/10284/EXP/ES/2015",
             "coords": {
                 "lat": 19.40869,
@@ -7314,7 +7314,7 @@
         },
         {
             "id": "11663",
-            "nombre": "Servicio Claveria Sa De Cv",
+            "nombre": "Servicio Claveria S.A. De C.V.",
             "cre_id": "PL/10293/EXP/ES/2015",
             "coords": {
                 "lat": 19.46546,
@@ -7327,7 +7327,7 @@
         },
         {
             "id": "11675",
-            "nombre": "Jose Ignacio Berrondo Avalos",
+            "nombre": "José Ignacio Berrondo Avalos",
             "cre_id": "PL/10207/EXP/ES/2015",
             "coords": {
                 "lat": 19.42771,
@@ -7340,7 +7340,7 @@
         },
         {
             "id": "11709",
-            "nombre": "Servicio El Prieto Sa",
+            "nombre": "Servicio El Prieto S. A.",
             "cre_id": "PL/10346/EXP/ES/2015",
             "coords": {
                 "lat": 19.46299,
@@ -7353,7 +7353,7 @@
         },
         {
             "id": "11718",
-            "nombre": "Yumka Sa De Cv",
+            "nombre": "Yumka S.A. De C.V.",
             "cre_id": "PL/10304/EXP/ES/2015",
             "coords": {
                 "lat": 19.4095,
@@ -7367,7 +7367,7 @@
         },
         {
             "id": "11742",
-            "nombre": "Servicio Harrier Sa De Cv",
+            "nombre": "Servicio Harrier S.A. De C.V.",
             "cre_id": "PL/10319/EXP/ES/2015",
             "coords": {
                 "lat": 19.39114,
@@ -7381,7 +7381,7 @@
         },
         {
             "id": "11748",
-            "nombre": "Inmobiliaria Chalca Hotelera Sa De Cv",
+            "nombre": "Inmobiliaria Chalca Hotelera S.A. De C.V.",
             "cre_id": "PL/10324/EXP/ES/2015",
             "coords": {
                 "lat": 19.38935,
@@ -7395,7 +7395,7 @@
         },
         {
             "id": "11772",
-            "nombre": "Rocio Del Carmen Gonzalez Sanchez",
+            "nombre": "Rocio Del Carmen González Sánchez",
             "cre_id": "PL/10363/EXP/ES/2015",
             "coords": {
                 "lat": 19.36711,
@@ -7408,7 +7408,7 @@
         },
         {
             "id": "11897",
-            "nombre": "Servicio Norte 45 Sa De Cv",
+            "nombre": "Servicio Norte 45 S.A. De C.V.",
             "cre_id": "PL/9257/EXP/ES/2015",
             "coords": {
                 "lat": 19.4957,
@@ -7421,7 +7421,7 @@
         },
         {
             "id": "11898",
-            "nombre": "Servicio Lutron Sa De Cv",
+            "nombre": "Servicio Lutron S.A. De C.V.",
             "cre_id": "PL/9258/EXP/ES/2015",
             "coords": {
                 "lat": 19.54331,
@@ -7448,7 +7448,7 @@
         },
         {
             "id": "12882",
-            "nombre": "Francisco Guerrero Ortega",
+            "nombre": "Francisco Guerrerro Ortega",
             "cre_id": "PL/10758/EXP/ES/2015",
             "coords": {
                 "lat": 19.32804,
@@ -7461,7 +7461,7 @@
         },
         {
             "id": "12984",
-            "nombre": "Universidad Nacional Autonoma De Mexico Sin Tipo De Sociedad",
+            "nombre": "Universidad Nacional Autónoma De México",
             "cre_id": "PL/10791/EXP/ES/2015",
             "coords": {
                 "lat": 19.33661,
@@ -7474,7 +7474,7 @@
         },
         {
             "id": "13039",
-            "nombre": "Servicio Colima Sa",
+            "nombre": "Servicio Colima S. A.",
             "cre_id": "PL/10877/EXP/ES/2015",
             "coords": {
                 "lat": 19.47231,
@@ -7487,7 +7487,7 @@
         },
         {
             "id": "13098",
-            "nombre": "San Lorenzo Tezonco Sa De Cv",
+            "nombre": "San Lorenzo Tezonco S.A. De C.V.",
             "cre_id": "PL/10884/EXP/ES/2015",
             "coords": {
                 "lat": 19.3228,
@@ -7501,7 +7501,7 @@
         },
         {
             "id": "13116",
-            "nombre": "Bp Estaciones Y Servicios Energeticos Sa De Cv",
+            "nombre": "Bp Estaciones Y Servicios Energeticos, S.A. De C.V.",
             "cre_id": "PL/10897/EXP/ES/2015",
             "coords": {
                 "lat": 19.37211,
@@ -7514,7 +7514,7 @@
         },
         {
             "id": "13129",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv S.A. De C.V.",
             "cre_id": "PL/10909/EXP/ES/2015",
             "coords": {
                 "lat": 19.42713,
@@ -7527,7 +7527,7 @@
         },
         {
             "id": "13133",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv S.A. De C.V.",
             "cre_id": "PL/10911/EXP/ES/2015",
             "coords": {
                 "lat": 19.42359,
@@ -7540,7 +7540,7 @@
         },
         {
             "id": "13139",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv S.A. De C.V.",
             "cre_id": "PL/10917/EXP/ES/2015",
             "coords": {
                 "lat": 19.47143,
@@ -7553,7 +7553,7 @@
         },
         {
             "id": "13180",
-            "nombre": "Gasolinera Paris Sa De Cv",
+            "nombre": "Gasolinera Paris, S.A. De C.V.",
             "cre_id": "PL/10857/EXP/ES/2015",
             "coords": {
                 "lat": 19.42106,
@@ -7566,7 +7566,7 @@
         },
         {
             "id": "13343",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv S.A. De C.V.",
             "cre_id": "PL/11024/EXP/ES/2015",
             "coords": {
                 "lat": 19.55941,
@@ -7579,7 +7579,7 @@
         },
         {
             "id": "13347",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv S.A. De C.V.",
             "cre_id": "PL/11025/EXP/ES/2015",
             "coords": {
                 "lat": 19.54453,
@@ -7592,7 +7592,7 @@
         },
         {
             "id": "13353",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv S.A. De C.V.",
             "cre_id": "PL/11028/EXP/ES/2015",
             "coords": {
                 "lat": 19.37103,
@@ -7606,7 +7606,7 @@
         },
         {
             "id": "13354",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv S.A. De C.V.",
             "cre_id": "PL/11029/EXP/ES/2015",
             "coords": {
                 "lat": 19.53417,
@@ -7620,7 +7620,7 @@
         },
         {
             "id": "13389",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Gpdc Estaciones De Servicio, S. A. De C. V.",
             "cre_id": "PL/11256/EXP/ES/2015",
             "coords": {
                 "lat": 19.4718,
@@ -7634,7 +7634,7 @@
         },
         {
             "id": "13551",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv S.A. De C.V.",
             "cre_id": "PL/11416/EXP/ES/2015",
             "coords": {
                 "lat": 19.54284,
@@ -7647,7 +7647,7 @@
         },
         {
             "id": "13687",
-            "nombre": "Grupo Empresarial Ao Sa De Cv",
+            "nombre": "Grupo Empresarial Ao S.A. De C.V.",
             "cre_id": "PL/11428/EXP/ES/2015",
             "coords": {
                 "lat": 19.35086,
@@ -7674,7 +7674,7 @@
         },
         {
             "id": "13732",
-            "nombre": "Las Mejores Estaciones Sa De Cv",
+            "nombre": "Las Mejores Estaciones S.A De C.V",
             "cre_id": "PL/11479/EXP/ES/2015",
             "coords": {
                 "lat": 19.58322,
@@ -7688,7 +7688,7 @@
         },
         {
             "id": "13743",
-            "nombre": "Servicio Gransur Sa De Cv",
+            "nombre": "Servicio Gransur S.A. De C.V.",
             "cre_id": "PL/11487/EXP/ES/2015",
             "coords": {
                 "lat": 19.30143,
@@ -7701,7 +7701,7 @@
         },
         {
             "id": "13745",
-            "nombre": "Super Servicio Taxqueña Sa De Cv",
+            "nombre": "Súper Servicio Taxqueña S.A. De C.V.",
             "cre_id": "PL/11958/EXP/ES/2015",
             "coords": {
                 "lat": 19.34344,
@@ -7727,7 +7727,7 @@
         },
         {
             "id": "14178",
-            "nombre": "Servicios Energeticos Alfareros Sa De Cv",
+            "nombre": "Servicios Energéticos Alfareros S.A. De C.V.",
             "cre_id": "PL/12633/EXP/ES/2015",
             "coords": {
                 "lat": 19.53318,
@@ -7741,7 +7741,7 @@
         },
         {
             "id": "14217",
-            "nombre": "Servicio El Hueso Sa De Cv",
+            "nombre": "Servicio El Hueso S.A. De C.V.",
             "cre_id": "PL/12674/EXP/ES/2015",
             "coords": {
                 "lat": 19.29984,
@@ -7754,7 +7754,7 @@
         },
         {
             "id": "14340",
-            "nombre": "Inmobiliaria Rio Consulado Sa De Cv",
+            "nombre": "Inmobiliaria Río Consulado S.A. De C.V.",
             "cre_id": "PL/12734/EXP/ES/2015",
             "coords": {
                 "lat": 19.45451,
@@ -7768,7 +7768,7 @@
         },
         {
             "id": "14355",
-            "nombre": "Combustibles Ermita Sa De Cv",
+            "nombre": "Combustibles Ermita S.A. De C.V.",
             "cre_id": "PL/12765/EXP/ES/2015",
             "coords": {
                 "lat": 19.36572,
@@ -7782,7 +7782,7 @@
         },
         {
             "id": "14419",
-            "nombre": "Sociedad Cooperativa Ejidal De San Pedro Zacatenco Scl",
+            "nombre": "Sociedad Cooperativa Ejidal De San Pedro Zacatenco S. C. L.",
             "cre_id": "PL/12800/EXP/ES/2015",
             "coords": {
                 "lat": 19.50296,
@@ -7795,7 +7795,7 @@
         },
         {
             "id": "14541",
-            "nombre": "Autoconsumo Tlalpan S De Rl De Cv",
+            "nombre": "Autoconsumo Tlalpan S.A. De C.V.",
             "cre_id": "PL/1310/EXP/ES/2015",
             "coords": {
                 "lat": 19.32397,
@@ -7808,7 +7808,7 @@
         },
         {
             "id": "14821",
-            "nombre": "Vevega S De Rl De Cv",
+            "nombre": "Vevega S.A. De C.V.",
             "cre_id": "PL/13127/EXP/ES/2016",
             "coords": {
                 "lat": 19.39774,
@@ -7822,7 +7822,7 @@
         },
         {
             "id": "14895",
-            "nombre": "Inmobiliaria Milloalto Sa De Cv",
+            "nombre": "Inmobiliaria Milloalto S.A. De C.V.",
             "cre_id": "PL/13126/EXP/ES/2016",
             "coords": {
                 "lat": 19.20243,
@@ -7835,7 +7835,7 @@
         },
         {
             "id": "15706",
-            "nombre": "Operadora De Miniestaciones Combuserv Sa De Cv",
+            "nombre": "Operadora De Miniestaciones Combuserv S.A. De C.V.",
             "cre_id": "PL/13125/EXP/ES/2016",
             "coords": {
                 "lat": 19.35759,
@@ -7849,7 +7849,7 @@
         },
         {
             "id": "16128",
-            "nombre": "Servicio Adonis Sa De Cv",
+            "nombre": "Servicio Adonis S.A. De C.V.",
             "cre_id": "PL/13632/EXP/ES/2016",
             "coords": {
                 "lat": 19.47434,
@@ -7863,7 +7863,7 @@
         },
         {
             "id": "16131",
-            "nombre": "Nadomiry Sa De Cv",
+            "nombre": "Nadomiry S.A. De C.V.",
             "cre_id": "PL/13584/EXP/ES/2016",
             "coords": {
                 "lat": 19.50249,
@@ -7877,7 +7877,7 @@
         },
         {
             "id": "16221",
-            "nombre": "Servicio Camirre Sa De Cv",
+            "nombre": "Servicio Camirre S.A. De C.V.",
             "cre_id": "PL/13721/EXP/ES/2016",
             "coords": {
                 "lat": 19.43164,
@@ -7890,7 +7890,7 @@
         },
         {
             "id": "20863",
-            "nombre": "Servicio Bringom Sa De Cv",
+            "nombre": "Servicio Bringom S.A. De C.V.",
             "cre_id": "PL/13637/EXP/ES/2016",
             "coords": {
                 "lat": 19.26262,
@@ -7904,7 +7904,7 @@
         },
         {
             "id": "20931",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A. De C.V.",
             "cre_id": "PL/13670/EXP/ES/2016",
             "coords": {
                 "lat": 19.58813,
@@ -7918,7 +7918,7 @@
         },
         {
             "id": "21052",
-            "nombre": "Administradora De Gasolineras Xochimilco Sa De Cv",
+            "nombre": "Administradora De Gasolineras Xochimilco S.A. De C.V.",
             "cre_id": "PL/19018/EXP/ES/2016",
             "coords": {
                 "lat": 19.26787,
@@ -7931,7 +7931,7 @@
         },
         {
             "id": "21087",
-            "nombre": "Inmobiliaria Donm Sa De Cv",
+            "nombre": "Inmobiliaria Donm S.A. De C.V.",
             "cre_id": "PL/19028/EXP/ES/2016",
             "coords": {
                 "lat": 19.46397,
@@ -7945,7 +7945,7 @@
         },
         {
             "id": "21153",
-            "nombre": "Servicio Yaggar Sa De Cv",
+            "nombre": "Servicio Yaggar S.A. De C.V.",
             "cre_id": "PL/18962/EXP/ES/2016",
             "coords": {
                 "lat": 19.36099,
@@ -7959,7 +7959,7 @@
         },
         {
             "id": "21475",
-            "nombre": "Grupo Combumeza Sa De Cv",
+            "nombre": "Grupo Combumeza S.A. De C.V.",
             "cre_id": "PL/19176/EXP/ES/2016",
             "coords": {
                 "lat": 19.25379,
@@ -7987,7 +7987,7 @@
         },
         {
             "id": "21902",
-            "nombre": "Servicio Cupula Sa De Cv",
+            "nombre": "Servicio Cúpula S.A. De C.V.",
             "cre_id": "PL/19528/EXP/ES/2016",
             "coords": {
                 "lat": 19.3721,
@@ -8001,7 +8001,7 @@
         },
         {
             "id": "21940",
-            "nombre": "Energia Y Servicios Coordinados Sa De Cv",
+            "nombre": "Energia Y Servicios Coordinados, S.A. De C.V.",
             "cre_id": "PL/19555/EXP/ES/2016",
             "coords": {
                 "lat": 19.55827,
@@ -8015,7 +8015,7 @@
         },
         {
             "id": "22013",
-            "nombre": "Operadora Abc Petroelite Sa De Cv",
+            "nombre": "Operadora Abc Petroelite S.A. De C.V.",
             "cre_id": "PL/19619/EXP/ES/2016",
             "coords": {
                 "lat": 19.5383,
@@ -8029,7 +8029,7 @@
         },
         {
             "id": "22155",
-            "nombre": "Servicio Ecologico El Rodeo Sa De Cv",
+            "nombre": "Servicio Ecológico El Rodeo S.A. De C.V.",
             "cre_id": "PL/19741/EXP/ES/2016",
             "coords": {
                 "lat": 19.27995,
@@ -8043,7 +8043,7 @@
         },
         {
             "id": "22542",
-            "nombre": "Servicio Nerin Sa De Cv",
+            "nombre": "Servicio Nerin S.A. De C.V.",
             "cre_id": "PL/20032/EXP/ES/2017",
             "coords": {
                 "lat": 19.32358,
@@ -8057,7 +8057,7 @@
         },
         {
             "id": "22854",
-            "nombre": "Soluciones P&L S A P I De Cv",
+            "nombre": "Soluciones P&L, S.A.P.I. De C.V.",
             "cre_id": "PL/20121/EXP/ES/2017",
             "coords": {
                 "lat": 19.35682,
@@ -8070,7 +8070,7 @@
         },
         {
             "id": "23505",
-            "nombre": "Energia Y Servicios Coordinados Sa De Cv",
+            "nombre": "Energia Y Servicios Coordinados, S.A. De C.V.",
             "cre_id": "PL/20767/EXP/ES/2017",
             "coords": {
                 "lat": 19.48819,
@@ -8090,9 +8090,9 @@
                 "lon": -99.29434
             },
             "precios": {
+                "diesel": 27.99,
                 "regular": 23.99,
-                "premium": 29.59,
-                "diesel": 28.0
+                "premium": 29.59
             }
         },
         {
@@ -8111,7 +8111,7 @@
         },
         {
             "id": "24188",
-            "nombre": "Servicio El Once Sa De Cv",
+            "nombre": "Servicio El Once, S.A. De C.V.",
             "cre_id": "PL/21028/EXP/ES/2018",
             "coords": {
                 "lat": 19.46811,
@@ -8139,7 +8139,7 @@
         },
         {
             "id": "24351",
-            "nombre": "Servicio Gasolinero Loper Sa De Cv",
+            "nombre": "Servicio Gasolinero Loper, S.A. De C.V.",
             "cre_id": "PL/21177/EXP/ES/2018",
             "coords": {
                 "lat": 19.54032,
@@ -8153,7 +8153,7 @@
         },
         {
             "id": "24358",
-            "nombre": "Servicio Qadira Sa De Cv",
+            "nombre": "Servicio Qadira S.A. De C.V.",
             "cre_id": "PL/21182/EXP/ES/2018",
             "coords": {
                 "lat": 19.459,
@@ -8166,7 +8166,7 @@
         },
         {
             "id": "24562",
-            "nombre": "Estación De Servicio Bolonia. S.A. De C.V.",
+            "nombre": "Estación De Servicio Bolonia, S.A. De C.V.",
             "cre_id": "PL/21363/EXP/ES/2018",
             "coords": {
                 "lat": 19.40542,
@@ -8179,7 +8179,7 @@
         },
         {
             "id": "24780",
-            "nombre": "Servicio Eje 10 Sur Diamante Sa De Cv",
+            "nombre": "Servicio Eje 10 Sur Diamante, S.A. De C.V.",
             "cre_id": "PL/21555/EXP/ES/2018",
             "coords": {
                 "lat": 19.31307,
@@ -8193,7 +8193,7 @@
         },
         {
             "id": "24784",
-            "nombre": "Servicio Roky Sa De Cv",
+            "nombre": "Servicio Roky S.A De C.V",
             "cre_id": "PL/21559/EXP/ES/2018",
             "coords": {
                 "lat": 19.52525,
@@ -8207,7 +8207,7 @@
         },
         {
             "id": "24850",
-            "nombre": "Transportes Especializados Programados Sa De Cv",
+            "nombre": "Transportes Especializados Programados, S.A. De C.V.",
             "cre_id": "PL/21618/EXP/ES/2018",
             "coords": {
                 "lat": 19.31147,
@@ -8220,7 +8220,7 @@
         },
         {
             "id": "24976",
-            "nombre": "Servicio Peribaz Sa De Cv",
+            "nombre": "Servicio Peribaz S.A. De C.V",
             "cre_id": "PL/21733/EXP/ES/2018",
             "coords": {
                 "lat": 19.48255,
@@ -8234,7 +8234,7 @@
         },
         {
             "id": "25042",
-            "nombre": "Servicentro Pantitlan Sa De Cv",
+            "nombre": "Servicentro Pantitlan, S.A. De C.V.",
             "cre_id": "PL/21792/EXP/ES/2018",
             "coords": {
                 "lat": 19.38131,
@@ -8248,7 +8248,7 @@
         },
         {
             "id": "25899",
-            "nombre": "Servicio Hank Sa De Cv",
+            "nombre": "Servicio Hank, S.A. De C.V.",
             "cre_id": "PL/22233/EXP/ES/2019",
             "coords": {
                 "lat": 19.49996,
@@ -8276,7 +8276,7 @@
         },
         {
             "id": "26052",
-            "nombre": "Servicio Gorm Sa De Cv",
+            "nombre": "Servicio Gorm S.A. De C.V.",
             "cre_id": "PL/22418/EXP/ES/2019",
             "coords": {
                 "lat": 19.57612,
@@ -8303,7 +8303,7 @@
         },
         {
             "id": "26123",
-            "nombre": "Costco Gas Sa De Cv",
+            "nombre": "Costco Gas, Sociedad Anónima De Capital Variable",
             "cre_id": "PL/22364/EXP/ES/2019",
             "coords": {
                 "lat": 19.54828,
@@ -8316,7 +8316,7 @@
         },
         {
             "id": "26124",
-            "nombre": "Desarrolladora De Recursos Ambientales Sa De Cv",
+            "nombre": "Desarrolladora De Recursos Ambientales, S.A. De C.V.",
             "cre_id": "PL/22365/EXP/ES/2019",
             "coords": {
                 "lat": 19.51213,
@@ -8330,7 +8330,7 @@
         },
         {
             "id": "26307",
-            "nombre": "Compañia De Servicios El Risco Sa De Cv",
+            "nombre": "Compañia De Servicios El Risco, S.A. De C.V.",
             "cre_id": "PL/22568/EXP/ES/2019",
             "coords": {
                 "lat": 19.55145,
@@ -8343,7 +8343,7 @@
         },
         {
             "id": "26309",
-            "nombre": "Compañia De Servicios El Risco Sa De Cv",
+            "nombre": "Compañia De Servicios El Risco, S.A. De C.V.",
             "cre_id": "PL/22569/EXP/ES/2019",
             "coords": {
                 "lat": 19.55032,
@@ -8356,7 +8356,7 @@
         },
         {
             "id": "26311",
-            "nombre": "Fuente De Carga Erizo Ii S De Rl De Cv",
+            "nombre": "Fuente De Carga Erizo Ii, S.A. De C.V.",
             "cre_id": "PL/22590/EXP/ES/2019",
             "coords": {
                 "lat": 19.41446,
@@ -8370,7 +8370,7 @@
         },
         {
             "id": "26321",
-            "nombre": "Estacion De Servicio Orizaba S De Rl De Cv",
+            "nombre": "Estación De Servicio Orizaba, S.A. De C.V.",
             "cre_id": "PL/22586/EXP/ES/2019",
             "coords": {
                 "lat": 19.38081,
@@ -8384,7 +8384,7 @@
         },
         {
             "id": "26322",
-            "nombre": "Corporacion Gasolinera Millenium Sa De Cv",
+            "nombre": "Corporación Gasolinera Millenium, S.A. De C.V.",
             "cre_id": "PL/22572/EXP/ES/2019",
             "coords": {
                 "lat": 19.52699,
@@ -8411,7 +8411,7 @@
         },
         {
             "id": "26385",
-            "nombre": "Servicio Ermita Sa De Cv",
+            "nombre": "Servicio Ermita, S.A. De C.V.",
             "cre_id": "PL/22633/EXP/ES/2019",
             "coords": {
                 "lat": 19.27375,
@@ -8451,7 +8451,7 @@
         },
         {
             "id": "26499",
-            "nombre": "Gasolineria Coral S De Rl De Cv",
+            "nombre": "Gasolinería Coral, S.A. De C.V.",
             "cre_id": "PL/22820/EXP/ES/2019",
             "coords": {
                 "lat": 19.33994,
@@ -8465,7 +8465,7 @@
         },
         {
             "id": "26527",
-            "nombre": "Gasolineria Ares S De Rl De Cv",
+            "nombre": "Gasolinería Ares, S.A. De C.V.",
             "cre_id": "PL/22852/EXP/ES/2019",
             "coords": {
                 "lat": 19.51293,
@@ -8479,7 +8479,7 @@
         },
         {
             "id": "26640",
-            "nombre": "Servicio Reserva Ajusco Sa De Cv",
+            "nombre": "Servicio Reserva Ajusco, S.A. De C.V.",
             "cre_id": "PL/22909/EXP/ES/2019",
             "coords": {
                 "lat": 19.23401,
@@ -8507,7 +8507,7 @@
         },
         {
             "id": "26993",
-            "nombre": "Nacional De Combustibles Y Lubricantes Sa De Cv",
+            "nombre": "Nacional De Combustibles Y Lubricantes S.A De C.V.",
             "cre_id": "PL/23250/EXP/ES/2020",
             "coords": {
                 "lat": 19.55973,
@@ -8521,7 +8521,7 @@
         },
         {
             "id": "27010",
-            "nombre": "Servicio Xurxo Sa De Cv",
+            "nombre": "Servicio Xurxo, S.A. De C.V.",
             "cre_id": "PL/23260/EXP/ES/2020",
             "coords": {
                 "lat": 19.37636,
@@ -8535,7 +8535,7 @@
         },
         {
             "id": "27016",
-            "nombre": "Urbana 270 Sa De Cv",
+            "nombre": "Urbana 270, S.A. De C.V.",
             "cre_id": "PL/23267/EXP/ES/2020",
             "coords": {
                 "lat": 19.39263,
@@ -8549,7 +8549,7 @@
         },
         {
             "id": "27511",
-            "nombre": "Costco Gas Sa De Cv",
+            "nombre": "Costco Gas, Sociedad Anónima De Capital Variable",
             "cre_id": "PL/23729/EXP/ES/2021",
             "coords": {
                 "lat": 19.55104,
@@ -8562,7 +8562,7 @@
         },
         {
             "id": "27800",
-            "nombre": "Servicio El Nuevo Pedregal Sa De Cv",
+            "nombre": "Servicio El Nuevo Pedregal, S.A. De C.V.",
             "cre_id": "PL/24006/EXP/ES/2022",
             "coords": {
                 "lat": 19.30285,
@@ -8575,7 +8575,7 @@
         },
         {
             "id": "27828",
-            "nombre": "Inmobiliaria Esmagas Sa De Cv",
+            "nombre": "Inmobiliaria Esmagas, S.A. De C.V.",
             "cre_id": "PL/24028/EXP/ES/2022",
             "coords": {
                 "lat": 19.42376,
@@ -8589,7 +8589,7 @@
         },
         {
             "id": "27941",
-            "nombre": "Comercializadora Del Valle Lebaquin Sa De Cv",
+            "nombre": "Comercializadora Del Valle Lebaquin, S.A. De C.V.",
             "cre_id": "PL/24161/EXP/ES/2022",
             "coords": {
                 "lat": 19.28848,
@@ -8617,7 +8617,7 @@
         },
         {
             "id": "28046",
-            "nombre": "Servicio Fratino Sa De Cv",
+            "nombre": "Servicio Fratino,",
             "cre_id": "PL/24273/EXP/ES/2022",
             "coords": {
                 "lat": 19.55587,
@@ -8630,7 +8630,7 @@
         },
         {
             "id": "28128",
-            "nombre": "Grupo Doade Ou Sa De Cv",
+            "nombre": "Doade Ou S.A. De C.V.",
             "cre_id": "PL/24365/EXP/ES/2022",
             "coords": {
                 "lat": 19.54749,
@@ -8644,7 +8644,7 @@
         },
         {
             "id": "28168",
-            "nombre": "Energeticos Del Pueblo Sa De Cv",
+            "nombre": "Energeticos Del Pueblo, S.A. De C.V.",
             "cre_id": "PL/24510/EXP/ES/2022",
             "coords": {
                 "lat": 19.36085,
@@ -8658,7 +8658,7 @@
         },
         {
             "id": "28178",
-            "nombre": "Estacion De Servicio Mulata Sa De Cv",
+            "nombre": "Estacion De Servicio Mulata, S.A. De C.V.",
             "cre_id": "PL/24502/EXP/ES/2022",
             "coords": {
                 "lat": 19.38325,
@@ -8672,7 +8672,7 @@
         },
         {
             "id": "28202",
-            "nombre": "Servicio Rogosa Sa De Cv",
+            "nombre": "Servicio Rogosa S.A. De C.V.",
             "cre_id": "PL/24484/EXP/ES/2022",
             "coords": {
                 "lat": 19.36529,
@@ -8686,7 +8686,7 @@
         },
         {
             "id": "28216",
-            "nombre": "Administradora De Gasolinerias Bosque Real Sa De Cv",
+            "nombre": "Administradora De Gasolinerias Bosque Real S.A De C.V",
             "cre_id": "PL/24472/EXP/ES/2022",
             "coords": {
                 "lat": 19.41505,
@@ -8700,7 +8700,7 @@
         },
         {
             "id": "28275",
-            "nombre": "Servicio Ramirez E Hijos Sa De Cv",
+            "nombre": "Servicio Ramirez E Hijos S.A. De C.V.",
             "cre_id": "PL/24548/EXP/ES/2022",
             "coords": {
                 "lat": 19.53055,
@@ -8714,7 +8714,7 @@
         },
         {
             "id": "28376",
-            "nombre": "Cr 88 S A P I De Cv",
+            "nombre": "Cr 88, S.A.P.I. De C.V.",
             "cre_id": "PL/24407/EXP/ES/2022",
             "coords": {
                 "lat": 19.39773,
@@ -8727,7 +8727,7 @@
         },
         {
             "id": "28377",
-            "nombre": "Cr 88 S A P I De Cv",
+            "nombre": "Cr 88, S.A.P.I. De C.V.",
             "cre_id": "PL/24408/EXP/ES/2022",
             "coords": {
                 "lat": 19.35779,
@@ -8741,7 +8741,7 @@
         },
         {
             "id": "28378",
-            "nombre": "Cr 88 S A P I De Cv",
+            "nombre": "Cr 88, S.A.P.I. De C.V.",
             "cre_id": "PL/24409/EXP/ES/2022",
             "coords": {
                 "lat": 19.43173,
@@ -8754,7 +8754,7 @@
         },
         {
             "id": "28379",
-            "nombre": "Cr 88 S A P I De Cv",
+            "nombre": "Cr 88, S.A.P.I. De C.V.",
             "cre_id": "PL/24410/EXP/ES/2022",
             "coords": {
                 "lat": 19.44569,
@@ -8767,7 +8767,7 @@
         },
         {
             "id": "28398",
-            "nombre": "Servicio Morales Morales Sa De Cv",
+            "nombre": "Servicio Morales Morales S.A. De C.V.",
             "cre_id": "PL/24588/EXP/ES/2022",
             "coords": {
                 "lat": 19.36586,
@@ -8781,7 +8781,7 @@
         },
         {
             "id": "28431",
-            "nombre": "Combustibles Jt.Vp. Sa De Cv",
+            "nombre": "Combustibles Jt.Vp. Sociedad Anonima De Capital Variable",
             "cre_id": "PL/24602/EXP/ES/2022",
             "coords": {
                 "lat": 19.36471,
@@ -8795,7 +8795,7 @@
         },
         {
             "id": "28506",
-            "nombre": "Cr 88 S A P I De Cv",
+            "nombre": "Cr 88, S.A.P.I. De C.V.",
             "cre_id": "PL/24685/EXP/ES/2022",
             "coords": {
                 "lat": 19.43943,
@@ -8808,7 +8808,7 @@
         },
         {
             "id": "28518",
-            "nombre": "Cr 88 S A P I De Cv",
+            "nombre": "Cr 88, S.A.P.I. De C.V.",
             "cre_id": "PL/24695/EXP/ES/2022",
             "coords": {
                 "lat": 19.54028,
@@ -8822,7 +8822,7 @@
         },
         {
             "id": "28646",
-            "nombre": "Derivados De Petroleo Castilla Sa De Cv",
+            "nombre": "Derivados De Petroleo Castilla S.A. De C.V.",
             "cre_id": "PL/24814/EXP/ES/2023",
             "coords": {
                 "lat": 19.35663,
@@ -8836,7 +8836,7 @@
         },
         {
             "id": "28688",
-            "nombre": "Servicio Yakarta Sa De Cv",
+            "nombre": "Servicio Yakarta, S.A. De C.V.",
             "cre_id": "PL/24855/EXP/ES/2023",
             "coords": {
                 "lat": 19.51287,
@@ -8850,7 +8850,7 @@
         },
         {
             "id": "28730",
-            "nombre": "Hidrocarburos El Puente Sa De Cv",
+            "nombre": "Hidrocarburos El Puente, S.A. De C.V.",
             "cre_id": "PL/24925/EXP/ES/2023",
             "coords": {
                 "lat": 19.36238,
@@ -8864,7 +8864,7 @@
         },
         {
             "id": "28733",
-            "nombre": "Inmobiliaria Rives S De Rl De Cv",
+            "nombre": "Inmobiliaria Rives, S.A. De C.V.",
             "cre_id": "PL/24922/EXP/ES/2023",
             "coords": {
                 "lat": 19.43948,
@@ -8892,7 +8892,7 @@
         },
         {
             "id": "28798",
-            "nombre": "Grupo Inmobiliario Baybarr Sa De Cv",
+            "nombre": "Grupo Inmobiliario Baybarr S.A. De C.V.",
             "cre_id": "PL/24955/EXP/ES/2023",
             "coords": {
                 "lat": 19.36268,
@@ -8906,7 +8906,7 @@
         },
         {
             "id": "28800",
-            "nombre": "Servicio Rumino Sa De Cv",
+            "nombre": "Servicio Rumino, S.A. De C.V.",
             "cre_id": "PL/24957/EXP/ES/2023",
             "coords": {
                 "lat": 19.49219,
@@ -8933,7 +8933,7 @@
         },
         {
             "id": "28857",
-            "nombre": "Servicios Energeticos Magosa Sa De Cv",
+            "nombre": "Servicios Energeticos Magosa, S.A. De C.V.",
             "cre_id": "PL/25018/EXP/ES/2023",
             "coords": {
                 "lat": 19.35404,
@@ -8947,7 +8947,7 @@
         },
         {
             "id": "28861",
-            "nombre": "Transtur Hofra Sa De Cv",
+            "nombre": "Transtur Hofra, S.A. De C.V.",
             "cre_id": "PL/25022/EXP/ES/2023",
             "coords": {
                 "lat": 19.52469,
@@ -8960,7 +8960,7 @@
         },
         {
             "id": "28894",
-            "nombre": "Gasolineria Del Futuro Sa De Cv",
+            "nombre": "Gasolineria Del Futuro, S.A. De C.V.",
             "cre_id": "PL/25048/EXP/ES/2023",
             "coords": {
                 "lat": 19.23539,
@@ -8974,7 +8974,7 @@
         },
         {
             "id": "28955",
-            "nombre": "Cr 88 S A P I De Cv",
+            "nombre": "Cr 88, S.A.P.I. De C.V.",
             "cre_id": "PL/25131/EXP/ES/2023",
             "coords": {
                 "lat": 19.38941,
@@ -8987,7 +8987,7 @@
         },
         {
             "id": "28981",
-            "nombre": "Gasolinera Villa De Guadalupe Sa De Cv",
+            "nombre": "Gasolinera Villa De Guadalupe, S.A. De C.V.",
             "cre_id": "PL/25112/EXP/ES/2023",
             "coords": {
                 "lat": 19.36503,
@@ -9001,7 +9001,7 @@
         },
         {
             "id": "29015",
-            "nombre": "Servicio Marvatina Sa De Cv",
+            "nombre": "Servicio Marvatina, S.A. De C.V.",
             "cre_id": "PL/25186/EXP/ES/2023",
             "coords": {
                 "lat": 19.59077,
@@ -9013,7 +9013,7 @@
         },
         {
             "id": "29242",
-            "nombre": "Servicio Mapedi Sa De Cv",
+            "nombre": "Servicio Mapedi, S.A. De C.V.",
             "cre_id": "PL/25359/EXP/ES/2023",
             "coords": {
                 "lat": 19.45908,
@@ -9027,7 +9027,7 @@
         },
         {
             "id": "29256",
-            "nombre": "Alicante 20 11 Sa De Cv",
+            "nombre": "Alicante 20 11, S.A. De C.V.",
             "cre_id": "PL/25373/EXP/ES/2023",
             "coords": {
                 "lat": 19.39619,
@@ -9041,7 +9041,7 @@
         },
         {
             "id": "29382",
-            "nombre": "Gazpro Sa De Cv",
+            "nombre": "Gazpro, S.A. De C.V.",
             "cre_id": "PL/25502/EXP/ES/2024",
             "coords": {
                 "lat": 19.3635,
@@ -9054,7 +9054,7 @@
         },
         {
             "id": "29535",
-            "nombre": "Pradera Cardenas Sa De Cv",
+            "nombre": "Pradera Cardenas, S.A. De C.V.",
             "cre_id": "PL/25640/EXP/ES/2024",
             "coords": {
                 "lat": 19.36539,
@@ -9068,7 +9068,7 @@
         },
         {
             "id": "29538",
-            "nombre": "Pradera Cardenas Sa De Cv",
+            "nombre": "Pradera Cardenas, S.A. De C.V.",
             "cre_id": "PL/25643/EXP/ES/2024",
             "coords": {
                 "lat": 19.36203,
@@ -9082,7 +9082,7 @@
         },
         {
             "id": "29547",
-            "nombre": "Combustibles Alcantara Sa De Cv",
+            "nombre": "Combustibles Alcantara S.A. De C.V.",
             "cre_id": "PL/25652/EXP/ES/2024",
             "coords": {
                 "lat": 19.27753,
@@ -9096,7 +9096,7 @@
         },
         {
             "id": "29675",
-            "nombre": "Servicio Estriunfoli Sa De Cv",
+            "nombre": "Servicio Estriunfoli, S.A. De C.V.",
             "cre_id": "PL/25759/EXP/ES/2024",
             "coords": {
                 "lat": 19.32571,
@@ -9109,7 +9109,7 @@
         },
         {
             "id": "29685",
-            "nombre": "Grupo Gasoltec Sa De Cv",
+            "nombre": "Grupo Gasoltec, S.A. De C.V.",
             "cre_id": "PL/25745/EXP/ES/2024",
             "coords": {
                 "lat": 19.48928,
@@ -9151,7 +9151,7 @@
         },
         {
             "id": "30160",
-            "nombre": "Servicio Rumino Sa De Cv",
+            "nombre": "Servicio Rumino S.A. De C.V.",
             "cre_id": "PL/26190/EXP/ES/2025",
             "coords": {
                 "lat": 19.39858,
@@ -9164,7 +9164,7 @@
         },
         {
             "id": "30164",
-            "nombre": "Beyond Energy Sa De Cv",
+            "nombre": "Beyond Energy, S.A. De C.V.",
             "cre_id": "PL/26194/EXP/ES/2025",
             "coords": {
                 "lat": 19.55498,
