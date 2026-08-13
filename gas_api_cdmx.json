@@ -1,6 +1,6 @@
 {
     "_resumen_rapido": {
-        "ultima_actualizacion": "2026-08-12 08:50:51",
+        "ultima_actualizacion": "2026-08-13 08:50:50",
         "promedio_regular_cdmx": "$23.75 MXN",
         "promedio_premium_cdmx": "$28.58 MXN",
         "total_estaciones_activas": 679
@@ -357,8 +357,8 @@
                 "lon": -99.27599
             },
             "precios": {
+                "premium": 27.94,
                 "regular": 23.78,
-                "premium": 28.06,
                 "diesel": 27.0
             }
         },
@@ -1153,7 +1153,7 @@
                 "lon": -99.06361
             },
             "precios": {
-                "regular": 23.75,
+                "regular": 23.99,
                 "premium": 28.19,
                 "diesel": 26.99
             }
@@ -1274,8 +1274,8 @@
                 "lon": -99.08173
             },
             "precios": {
+                "premium": 28.99,
                 "regular": 23.99,
-                "premium": 28.89,
                 "diesel": 26.99
             }
         },
@@ -4812,8 +4812,8 @@
                 "lon": -99.17471
             },
             "precios": {
-                "regular": 23.99,
-                "premium": 28.99
+                "regular": 23.59,
+                "premium": 28.49
             }
         },
         {
@@ -8092,8 +8092,8 @@
                 "lon": -99.15266
             },
             "precios": {
-                "regular": 23.35,
-                "premium": 27.85,
+                "regular": 23.29,
+                "premium": 27.79,
                 "diesel": 26.95
             }
         },
@@ -9024,7 +9024,7 @@
                 "lon": -99.18496
             },
             "precios": {
-                "premium": 26.77,
+                "premium": 26.5,
                 "regular": 20.58
             }
         },
