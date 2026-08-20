@@ -1,8 +1,8 @@
 {
     "_resumen_rapido": {
-        "ultima_actualizacion": "2026-08-19 08:25:21",
+        "ultima_actualizacion": "2026-08-20 08:28:37",
         "promedio_regular_cdmx": "$23.76 MXN",
-        "promedio_premium_cdmx": "$28.58 MXN",
+        "promedio_premium_cdmx": "$28.59 MXN",
         "total_estaciones_activas": 679
     },
     "metadata": {
@@ -1209,8 +1209,8 @@
             },
             "precios": {
                 "regular": 23.02,
-                "premium": 27.23,
-                "diesel": 26.74
+                "diesel": 26.74,
+                "premium": 27.23
             }
         },
         {
@@ -1555,8 +1555,8 @@
                 "lon": -99.20559
             },
             "precios": {
-                "premium": 28.99,
-                "regular": 23.69
+                "regular": 23.69,
+                "premium": 28.99
             }
         },
         {
@@ -1633,9 +1633,9 @@
                 "lon": -99.29659
             },
             "precios": {
-                "regular": 23.99,
                 "diesel": 26.99,
-                "premium": 28.99
+                "premium": 28.99,
+                "regular": 23.99
             }
         },
         {
@@ -1820,8 +1820,8 @@
                 "lon": -99.02178
             },
             "precios": {
-                "premium": 28.35,
-                "regular": 22.95
+                "regular": 22.89,
+                "premium": 28.35
             }
         },
         {
@@ -1888,7 +1888,7 @@
                 "lon": -99.21875
             },
             "precios": {
-                "regular": 24.39,
+                "regular": 23.99,
                 "premium": 29.39
             }
         },
@@ -2104,8 +2104,8 @@
                 "lon": -99.03967
             },
             "precios": {
+                "diesel": 26.99,
                 "premium": 27.99,
-                "diesel": 27.0,
                 "regular": 22.99
             }
         },
@@ -2211,8 +2211,8 @@
                 "lon": -99.24909
             },
             "precios": {
-                "regular": 23.99,
-                "premium": 28.99
+                "premium": 28.99,
+                "regular": 23.99
             }
         },
         {
@@ -3044,8 +3044,8 @@
                 "lon": -99.07385
             },
             "precios": {
+                "premium": 28.8,
                 "regular": 23.99,
-                "premium": 28.6,
                 "diesel": 27.0
             }
         },
@@ -3113,7 +3113,7 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 28.6,
+                "premium": 28.8,
                 "diesel": 27.0
             }
         },
@@ -3319,7 +3319,7 @@
                 "lon": -99.17207
             },
             "precios": {
-                "regular": 23.79,
+                "regular": 23.99,
                 "premium": 28.39
             }
         },
@@ -3455,7 +3455,7 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 28.64
+                "premium": 28.7
             }
         },
         {
@@ -3521,8 +3521,8 @@
                 "lon": -99.10009
             },
             "precios": {
-                "regular": 23.99,
-                "premium": 27.99
+                "premium": 28.8,
+                "regular": 23.99
             }
         },
         {
@@ -3696,8 +3696,8 @@
                 "lon": -99.10093
             },
             "precios": {
-                "regular": 23.57,
-                "premium": 28.19
+                "premium": 28.59,
+                "regular": 23.57
             }
         },
         {
@@ -4016,7 +4016,7 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 28.8
+                "premium": 28.9
             }
         },
         {
@@ -4494,7 +4494,7 @@
         },
         {
             "id": "7619",
-            "nombre": "Estación De Servicio Calzada De La Viga, S. De R.L. De C.V.",
+            "nombre": "Estacion De Servicio Calzada De La Viga S De Rl De Cv",
             "cre_id": "PL/6369/EXP/ES/2015",
             "coords": {
                 "lat": 19.40696,
@@ -4703,8 +4703,8 @@
                 "lon": -99.26719
             },
             "precios": {
+                "premium": 28.13,
                 "regular": 23.78,
-                "premium": 27.94,
                 "diesel": 27.0
             }
         },
@@ -6100,7 +6100,7 @@
             },
             "precios": {
                 "regular": 23.3,
-                "premium": 27.97
+                "premium": 28.01
             }
         },
         {
@@ -7334,8 +7334,8 @@
                 "lon": -99.14959
             },
             "precios": {
+                "premium": 27.59,
                 "regular": 23.39,
-                "premium": 27.57,
                 "diesel": 26.99
             }
         },
@@ -7926,9 +7926,9 @@
                 "lon": -98.96365
             },
             "precios": {
-                "regular": 23.19,
-                "diesel": 26.95,
-                "premium": 27.49
+                "regular": 22.99,
+                "premium": 27.49,
+                "diesel": 26.95
             }
         },
         {
@@ -8093,7 +8093,7 @@
             },
             "precios": {
                 "regular": 23.29,
-                "premium": 27.75,
+                "premium": 27.79,
                 "diesel": 26.99
             }
         },
