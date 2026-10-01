@@ -1,9 +1,9 @@
 {
     "_resumen_rapido": {
-        "ultima_actualizacion": "2026-09-30 12:44:34",
+        "ultima_actualizacion": "2026-10-01 13:10:59",
         "promedio_regular_cdmx": "$23.76 MXN",
         "promedio_premium_cdmx": "$28.69 MXN",
-        "total_estaciones_activas": 678
+        "total_estaciones_activas": 677
     },
     "metadata": {
         "nota": "Filtro geográfico de alta precisión aplicado.",
@@ -73,7 +73,7 @@
                 "lon": -99.02091
             },
             "precios": {
-                "regular": 24.19,
+                "regular": 23.99,
                 "premium": 28.79,
                 "diesel": 27.0
             }
@@ -223,7 +223,7 @@
                 "lon": -99.24943
             },
             "precios": {
-                "premium": 29.59,
+                "premium": 29.49,
                 "regular": 24.19
             }
         },
@@ -479,7 +479,7 @@
                 "lon": -99.27911
             },
             "precios": {
-                "regular": 24.19,
+                "regular": 23.99,
                 "premium": 29.89,
                 "diesel": 27.0
             }
@@ -1358,7 +1358,7 @@
                 "lon": -99.26801
             },
             "precios": {
-                "regular": 24.19,
+                "regular": 23.99,
                 "premium": 29.89
             }
         },
@@ -3071,7 +3071,7 @@
             },
             "precios": {
                 "regular": 23.29,
-                "premium": 27.69,
+                "premium": 27.79,
                 "diesel": 26.99
             }
         },
@@ -3396,8 +3396,8 @@
                 "lon": -99.2365
             },
             "precios": {
-                "regular": 23.89,
-                "premium": 28.59,
+                "regular": 23.93,
+                "premium": 28.69,
                 "diesel": 26.99
             }
         },
@@ -5993,18 +5993,6 @@
             }
         },
         {
-            "id": "9782",
-            "nombre": "Estacion La Laguna Sa De Cv",
-            "cre_id": "PL/8462/EXP/ES/2015",
-            "coords": {
-                "lat": 19.44039,
-                "lon": -99.12089
-            },
-            "precios": {
-                "premium": 27.15
-            }
-        },
-        {
             "id": "9802",
             "nombre": "Julia Amaro Cota",
             "cre_id": "PL/8654/EXP/ES/2015",
@@ -6041,8 +6029,8 @@
                 "lon": -99.25224
             },
             "precios": {
-                "regular": 23.29,
-                "premium": 27.79,
+                "regular": 23.27,
+                "premium": 27.72,
                 "diesel": 26.98
             }
         },
@@ -6594,8 +6582,8 @@
                 "lon": -99.14932
             },
             "precios": {
+                "regular": 23.63,
                 "premium": 28.79,
-                "regular": 23.79,
                 "diesel": 26.99
             }
         },
@@ -7011,8 +6999,7 @@
             },
             "precios": {
                 "diesel": 26.95,
-                "premium": 27.39,
-                "regular": 22.89
+                "premium": 27.39
             }
         },
         {
@@ -8061,7 +8048,7 @@
                 "lon": -99.29434
             },
             "precios": {
-                "regular": 24.19,
+                "regular": 23.99,
                 "premium": 29.89,
                 "diesel": 27.0
             }
@@ -8075,7 +8062,7 @@
                 "lon": -99.279
             },
             "precios": {
-                "regular": 24.19,
+                "regular": 23.99,
                 "premium": 29.89,
                 "diesel": 27.0
             }
@@ -8089,7 +8076,7 @@
                 "lon": -99.15266
             },
             "precios": {
-                "regular": 23.25,
+                "regular": 23.29,
                 "premium": 27.65,
                 "diesel": 26.85
             }
@@ -8117,7 +8104,7 @@
                 "lon": -99.23094
             },
             "precios": {
-                "regular": 23.89,
+                "regular": 23.69,
                 "premium": 28.49,
                 "diesel": 26.99
             }
@@ -8335,7 +8322,7 @@
                 "lon": -99.29562
             },
             "precios": {
-                "regular": 24.19,
+                "regular": 23.99,
                 "premium": 29.89,
                 "diesel": 27.0
             }
@@ -8636,7 +8623,7 @@
                 "lon": -99.29665
             },
             "precios": {
-                "regular": 24.19,
+                "regular": 23.99,
                 "premium": 28.99,
                 "diesel": 27.0
             }
@@ -8856,8 +8843,8 @@
                 "lon": -99.1898
             },
             "precios": {
-                "regular": 20.49,
-                "diesel": 26.99,
+                "regular": 20.09,
+                "diesel": 26.49,
                 "premium": 23.99
             }
         },
@@ -8993,7 +8980,7 @@
                 "lon": -99.29288
             },
             "precios": {
-                "regular": 23.79,
+                "regular": 23.89,
                 "premium": 29.29,
                 "diesel": 27.0
             }
