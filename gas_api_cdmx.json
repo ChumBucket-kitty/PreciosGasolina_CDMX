@@ -1,6 +1,6 @@
 {
     "_resumen_rapido": {
-        "ultima_actualizacion": "2026-10-21 12:19:18",
+        "ultima_actualizacion": "2026-10-22 12:13:20",
         "promedio_regular_cdmx": "$23.78 MXN",
         "promedio_premium_cdmx": "$28.66 MXN",
         "total_estaciones_activas": 676
@@ -101,7 +101,7 @@
                 "lon": -99.08196
             },
             "precios": {
-                "premium": 29.49,
+                "premium": 29.29,
                 "regular": 23.99,
                 "diesel": 27.0
             }
@@ -182,8 +182,8 @@
                 "lon": -99.09545
             },
             "precios": {
+                "premium": 29.29,
                 "regular": 23.99,
-                "premium": 29.69,
                 "diesel": 27.0
             }
         },
@@ -310,7 +310,7 @@
         },
         {
             "id": "2390",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Select Operations Sa De Cv",
             "cre_id": "PL/787/EXP/ES/2015",
             "coords": {
                 "lat": 19.4153,
@@ -622,7 +622,7 @@
         },
         {
             "id": "2689",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Select Operations Sa De Cv",
             "cre_id": "PL/1466/EXP/ES/2015",
             "coords": {
                 "lat": 19.38143,
@@ -635,7 +635,7 @@
         },
         {
             "id": "2691",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Select Operations Sa De Cv",
             "cre_id": "PL/1464/EXP/ES/2015",
             "coords": {
                 "lat": 19.52043,
@@ -676,7 +676,7 @@
         },
         {
             "id": "2715",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Select Operations Sa De Cv",
             "cre_id": "PL/1444/EXP/ES/2015",
             "coords": {
                 "lat": 19.43496,
@@ -776,7 +776,7 @@
                 "lon": -99.05354
             },
             "precios": {
-                "premium": 28.69,
+                "premium": 28.99,
                 "regular": 23.99,
                 "diesel": 27.0
             }
@@ -899,7 +899,7 @@
                 "lon": -99.06293
             },
             "precios": {
-                "premium": 29.59,
+                "premium": 29.29,
                 "regular": 23.99,
                 "diesel": 27.0
             }
@@ -919,7 +919,7 @@
         },
         {
             "id": "2829",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Select Operations Sa De Cv",
             "cre_id": "PL/963/EXP/ES/2015",
             "coords": {
                 "lat": 19.36459,
@@ -927,7 +927,7 @@
             },
             "precios": {
                 "regular": 24.09,
-                "premium": 29.29
+                "premium": 28.99
             }
         },
         {
@@ -987,7 +987,7 @@
         },
         {
             "id": "2885",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Select Operations Sa De Cv",
             "cre_id": "PL/1144/EXP/ES/2015",
             "coords": {
                 "lat": 19.36013,
@@ -995,7 +995,7 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 29.19
+                "premium": 28.99
             }
         },
         {
@@ -1034,8 +1034,8 @@
                 "lon": -99.15014
             },
             "precios": {
-                "regular": 23.99,
-                "premium": 29.29
+                "premium": 29.49,
+                "regular": 23.99
             }
         },
         {
@@ -1738,7 +1738,7 @@
                 "lon": -99.05446
             },
             "precios": {
-                "premium": 28.69,
+                "premium": 28.99,
                 "regular": 23.99
             }
         },
@@ -4147,7 +4147,7 @@
             },
             "precios": {
                 "regular": 23.89,
-                "premium": 28.79,
+                "premium": 28.99,
                 "diesel": 26.99
             }
         },
@@ -4255,7 +4255,7 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 28.79
+                "premium": 28.99
             }
         },
         {
@@ -5462,7 +5462,7 @@
         },
         {
             "id": "8637",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Select Operations Sa De Cv",
             "cre_id": "PL/8008/EXP/ES/2015",
             "coords": {
                 "lat": 19.48268,
@@ -5470,7 +5470,7 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 28.99,
+                "premium": 29.39,
                 "diesel": 27.49
             }
         },
@@ -6351,8 +6351,8 @@
                 "lon": -99.15761
             },
             "precios": {
-                "premium": 28.48,
-                "regular": 23.59
+                "regular": 23.69,
+                "premium": 28.48
             }
         },
         {
@@ -6673,8 +6673,8 @@
                 "lon": -99.1377
             },
             "precios": {
-                "premium": 29.29,
-                "regular": 24.79
+                "regular": 23.99,
+                "premium": 29.29
             }
         },
         {
@@ -7087,7 +7087,7 @@
         },
         {
             "id": "11334",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Select Operations Sa De Cv",
             "cre_id": "PL/8147/EXP/ES/2015",
             "coords": {
                 "lat": 19.45798,
@@ -7373,8 +7373,8 @@
                 "lon": -99.02317
             },
             "precios": {
-                "regular": 23.39,
-                "premium": 28.39
+                "regular": 23.89,
+                "premium": 28.89
             }
         },
         {
@@ -7565,7 +7565,7 @@
         },
         {
             "id": "13389",
-            "nombre": "Gpdc Estaciones De Servicio Sa De Cv",
+            "nombre": "Select Operations Sa De Cv",
             "cre_id": "PL/11256/EXP/ES/2015",
             "coords": {
                 "lat": 19.4718,
@@ -7573,7 +7573,7 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 28.99,
+                "premium": 29.49,
                 "diesel": 26.99
             }
         },
@@ -8062,7 +8062,7 @@
                 "lon": -99.15266
             },
             "precios": {
-                "regular": 23.35,
+                "regular": 23.45,
                 "premium": 27.85,
                 "diesel": 26.99
             }
@@ -8255,7 +8255,7 @@
                 "lon": -99.27085
             },
             "precios": {
-                "premium": 28.69,
+                "premium": 28.39,
                 "regular": 23.69
             }
         },
@@ -8501,7 +8501,7 @@
                 "lon": -99.20277
             },
             "precios": {
-                "premium": 28.29,
+                "premium": 28.09,
                 "regular": 23.29
             }
         },
