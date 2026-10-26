@@ -1,6 +1,6 @@
 {
     "_resumen_rapido": {
-        "ultima_actualizacion": "2026-10-25 11:20:15",
+        "ultima_actualizacion": "2026-10-26 13:40:24",
         "promedio_regular_cdmx": "$23.78 MXN",
         "promedio_premium_cdmx": "$28.65 MXN",
         "total_estaciones_activas": 676
@@ -3693,8 +3693,8 @@
                 "lon": -99.10093
             },
             "precios": {
-                "regular": 22.83,
-                "premium": 28.57
+                "regular": 22.97,
+                "premium": 28.39
             }
         },
         {
@@ -6000,7 +6000,7 @@
                 "lon": -99.00134
             },
             "precios": {
-                "regular": 22.71,
+                "regular": 22.89,
                 "premium": 27.99,
                 "diesel": 26.95
             }
