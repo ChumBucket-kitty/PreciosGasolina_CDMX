@@ -1,6 +1,6 @@
 {
     "_resumen_rapido": {
-        "ultima_actualizacion": "2026-10-30 12:56:14",
+        "ultima_actualizacion": "2026-10-31 12:05:22",
         "promedio_regular_cdmx": "$23.78 MXN",
         "promedio_premium_cdmx": "$28.65 MXN",
         "total_estaciones_activas": 675
@@ -249,9 +249,9 @@
                 "lon": -99.20648
             },
             "precios": {
-                "diesel": 27.49,
                 "regular": 23.99,
-                "premium": 29.99
+                "premium": 29.99,
+                "diesel": 27.49
             }
         },
         {
@@ -344,8 +344,8 @@
                 "lon": -99.18764
             },
             "precios": {
-                "regular": 23.99,
-                "premium": 29.39
+                "regular": 24.69,
+                "premium": 29.99
             }
         },
         {
@@ -411,8 +411,8 @@
                 "lon": -99.05207
             },
             "precios": {
-                "premium": 29.39,
                 "regular": 23.99,
+                "premium": 29.39,
                 "diesel": 27.0
             }
         },
@@ -899,8 +899,8 @@
                 "lon": -99.06293
             },
             "precios": {
-                "premium": 28.99,
                 "regular": 23.99,
+                "premium": 28.99,
                 "diesel": 27.0
             }
         },
@@ -1527,8 +1527,8 @@
                 "lon": -99.03146
             },
             "precios": {
-                "premium": 27.99,
-                "regular": 22.99
+                "regular": 22.99,
+                "premium": 27.99
             }
         },
         {
@@ -2194,8 +2194,8 @@
             },
             "precios": {
                 "regular": 23.99,
-                "diesel": 27.0,
-                "premium": 28.99
+                "premium": 28.99,
+                "diesel": 27.0
             }
         },
         {
@@ -2916,7 +2916,7 @@
                 "lon": -99.05661
             },
             "precios": {
-                "regular": 23.99,
+                "regular": 23.89,
                 "premium": 27.99,
                 "diesel": 26.99
             }
@@ -3070,7 +3070,7 @@
             },
             "precios": {
                 "regular": 23.39,
-                "premium": 27.29,
+                "premium": 27.79,
                 "diesel": 26.99
             }
         },
@@ -3177,7 +3177,7 @@
                 "lon": -99.19801
             },
             "precios": {
-                "regular": 23.57,
+                "regular": 22.99,
                 "premium": 27.97,
                 "diesel": 26.99
             }
@@ -3246,8 +3246,8 @@
                 "lon": -98.99766
             },
             "precios": {
-                "premium": 28.69,
                 "regular": 23.99,
+                "premium": 28.69,
                 "diesel": 27.0
             }
         },
@@ -3477,7 +3477,7 @@
                 "lon": -99.07862
             },
             "precios": {
-                "regular": 23.55,
+                "regular": 23.45,
                 "premium": 28.79,
                 "diesel": 26.95
             }
@@ -3599,8 +3599,8 @@
                 "lon": -99.03633
             },
             "precios": {
-                "premium": 28.49,
-                "regular": 23.79
+                "regular": 23.79,
+                "premium": 28.49
             }
         },
         {
@@ -3679,9 +3679,9 @@
                 "lon": -99.11272
             },
             "precios": {
-                "premium": 28.99,
+                "regular": 23.99,
                 "diesel": 27.0,
-                "regular": 23.99
+                "premium": 28.6
             }
         },
         {
@@ -3706,7 +3706,7 @@
                 "lon": -99.12196
             },
             "precios": {
-                "regular": 22.99,
+                "regular": 22.58,
                 "premium": 28.49
             }
         },
@@ -3944,8 +3944,8 @@
                 "lon": -99.20802
             },
             "precios": {
-                "regular": 23.78,
-                "premium": 28.79,
+                "regular": 23.68,
+                "premium": 28.69,
                 "diesel": 26.98
             }
         },
@@ -4065,7 +4065,7 @@
                 "lon": -99.20667
             },
             "precios": {
-                "regular": 23.49,
+                "regular": 23.59,
                 "premium": 28.39,
                 "diesel": 26.99
             }
@@ -4309,7 +4309,7 @@
                 "lon": -99.2085
             },
             "precios": {
-                "regular": 23.49,
+                "regular": 23.59,
                 "premium": 27.99,
                 "diesel": 26.99
             }
@@ -4404,8 +4404,8 @@
                 "lon": -99.14552
             },
             "precios": {
-                "premium": 27.89,
-                "regular": 23.29
+                "regular": 23.29,
+                "premium": 27.89
             }
         },
         {
@@ -4524,9 +4524,9 @@
                 "lon": -98.99248
             },
             "precios": {
-                "regular": 23.55,
-                "premium": 27.95,
-                "diesel": 26.95
+                "regular": 23.5,
+                "premium": 27.9,
+                "diesel": 26.89
             }
         },
         {
@@ -4580,8 +4580,8 @@
                 "lon": -99.06476
             },
             "precios": {
-                "premium": 28.99,
                 "regular": 23.99,
+                "premium": 28.99,
                 "diesel": 27.0
             }
         },
@@ -4647,8 +4647,8 @@
                 "lon": -99.13892
             },
             "precios": {
-                "premium": 28.05,
-                "regular": 23.2
+                "regular": 23.2,
+                "premium": 28.05
             }
         },
         {
@@ -4782,8 +4782,8 @@
                 "lon": -99.15102
             },
             "precios": {
-                "premium": 28.29,
-                "regular": 23.39
+                "regular": 23.39,
+                "premium": 28.29
             }
         },
         {
@@ -5456,9 +5456,9 @@
                 "lon": -98.95952
             },
             "precios": {
-                "regular": 23.34,
                 "premium": 27.99,
-                "diesel": 26.99
+                "diesel": 26.99,
+                "regular": 23.34
             }
         },
         {
@@ -5497,8 +5497,8 @@
                 "lon": -99.04013
             },
             "precios": {
-                "premium": 27.88,
                 "regular": 23.57,
+                "premium": 27.88,
                 "diesel": 26.99
             }
         },
@@ -5634,8 +5634,8 @@
                 "lon": -99.07579
             },
             "precios": {
-                "premium": 28.26,
                 "regular": 23.9,
+                "premium": 28.26,
                 "diesel": 26.97
             }
         },
@@ -6029,7 +6029,7 @@
             },
             "precios": {
                 "regular": 23.23,
-                "premium": 27.97,
+                "premium": 27.79,
                 "diesel": 26.98
             }
         },
@@ -6097,7 +6097,7 @@
             },
             "precios": {
                 "regular": 23.37,
-                "premium": 27.97,
+                "premium": 27.91,
                 "diesel": 26.99
             }
         },
@@ -6259,9 +6259,9 @@
                 "lon": -98.96363
             },
             "precios": {
+                "regular": 23.19,
                 "premium": 27.99,
-                "diesel": 26.89,
-                "regular": 22.98
+                "diesel": 26.89
             }
         },
         {
@@ -6326,7 +6326,7 @@
             },
             "precios": {
                 "regular": 23.99,
-                "premium": 28.5,
+                "premium": 28.2,
                 "diesel": 27.0
             }
         },
@@ -6444,8 +6444,8 @@
                 "lon": -99.22812
             },
             "precios": {
-                "regular": 23.31,
-                "premium": 27.99
+                "premium": 27.99,
+                "regular": 23.31
             }
         },
         {
@@ -6470,8 +6470,8 @@
                 "lon": -99.29348
             },
             "precios": {
-                "premium": 28.49,
                 "regular": 23.99,
+                "premium": 28.49,
                 "diesel": 27.0
             }
         },
@@ -7454,8 +7454,8 @@
                 "lon": -99.17289
             },
             "precios": {
-                "premium": 28.99,
-                "regular": 23.99
+                "regular": 23.99,
+                "premium": 28.99
             }
         },
         {
@@ -8063,8 +8063,8 @@
                 "lon": -99.15266
             },
             "precios": {
-                "regular": 23.25,
-                "premium": 27.89,
+                "regular": 23.29,
+                "premium": 27.85,
                 "diesel": 26.99
             }
         },
@@ -8119,8 +8119,8 @@
                 "lon": -99.19241
             },
             "precios": {
-                "premium": 28.99,
-                "regular": 23.99
+                "regular": 23.99,
+                "premium": 28.99
             }
         },
         {
@@ -8257,8 +8257,8 @@
                 "lon": -99.27085
             },
             "precios": {
-                "premium": 27.79,
-                "regular": 23.69
+                "regular": 23.69,
+                "premium": 27.79
             }
         },
         {
@@ -8598,8 +8598,8 @@
                 "lon": -99.29665
             },
             "precios": {
-                "premium": 28.99,
                 "regular": 23.99,
+                "premium": 28.99,
                 "diesel": 27.0
             }
         },
@@ -8832,9 +8832,9 @@
                 "lon": -99.19052
             },
             "precios": {
-                "regular": 21.89,
                 "premium": 26.99,
-                "diesel": 25.3
+                "diesel": 25.3,
+                "regular": 21.89
             }
         },
         {
@@ -9037,7 +9037,7 @@
                 "lon": -99.15259
             },
             "precios": {
-                "regular": 23.39,
+                "regular": 22.97,
                 "premium": 27.97,
                 "diesel": 26.48
             }
@@ -9119,8 +9119,8 @@
                 "lon": -99.19012
             },
             "precios": {
-                "premium": 28.66,
                 "regular": 23.97,
+                "premium": 28.66,
                 "diesel": 26.96
             }
         }
