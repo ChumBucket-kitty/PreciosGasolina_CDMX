@@ -1,9 +1,9 @@
 {
     "_resumen_rapido": {
-        "ultima_actualizacion": "2026-11-09 17:13:59",
+        "ultima_actualizacion": "2026-11-10 14:40:06",
         "promedio_regular_cdmx": "$23.78 MXN",
         "promedio_premium_cdmx": "$28.63 MXN",
-        "total_estaciones_activas": 675
+        "total_estaciones_activas": 674
     },
     "metadata": {
         "nota": "Filtro geográfico de alta precisión aplicado.",
@@ -1618,8 +1618,7 @@
                 "lon": -99.04263
             },
             "precios": {
-                "regular": 23.75,
-                "premium": 27.99
+                "regular": 23.75
             }
         },
         {
@@ -1832,8 +1831,7 @@
             },
             "precios": {
                 "regular": 22.99,
-                "diesel": 26.85,
-                "premium": 27.99
+                "diesel": 26.85
             }
         },
         {
@@ -1982,19 +1980,6 @@
                 "regular": 23.99,
                 "premium": 28.49,
                 "diesel": 27.0
-            }
-        },
-        {
-            "id": "3512",
-            "nombre": "Servicio El Barco S.A. De C.V.",
-            "cre_id": "PL/1876/EXP/ES/2015",
-            "coords": {
-                "lat": 19.42048,
-                "lon": -99.04861
-            },
-            "precios": {
-                "regular": 22.99,
-                "premium": 27.99
             }
         },
         {
@@ -2944,7 +2929,7 @@
                 "lon": -99.16333
             },
             "precios": {
-                "regular": 23.99,
+                "regular": 23.89,
                 "premium": 28.19,
                 "diesel": 26.99
             }
@@ -4524,9 +4509,9 @@
                 "lon": -98.99248
             },
             "precios": {
+                "diesel": 26.9,
                 "regular": 23.57,
-                "premium": 27.86,
-                "diesel": 26.93
+                "premium": 27.86
             }
         },
         {
@@ -4538,9 +4523,9 @@
                 "lon": -99.0181
             },
             "precios": {
+                "diesel": 26.9,
                 "regular": 23.57,
-                "premium": 27.86,
-                "diesel": 26.93
+                "premium": 27.86
             }
         },
         {
@@ -5159,7 +5144,7 @@
                 "lon": -99.1952
             },
             "precios": {
-                "regular": 23.89,
+                "regular": 23.69,
                 "premium": 28.39,
                 "diesel": 26.99
             }
@@ -5743,8 +5728,8 @@
                 "lon": -99.11384
             },
             "precios": {
-                "regular": 23.6,
-                "premium": 27.99,
+                "regular": 23.62,
+                "premium": 27.97,
                 "diesel": 27.0
             }
         },
@@ -6029,7 +6014,7 @@
             },
             "precios": {
                 "regular": 23.23,
-                "premium": 27.85,
+                "premium": 27.71,
                 "diesel": 26.98
             }
         },
@@ -6097,7 +6082,7 @@
             },
             "precios": {
                 "regular": 23.37,
-                "premium": 27.75,
+                "premium": 27.62,
                 "diesel": 26.99
             }
         },
@@ -6674,7 +6659,7 @@
                 "lon": -99.1377
             },
             "precios": {
-                "regular": 24.49,
+                "regular": 24.0,
                 "premium": 29.39
             }
         },
@@ -8257,8 +8242,8 @@
                 "lon": -99.27085
             },
             "precios": {
-                "regular": 23.39,
-                "premium": 27.79
+                "regular": 23.19,
+                "premium": 27.39
             }
         },
         {
@@ -8860,7 +8845,7 @@
                 "lon": -98.9674
             },
             "precios": {
-                "regular": 23.99,
+                "regular": 23.39,
                 "premium": 27.99,
                 "diesel": 26.99
             }
